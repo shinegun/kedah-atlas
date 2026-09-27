@@ -1,7 +1,7 @@
 [project]
 name = "kedah-atlas"
 version = "0.1.0"
-description = "Atlas Kedah data pipeline"
+description = "KedahKu data pipeline"
 requires-python = ">=3.12"
 dependencies = [
     "duckdb>=1.5.5",

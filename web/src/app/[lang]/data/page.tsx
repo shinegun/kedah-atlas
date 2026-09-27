@@ -21,8 +21,8 @@ export default async function Data({ params }: PageProps<"/[lang]/data">) {
       <h1>{t(lang).nav.data}</h1>
       <p className="lede secondary">
         {tx(lang,
-          "Semua data yang digunakan di laman ini boleh dimuat turun. Sila nyatakan sumber asal (DOSM) dan Atlas Kedah apabila menggunakan data ini.",
-          "All data used on this site can be downloaded. Please credit the original source (DOSM) and Atlas Kedah when you use it.")}
+          "Semua data yang digunakan di laman ini boleh dimuat turun. Sila nyatakan sumber asal (DOSM) dan KedahKu apabila menggunakan data ini.",
+          "All data used on this site can be downloaded. Please credit the original source (DOSM) and KedahKu when you use it.")}
       </p>
       <section>
         <h2>{tx(lang, "Muat turun", "Downloads")}</h2>

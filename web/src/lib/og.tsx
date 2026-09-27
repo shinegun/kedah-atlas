@@ -6,6 +6,7 @@ import { ImageResponse } from "next/og";
 import { geoMercator, geoPath } from "d3-geo";
 import type { FeatureCollection, Geometry } from "geojson";
 import geo from "@/data/kedah.geo.json";
+import BrandMark, { MARK } from "@/components/BrandMark";
 import { districts } from "@/lib/atlas";
 
 export const OG_SIZE = { width: 1200, height: 630 };
@@ -26,8 +27,12 @@ export function ogCard({ kicker, title, stat, statLabel, highlight }: Card) {
       <div style={{ width: "100%", height: "100%", display: "flex", background: "#123a26", color: "#ffffff", padding: "56px 64px" }}>
         <div style={{ display: "flex", flexDirection: "column", flex: 1, paddingRight: 32 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 14, fontSize: 26, fontWeight: 700 }}>
-            <div style={{ width: 34, height: 34, borderRadius: 8, background: "#7cc98f", display: "flex" }} />
-            Atlas Kedah
+            <BrandMark size={56} bare />
+            <div style={{ display: "flex", fontSize: 30, letterSpacing: -0.5 }}>
+              <span style={{ fontWeight: 700 }}>Kedah</span>
+              {/* Satori adds a word gap between the spans; pull "Ku" back against "Kedah". */}
+              <span style={{ fontWeight: 700, color: MARK.paddy, marginLeft: -4 }}>Ku</span>
+            </div>
           </div>
           <div style={{ marginTop: 44, fontSize: 24, letterSpacing: 3, textTransform: "uppercase", color: "#f2c14e", fontWeight: 700 }}>{kicker}</div>
           <div style={{ marginTop: 12, fontSize: title.length > 42 ? 54 : 64, fontWeight: 800, lineHeight: 1.05, letterSpacing: -1.5 }}>{title}</div>

@@ -10,8 +10,8 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/tentang">)
   return {
     title: tx(lang, "Tentang", "About"),
     description: tx(lang,
-      "Siapa yang membina Atlas Kedah, untuk siapa, dan cara setiap angka dihasilkan.",
-      "Who builds Atlas Kedah, who it is for, and how every number is made."),
+      "Siapa yang membina KedahKu, untuk siapa, dan cara setiap angka dihasilkan.",
+      "Who builds KedahKu, who it is for, and how every number is made."),
   };
 }
 
@@ -43,8 +43,8 @@ export default async function About({ params }: PageProps<"/[lang]/tentang">) {
     {
       title: tx(lang, "Wartawan dan penyelidik", "Journalists and researchers"),
       body: tx(lang,
-        "Muat turun data dalam format CSV, baca kaedah kami dan semak batasannya. Sila petik Atlas Kedah dan DOSM.",
-        "Download the data as CSV, read our methods and check their limits. Please cite Atlas Kedah and DOSM."),
+        "Muat turun data dalam format CSV, baca kaedah kami dan semak batasannya. Sila petik KedahKu dan DOSM.",
+        "Download the data as CSV, read our methods and check their limits. Please cite KedahKu and DOSM."),
       href: L("data/"), cta: tx(lang, "Muat turun data →", "Download the data →"),
     },
     {
@@ -63,8 +63,8 @@ export default async function About({ params }: PageProps<"/[lang]/tentang">) {
       <h1>{tx(lang, "Angka tentang Kedah yang boleh dipercayai, dalam bahasa yang mudah", "Numbers about Kedah you can trust, in plain words")}</h1>
       <p className="lede secondary">
         {tx(lang,
-          `Data tentang ekonomi Kedah wujud, tetapi tersebar dalam laporan PDF, hamparan dan papan pemuka. Atlas Kedah menghimpunkannya untuk ${n} daerah dan menerangkan maksudnya: pekerjaan rakyat, pendapatan mereka dan ke mana ekonomi setiap daerah boleh berkembang.`,
-          `The data on Kedah's economy exists, but it is scattered across PDF reports, spreadsheets and dashboards. Atlas Kedah brings it together for all ${n} districts and explains what it means: what people work in, what they earn, and where each district's economy can grow.`)}
+          `Data tentang ekonomi Kedah wujud, tetapi tersebar dalam laporan PDF, hamparan dan papan pemuka. KedahKu menghimpunkannya untuk ${n} daerah dan menerangkan maksudnya: pekerjaan rakyat, pendapatan mereka dan ke mana ekonomi setiap daerah boleh berkembang.`,
+          `The data on Kedah's economy exists, but it is scattered across PDF reports, spreadsheets and dashboards. KedahKu brings it together for all ${n} districts and explains what it means: what people work in, what they earn, and where each district's economy can grow.`)}
       </p>
 
       <section aria-labelledby="who-h">
@@ -124,7 +124,7 @@ export default async function About({ params }: PageProps<"/[lang]/tentang">) {
 
         <h2>{tx(lang, "Siapa kami", "Who we are")}</h2>
         <p>
-          {tx(lang, "Atlas Kedah ialah projek bebas oleh Aqil Nazri. Kod sumber boleh dilihat di ", "Atlas Kedah is an independent project by Aqil Nazri. The source code is on ")}
+          {tx(lang, "KedahKu ialah projek bebas oleh Aqil Nazri. Kod sumber boleh dilihat di ", "KedahKu is an independent project by Aqil Nazri. The source code is on ")}
           <a href={REPO} target="_blank" rel="noopener noreferrer">GitHub</a>
           {tx(lang, ". Kami mengalu-alukan semakan dan sumbangan daripada penyelidik, perancang dan pembaca.", ". Reviews and contributions from researchers, planners and readers are welcome.")}
         </p>
@@ -132,8 +132,8 @@ export default async function About({ params }: PageProps<"/[lang]/tentang">) {
           {tx(lang, "Projek ini diilhamkan oleh ", "The project was inspired by ")}
           <a href="https://sabah-ku.com/" target="_blank" rel="noopener noreferrer">SabahKu</a>
           {tx(lang,
-            ", atlas ekonomi Sabah oleh Ilham Kassim. SabahKu turut menggunakan data cahaya malam daripada satelit untuk melihat taburan penduduk dan aktiviti ekonomi; Atlas Kedah pula memberi tumpuan kepada pekerjaan rakyat dan ke mana pekerjaan boleh berkembang. Kedua-dua projek dibina secara berasingan.",
-            ", Ilham Kassim's economic atlas of Sabah. SabahKu also uses satellite night-lights data to see where people and economic activity are; Atlas Kedah focuses on the work people do and where jobs can grow. The two projects are built separately.")}
+            ", atlas ekonomi Sabah oleh Ilham Kassim. SabahKu turut menggunakan data cahaya malam daripada satelit untuk melihat taburan penduduk dan aktiviti ekonomi; KedahKu pula memberi tumpuan kepada pekerjaan rakyat dan ke mana pekerjaan boleh berkembang. Kedua-dua projek dibina secara berasingan.",
+            ", Ilham Kassim's economic atlas of Sabah. SabahKu also uses satellite night-lights data to see where people and economic activity are; KedahKu focuses on the work people do and where jobs can grow. The two projects are built separately.")}
         </p>
 
         <h2>{tx(lang, "Lesen", "Licences")}</h2>

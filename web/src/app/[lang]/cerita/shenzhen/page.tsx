@@ -162,7 +162,7 @@ export default async function Shenzhen({ params }: PageProps<"/[lang]/cerita/she
             ]}
           />
           <p className="source">
-            {tr.source}: DOSM, {tx(lang, "KDNK Benar Tahunan mengikut Negeri; Jadual Penduduk: Negeri dan Malaysia. KDNK per kapita dikira oleh Atlas Kedah.", "Annual Real GDP by State; Population Tables: States and Malaysia. GDP per person calculated by Atlas Kedah.")}
+            {tr.source}: DOSM, {tx(lang, "KDNK Benar Tahunan mengikut Negeri; Jadual Penduduk: Negeri dan Malaysia. KDNK per kapita dikira oleh KedahKu.", "Annual Real GDP by State; Population Tables: States and Malaysia. GDP per person calculated by KedahKu.")}
           </p>
         </div>
         <p>

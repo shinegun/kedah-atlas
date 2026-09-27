@@ -2,6 +2,7 @@
 // columns, then the data vintage and licence line. Server component.
 
 import Link from "next/link";
+import BrandMark, { Wordmark } from "@/components/BrandMark";
 import { atlas, districts } from "@/lib/atlas";
 import { t, tx, type Locale } from "@/lib/i18n";
 import { STORIES, storyHref } from "@/lib/stories";
@@ -53,8 +54,8 @@ export default function SiteFooter({ lang }: { lang: Locale }) {
         <div className="sf-top">
           <div className="sf-about">
             <Link href={L("")} className="brand">
-              <span className="brand-mark" aria-hidden="true" />
-              {d.siteName}
+              <BrandMark className="brand-mark" />
+              <Wordmark />
             </Link>
             <p className="sf-tagline">{d.tagline}</p>
             <p className="sf-note">{d.footerNote}</p>

@@ -21,8 +21,8 @@ export default async function Method({ params }: PageProps<"/[lang]/kaedah">) {
         <h1>{tr.nav.method}</h1>
         <p className="lede secondary">
           {tx(lang,
-            "Setiap angka di Atlas Kedah disertakan sumber dan tahun. Setiap angka yang dihasilkan oleh model dilabel ‘Anggaran’ dan diterangkan di halaman ini. Kami tidak membuat sebarang dakwaan yang tidak dapat disokong oleh data.",
-            "Every number on Atlas Kedah has a source and a year. Every modelled number is labelled ‘Estimate’ and explained here. If we can't back a claim with data, we don't make it.")}
+            "Setiap angka di KedahKu disertakan sumber dan tahun. Setiap angka yang dihasilkan oleh model dilabel ‘Anggaran’ dan diterangkan di halaman ini. Kami tidak membuat sebarang dakwaan yang tidak dapat disokong oleh data.",
+            "Every number on KedahKu has a source and a year. Every modelled number is labelled ‘Estimate’ and explained here. If we can't back a claim with data, we don't make it.")}
         </p>
 
         <h2>{tx(lang, "Tiga jenis angka", "Three kinds of number")}</h2>

@@ -8,7 +8,7 @@
 
 Tuan/Puan,
 
-Saya sedang membangunkan **Atlas Kedah**, sebuah platform awam bukan komersial yang memaparkan statistik ekonomi dan sosial bagi 12 daerah di Negeri Kedah menggunakan data terbuka DOSM (OpenDOSM). Tujuannya adalah membantu rakyat, penyelidik dan perancang memahami kekuatan setiap daerah serta peluang untuk meningkatkan sumbangannya kepada KDNK Kedah.
+Saya sedang membangunkan **KedahKu**, sebuah platform awam bukan komersial yang memaparkan statistik ekonomi dan sosial bagi 12 daerah di Negeri Kedah menggunakan data terbuka DOSM (OpenDOSM). Tujuannya adalah membantu rakyat, penyelidik dan perancang memahami kekuatan setiap daerah serta peluang untuk meningkatkan sumbangannya kepada KDNK Kedah.
 
 Pada masa ini, pecahan penduduk bekerja mengikut industri dan pekerjaan di peringkat daerah tidak tersedia secara terbuka, jadi kami terpaksa menggunakan anggaran. Kami ingin memohon data berikut bagi **12 daerah pentadbiran Negeri Kedah**:
 
@@ -31,7 +31,7 @@ Yang benar,
 [Nama penuh]
 [Jawatan / organisasi, jika ada]
 [No. telefon]
-Atlas Kedah — [pautan laman, apabila tersedia]
+KedahKu — [pautan laman, apabila tersedia]
 
 ---
 
@@ -41,7 +41,7 @@ Atlas Kedah — [pautan laman, apabila tersedia]
 
 Dear Sir/Madam,
 
-I am building **Atlas Kedah**, a non-commercial public platform that presents economic and social statistics for Kedah's 12 districts using DOSM open data (OpenDOSM). Its aim is to help residents, researchers and planners understand each district's strengths and the opportunities to raise its contribution to Kedah's GDP.
+I am building **KedahKu**, a non-commercial public platform that presents economic and social statistics for Kedah's 12 districts using DOSM open data (OpenDOSM). Its aim is to help residents, researchers and planners understand each district's strengths and the opportunities to raise its contribution to Kedah's GDP.
 
 District-level breakdowns of employment by industry and occupation are not currently open, so we rely on estimates. We would like to request, for **Kedah's 12 administrative districts**:
 
@@ -60,7 +60,7 @@ If an existing publication already contains these tables, we would be grateful f
 Thank you for your help.
 
 Yours faithfully,
-[Full name] · [Role / organisation] · [Phone] · Atlas Kedah — [site link when live]
+[Full name] · [Role / organisation] · [Phone] · KedahKu — [site link when live]
 
 ---
 

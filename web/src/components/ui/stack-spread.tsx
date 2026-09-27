@@ -1,5 +1,5 @@
 // Built using Hyperiux Vault: https://vault.hyperiux.com
-// Adapted for Atlas Kedah: cards take any content (not only images), the
+// Adapted for KedahKu: cards take any content (not only images), the
 // headline/subtitle/hint are props (for BM/EN), colours default to site tokens,
 // and the sticky stage can sit below a sticky site header.
 

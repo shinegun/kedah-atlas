@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Instrument_Serif } from "next/font/google";
 import { notFound } from "next/navigation";
 import "../globals.css";
+import { districts } from "@/lib/atlas";
 import SiteFooter from "@/components/SiteFooter";
 import SiteHeader from "@/components/SiteHeader";
 import { hasLocale, LOCALES, t } from "@/lib/i18n";
@@ -22,7 +23,11 @@ export async function generateMetadata({ params }: LayoutProps<"/[lang]">): Prom
   return {
     // Share cards need absolute URLs. SITE_URL overrides the public domain (e.g. for previews).
     metadataBase: new URL(process.env.SITE_URL ?? "https://kedah-ku.com"),
-    title: { default: t(lang).siteName, template: `%s · ${t(lang).siteName}` },
+    // "Atlas" left the name when it became KedahKu, so the home title says what the site is.
+    title: {
+      default: `${t(lang).siteName} · ${lang === "ms" ? `Atlas ekonomi ${districts.length} daerah Kedah` : `The economic atlas of Kedah's ${districts.length} districts`}`,
+      template: `%s · ${t(lang).siteName}`,
+    },
     description: t(lang).tagline,
     openGraph: { siteName: t(lang).siteName, locale: lang === "ms" ? "ms_MY" : "en_MY", type: "website" },
   };

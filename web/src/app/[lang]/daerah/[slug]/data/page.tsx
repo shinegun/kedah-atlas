@@ -220,7 +220,7 @@ export default async function DistrictPage({ params }: PageProps<"/[lang]/daerah
             }]}
           />
           <p className="source">
-            {tr.source}: DOSM ({tx(lang, `KDNK daerah hingga ${gy}; KDNK negeri mengikut sektor hingga ${F.known_until}`, `district GDP to ${gy}; state GDP by sector to ${F.known_until}`)}); {tx(lang, "model Atlas Kedah", "Atlas Kedah model")} ({tx(lang, `ralat median 3 tahun ${fmt(lang, F.backtest.median_abs_pct_error[F.model]["3"], 1)}%`, `3-year median error ${fmt(lang, F.backtest.median_abs_pct_error[F.model]["3"], 1)}%`)}).
+            {tr.source}: DOSM ({tx(lang, `KDNK daerah hingga ${gy}; KDNK negeri mengikut sektor hingga ${F.known_until}`, `district GDP to ${gy}; state GDP by sector to ${F.known_until}`)}); {tx(lang, "model KedahKu", "KedahKu model")} ({tx(lang, `ralat median 3 tahun ${fmt(lang, F.backtest.median_abs_pct_error[F.model]["3"], 1)}%`, `3-year median error ${fmt(lang, F.backtest.median_abs_pct_error[F.model]["3"], 1)}%`)}).
           </p>
         </div>
       </section>
@@ -323,8 +323,8 @@ export default async function DistrictPage({ params }: PageProps<"/[lang]/daerah
             />
             <div className="callout small" style={{ marginTop: 14 }}>
               {tx(lang,
-                "Anggaran Atlas Kedah, bukan statistik rasmi. Jumlah pekerja bagi setiap daerah dan bagi setiap sektor di Kedah adalah angka rasmi; pecahan antara kedua-duanya dianggarkan berdasarkan struktur KDNK daerah. ",
-                "Atlas Kedah estimate, not an official statistic. Each district's employed total and Kedah's employed per sector are official; the split between them follows the district's GDP mix. ")}
+                "Anggaran KedahKu, bukan statistik rasmi. Jumlah pekerja bagi setiap daerah dan bagi setiap sektor di Kedah adalah angka rasmi; pecahan antara kedua-duanya dianggarkan berdasarkan struktur KDNK daerah. ",
+                "KedahKu estimate, not an official statistic. Each district's employed total and Kedah's employed per sector are official; the split between them follows the district's GDP mix. ")}
               <Link href={`/${lang}/kaedah/#jobs`}>{tx(lang, "Cara kami mengira", "How we calculate this")}</Link>
             </div>
           </div>

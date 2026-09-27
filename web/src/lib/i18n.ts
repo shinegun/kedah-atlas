@@ -101,7 +101,7 @@ export const cropName = (l: Locale, key: string) =>
 
 const dict = {
   ms: {
-    siteName: "Atlas Kedah",
+    siteName: "KedahKu",
     tagline: "Pekerjaan rakyat Kedah, dan ke mana ekonominya boleh berkembang",
     nav: { home: "Utama", map: "Peta", forecast: "Unjuran", districts: "Daerah", compare: "Perbandingan", story: "Cerita", method: "Kaedah", data: "Data" },
     langSwitch: "English",
@@ -114,7 +114,7 @@ const dict = {
     builtOn: "Data dikemas kini",
   },
   en: {
-    siteName: "Atlas Kedah",
+    siteName: "KedahKu",
     tagline: "Where Kedah's people work — and where its economy can grow",
     nav: { home: "Home", map: "Map", forecast: "Projections", districts: "Districts", compare: "Compare", story: "Story", method: "Method", data: "Data" },
     langSwitch: "Bahasa Melayu",

@@ -1,4 +1,4 @@
-# Panduan gaya Bahasa Melayu — Atlas Kedah
+# Panduan gaya Bahasa Melayu — KedahKu
 
 Bahasa Melayu (BM) ialah bahasa lalai laman ini. Tulis dalam **BM Malaysia baku**, bukan Bahasa Indonesia, dan bukan terjemahan harfiah daripada Bahasa Inggeris. Semak dengan `uv run python pipeline/check_bm.py` sebelum menerbitkan.
 

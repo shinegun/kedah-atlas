@@ -48,7 +48,7 @@ export default async function Investors({ params }: PageProps<"/[lang]/pelabur">
   const [mig0, mig1] = atlas.meta.migration_period;
   const byLf = [...districts].sort((a, b) => last(b.labour.series).lf - last(a.labour.series).lf);
 
-  // Manufacturing workers by district (Atlas Kedah estimate).
+  // Manufacturing workers by district (KedahKu estimate).
   const jy = districts[0].jobs_estimate.year;
   const mfg = [...districts].sort((a, b) => b.jobs_estimate.by_sector.manufacturing.central - a.jobs_estimate.by_sector.manufacturing.central);
   const mfgTotal = mfg.reduce((a, x) => a + x.jobs_estimate.by_sector.manufacturing.central, 0);
@@ -193,8 +193,8 @@ export default async function Investors({ params }: PageProps<"/[lang]/pelabur">
           />
           <div className="callout small" style={{ marginTop: 14 }}>
             {tx(lang,
-              "Anggaran Atlas Kedah, bukan statistik rasmi. DOSM belum menerbitkan pekerjaan mengikut sektor bagi setiap daerah; kami membahagikan jumlah rasmi mengikut struktur KDNK daerah. Pekerja dikira mengikut tempat tinggal, bukan tempat kerja. ",
-              "Atlas Kedah estimate, not an official statistic. DOSM does not yet publish jobs by sector for each district; we split the official totals using each district's GDP mix. Workers are counted where they live, not where they work. ")}
+              "Anggaran KedahKu, bukan statistik rasmi. DOSM belum menerbitkan pekerjaan mengikut sektor bagi setiap daerah; kami membahagikan jumlah rasmi mengikut struktur KDNK daerah. Pekerja dikira mengikut tempat tinggal, bukan tempat kerja. ",
+              "KedahKu estimate, not an official statistic. DOSM does not yet publish jobs by sector for each district; we split the official totals using each district's GDP mix. Workers are counted where they live, not where they work. ")}
             <Link href={L("kaedah/#jobs")}>{tx(lang, "Cara kami mengira", "How we calculate this")}</Link>
           </div>
         </div>
@@ -254,7 +254,7 @@ export default async function Investors({ params }: PageProps<"/[lang]/pelabur">
           ))}
         </div>
         <p className="source">
-          {d.source}: DOSM, {tx(lang, `KDNK mengikut Daerah dan Sektor Ekonomi (harga malar 2015, terbitan terkini ${gy}). Pekali lokasi dikira oleh Atlas Kedah. `, `GDP by District and Economic Sector (constant 2015 prices, latest edition ${gy}). Location quotients computed by Atlas Kedah. `)}
+          {d.source}: DOSM, {tx(lang, `KDNK mengikut Daerah dan Sektor Ekonomi (harga malar 2015, terbitan terkini ${gy}). Pekali lokasi dikira oleh KedahKu. `, `GDP by District and Economic Sector (constant 2015 prices, latest edition ${gy}). Location quotients computed by KedahKu. `)}
           <Link href={L("kaedah/#lq")}>{tx(lang, "Apakah pekali lokasi?", "What is a location quotient?")}</Link>
         </p>
       </section>

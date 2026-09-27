@@ -94,8 +94,8 @@ export function mapIndicators(lang: Locale): MapIndicator[] {
     {
       key: "farmjobs", slug: "pertanian", label: tx(lang, "Pekerjaan pertanian", "Farm jobs"),
       question: tx(lang, "Di mana pertanian masih menjadi sumber rezeki utama?", "Where does farming still matter most?"),
-      note: tx(lang, `Anggaran peratusan pekerja dalam sektor pertanian, ${k.jobs_year}. Model Atlas Kedah — lihat halaman Kaedah.`,
-        `Estimated share of workers in agriculture, ${k.jobs_year}. Atlas Kedah model — see Method.`),
+      note: tx(lang, `Anggaran peratusan pekerja dalam sektor pertanian, ${k.jobs_year}. Model KedahKu — lihat halaman Kaedah.`,
+        `Estimated share of workers in agriculture, ${k.jobs_year}. KedahKu model — see Method.`),
       spec: { lang, kind: "pct", digits: 0 }, estimate: true,
       values: byName((x) => {
         const s = x.jobs_estimate.by_sector;

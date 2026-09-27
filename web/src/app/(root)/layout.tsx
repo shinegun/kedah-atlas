@@ -1,6 +1,6 @@
 import "../globals.css";
 
-export const metadata = { title: "Atlas Kedah" };
+export const metadata = { title: "KedahKu" };
 
 export default function RootRedirectLayout({ children }: { children: React.ReactNode }) {
   return (

@@ -1,4 +1,4 @@
-# Atlas Kedah
+# KedahKu
 
 Bilingual (Bahasa Melayu default, English) atlas of Kedah's 12 districts. See README.md for layout and commands.
 

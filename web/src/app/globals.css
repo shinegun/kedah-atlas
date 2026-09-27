@@ -122,8 +122,8 @@ p { margin: 0 0 1em; }
 .site-header { background: var(--page); position: sticky; top: 0; z-index: 30; border-bottom: 1px solid var(--border); }
 .sb-inner { display: flex; align-items: center; gap: 12px; padding: 8px 16px; flex-wrap: wrap; }
 .brand { font-family: var(--serif); font-size: 1.55rem; font-weight: 400; letter-spacing: -0.01em; color: var(--ink); text-decoration: none; display: flex; align-items: center; gap: 10px; }
-.brand-mark { width: 26px; height: 26px; border-radius: 8px; background: var(--accent); display: inline-block; position: relative; }
-.brand-mark::after { content: ""; position: absolute; inset: 7px 6px 6px 6px; border-radius: 2px; border: 2px solid var(--gold); border-top: none; }
+.brand-mark { flex: none; display: block; }
+.brand-ku { color: var(--accent); }
 .nav { display: flex; gap: 2px; align-items: center; overflow-x: auto; flex-wrap: nowrap; width: 100%; scrollbar-width: none; }
 .nav a { display: inline-flex; align-items: center; gap: 8px; color: var(--ink-2); text-decoration: none; padding: 7px 12px; border-radius: 10px; font-size: 0.95rem; white-space: nowrap; }
 .nav a:hover { background: color-mix(in srgb, var(--ink) 5%, transparent); color: var(--ink); }

@@ -7,7 +7,7 @@ export default function RootPage() {
       <meta httpEquiv="refresh" content="0; url=/ms/" />
       <main className="wrap">
         <p>
-          <Link href="/ms/">Atlas Kedah — Bahasa Melayu</Link> · <Link href="/en/">English</Link>
+          <Link href="/ms/">KedahKu — Bahasa Melayu</Link> · <Link href="/en/">English</Link>
         </p>
       </main>
     </>

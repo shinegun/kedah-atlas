@@ -1,4 +1,4 @@
-# Atlas Kedah
+# KedahKu
 
 **Where Kedah's people work — and where its economy can grow.**
 A bilingual (Bahasa Melayu / English) atlas of Kedah's 12 districts: economy, jobs, income, poverty and people, built entirely on open official statistics, with every modelled number labelled as an estimate.
@@ -61,4 +61,4 @@ The static build in `web/out/` can be hosted anywhere (Vercel, Netlify, GitHub P
 - Data: Department of Statistics Malaysia via OpenDOSM / data.gov.my (CC BY 4.0). LFS report tables: "Source: Department of Statistics Malaysia".
 - Code: to be decided (MIT suggested).
 
-Inspired by [SabahKu / Atlas Ekonomi Sabah](https://github.com/IlhamKassim/sabah-atlas) (MIT); Atlas Kedah is a separate codebase focused on jobs.
+Inspired by [SabahKu / Atlas Ekonomi Sabah](https://github.com/IlhamKassim/sabah-atlas) (MIT); KedahKu is a separate codebase focused on jobs.

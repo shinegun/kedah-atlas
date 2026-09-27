@@ -84,7 +84,7 @@ def write_facts() -> None:
     print(f"facts: {len(a['districts'])} districts → {OUT / 'facts'}")
 
 
-PROMPT = """You are drafting a short, neutral brief about one district of Kedah, Malaysia, for Atlas Kedah,
+PROMPT = """You are drafting a short, neutral brief about one district of Kedah, Malaysia, for KedahKu,
 a public data site. Use ONLY the facts in the JSON below. Do not state any number that is not in it
 (you may round a fact, or write small whole numbers as words). Do not speculate about causes the facts
 don't support; say what is unknown instead.

@@ -9,6 +9,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useSyncExternalStore } from "react";
 import { t, tx, type Locale } from "@/lib/i18n";
+import BrandMark, { Wordmark } from "@/components/BrandMark";
 import { RAIL_KEY } from "@/lib/sidebar";
 
 const ICON: Record<string, React.ReactNode> = {
@@ -87,8 +88,8 @@ export default function SiteHeader({ lang }: { lang: Locale }) {
     <header className={`site-header${isHome ? " home-intro" : ""}`}>
       <div className="sb-inner">
         <Link href={`/${lang}/`} className="brand">
-          <span className="brand-mark" aria-hidden="true" />
-          {d.siteName}
+          <BrandMark className="brand-mark" />
+          <Wordmark />
         </Link>
         <nav className="nav" aria-label={lang === "ms" ? "Navigasi utama" : "Main navigation"}>
           {items.map(([seg, icon, label]) => {
