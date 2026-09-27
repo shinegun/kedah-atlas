@@ -13,7 +13,7 @@
 - [ ] Have someone from Kedah (ideally UUM / UPEN Kedah / DOSM Kedah) review the Baling story and the Malay copy
 - [ ] Choose a domain and deploy the static build (`web/out/`)
 - [ ] Pick a code licence (MIT suggested) and publish the repo
-- [ ] Add a feedback / corrections link (email or GitHub issues)
+- [x] Add a feedback / corrections link (GitHub issues, in the footer and on /tentang)
 
 ## v1 (≈3 months)
 - [ ] Replace job estimates with Census 2020 tables when DOSM replies

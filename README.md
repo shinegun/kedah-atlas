@@ -24,7 +24,8 @@ data/
   interim/         tables extracted from PDFs
   processed/       tidy long table of every indicator
 web/               Next.js 16 static site (output: export)
-docs/              roadmap and the DOSM data request
+docs/              roadmap, the DOSM data request, BM style guide
+  adr/             architecture decision records
 ```
 
 ## Run it
