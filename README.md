@@ -43,8 +43,10 @@ The static build in `web/out/` can be hosted anywhere (Vercel, Netlify, GitHub P
 
 ## Deploying
 
-- Build with `SITE_URL=https://your-domain pnpm --dir web build`. Share cards (Open Graph images) need absolute URLs, so without `SITE_URL` they point at localhost.
-- The export writes share images as extension-less `opengraph-image` files. Configure the host to serve them as `image/png` (most static hosts need a one-line header rule).
+- Live at https://kedah-ku.com, hosted on Vercel (project root: `web/`). Every push to `main` redeploys.
+- Share cards (Open Graph images) use absolute URLs based on `https://kedah-ku.com`; set `SITE_URL` to override (e.g. for a preview domain).
+- The export writes share images as extension-less `opengraph-image` files; `web/vercel.json` serves them as `image/png`.
+- The site is a static export built from the committed `web/src/data/*.json`. Re-run the Python pipeline locally and commit the updated data to refresh the numbers.
 
 ## Data principles
 

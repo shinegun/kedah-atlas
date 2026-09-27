@@ -20,8 +20,8 @@ export async function generateMetadata({ params }: LayoutProps<"/[lang]">): Prom
   const { lang } = await params;
   if (!hasLocale(lang)) return {};
   return {
-    // Share cards need absolute URLs: set SITE_URL to the public domain when deploying.
-    metadataBase: new URL(process.env.SITE_URL ?? "http://localhost:3107"),
+    // Share cards need absolute URLs. SITE_URL overrides the public domain (e.g. for previews).
+    metadataBase: new URL(process.env.SITE_URL ?? "https://kedah-ku.com"),
     title: { default: t(lang).siteName, template: `%s · ${t(lang).siteName}` },
     description: t(lang).tagline,
     openGraph: { siteName: t(lang).siteName, locale: lang === "ms" ? "ms_MY" : "en_MY", type: "website" },
