@@ -1,0 +1,71 @@
+{
+ "district": "Kulim",
+ "type": "industry",
+ "gdp_year": 2020,
+ "gdp_rm_million": 10659.0,
+ "share_of_kedah_gdp_pct": 23.1,
+ "gdp_per_capita_rm": 31600.0,
+ "gdp_per_capita_rank_in_malaysia": [
+  37,
+  159
+ ],
+ "kedah_gdp_per_capita_rm": 21600.0,
+ "sector_share_pct": {
+  "agriculture": 3.0,
+  "mining": 1.0,
+  "manufacturing": 68.0,
+  "construction": 1.0,
+  "services": 28.0
+ },
+ "gdp_growth_2015_2019_pct_a_year": 4.04,
+ "kedah_gdp_growth_2015_2019_pct_a_year": 4.32,
+ "shift_share_local_points": -1.23,
+ "income_median_rm": {
+  "2019": 4489.0,
+  "2022": 4498.0,
+  "2024": 5236.0
+ },
+ "kedah_income_median_rm": {
+  "2019": 4325,
+  "2022": 4402,
+  "2024": 4895
+ },
+ "income_vs_kedah_pct": 7.0,
+ "poverty_pct": {
+  "2019": 9.9,
+  "2022": 11.4,
+  "2024": 8.5
+ },
+ "kedah_poverty_pct": {
+  "2019": 8.8,
+  "2022": 9.0,
+  "2024": 8.4
+ },
+ "unemployment_pct": 1.9,
+ "unemployment_year": 2024,
+ "kedah_unemployment_pct": 2.5,
+ "population_thousand": 354.0,
+ "population_year": 2025,
+ "net_migration_per_1000_a_year": 4.0,
+ "farm_jobs_share_pct_estimate": 2.0,
+ "nightlights": 3.19,
+ "forecast_model": "shift_share",
+ "gdp_nowcast": {
+  "year": 2025,
+  "p50": 13117.0,
+  "p10": 12108.0,
+  "p90": 14210.0
+ },
+ "gdp_projection": {
+  "year": 2030,
+  "p50": 15910.0,
+  "p10": 13987.0,
+  "p90": 18098.0
+ },
+ "gdp_growth_projection_pct_a_year": 3.9,
+ "gdp_per_capita_projection_rm": 42900.0,
+ "highlights": [
+  "Manufacturing makes up 68% of the district economy — 2.3× the Kedah average.",
+  "An estimated net 1,341 people a year moved into the district (2020–2024)."
+ ]
+}

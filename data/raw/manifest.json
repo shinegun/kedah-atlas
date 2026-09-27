@@ -1,0 +1,178 @@
+[
+  {
+    "id": "gdp_district",
+    "url": "https://storage.dosm.gov.my/gdp/gdp_district_real_supply.parquet",
+    "file": "data/raw/gdp_district.parquet",
+    "sha256": "9cd862aa3a7628b231b070d6b74ae73951a8ac5319cdb64727647ed5e0c44242",
+    "bytes": 47067,
+    "retrieved": "2026-09-27T03:46:36+00:00"
+  },
+  {
+    "id": "gdp_state",
+    "url": "https://storage.dosm.gov.my/gdp/gdp_state_real_supply.parquet",
+    "file": "data/raw/gdp_state.parquet",
+    "sha256": "eb422ca7b041a029c2452dbf0b3d0cbfb53b4270c31706d05ce02a0c8686d656",
+    "bytes": 13514,
+    "retrieved": "2026-09-27T03:46:37+00:00"
+  },
+  {
+    "id": "lfs_district",
+    "url": "https://storage.dosm.gov.my/labour/lfs_district.parquet",
+    "file": "data/raw/lfs_district.parquet",
+    "sha256": "7a356c0c86280f6c53cfe636834bf23fa780be3b66fa6cc3f7cecfab74c0a895",
+    "bytes": 23276,
+    "retrieved": "2026-09-27T03:46:37+00:00"
+  },
+  {
+    "id": "population_district",
+    "url": "https://storage.dosm.gov.my/population/population_district.parquet",
+    "file": "data/raw/population_district.parquet",
+    "sha256": "fe0a67b8f231ebc83f78a9593d48fa85e7050d0673c882f6069557641d28943d",
+    "bytes": 230962,
+    "retrieved": "2026-09-27T03:46:37+00:00"
+  },
+  {
+    "id": "population_state",
+    "url": "https://storage.dosm.gov.my/population/population_state.parquet",
+    "file": "data/raw/population_state.parquet",
+    "sha256": "3ae425f5cf5a053ae799adfd59480ea46455f8ed6eb34a47dcece76f7fae63da",
+    "bytes": 389489,
+    "retrieved": "2026-09-27T05:14:56+00:00"
+  },
+  {
+    "id": "population_malaysia",
+    "url": "https://storage.dosm.gov.my/population/population_malaysia.parquet",
+    "file": "data/raw/population_malaysia.parquet",
+    "sha256": "0859806bd0fd3211d72c569f831b341eb6d2fe36781dd46e88989650ab4c6b78",
+    "bytes": 53760,
+    "retrieved": "2026-09-27T05:14:56+00:00"
+  },
+  {
+    "id": "births_district",
+    "url": "https://storage.dosm.gov.my/demography/birth_district_sex.parquet",
+    "file": "data/raw/births_district.parquet",
+    "sha256": "a40cb76b534ca9d3daa61668bdcbb312048e9183808b9218a9007231828a8091",
+    "bytes": 28903,
+    "retrieved": "2026-09-27T03:46:37+00:00"
+  },
+  {
+    "id": "deaths_district",
+    "url": "https://storage.dosm.gov.my/demography/death_district_sex.parquet",
+    "file": "data/raw/deaths_district.parquet",
+    "sha256": "ff6ae333a4339548546822ae5113f99c800ecaadb7d5c9acd3d627a671665135",
+    "bytes": 28435,
+    "retrieved": "2026-09-27T03:46:37+00:00"
+  },
+  {
+    "id": "hh_income_district",
+    "url": "https://storage.dosm.gov.my/hies/hh_income_district.parquet",
+    "file": "data/raw/hh_income_district.parquet",
+    "sha256": "f43ee8dcf7ae13343483bb19abcdf63e4517126b2b149ea3456670ac75673104",
+    "bytes": 8093,
+    "retrieved": "2026-09-27T03:46:37+00:00"
+  },
+  {
+    "id": "hh_poverty_district",
+    "url": "https://storage.dosm.gov.my/hies/hh_poverty_district.parquet",
+    "file": "data/raw/hh_poverty_district.parquet",
+    "sha256": "9e9269ad507395eb2bb0be58855641b45ca106fb5ae2dab91fc258a598f42e4e",
+    "bytes": 7217,
+    "retrieved": "2026-09-27T03:46:38+00:00"
+  },
+  {
+    "id": "hh_inequality_district",
+    "url": "https://storage.dosm.gov.my/hies/hh_inequality_district.parquet",
+    "file": "data/raw/hh_inequality_district.parquet",
+    "sha256": "9f3e478a489a59ac72eb73da0173f66ed88ab12fa13f3d7b4060f41a71b375b4",
+    "bytes": 5651,
+    "retrieved": "2026-09-27T03:46:38+00:00"
+  },
+  {
+    "id": "hies_district",
+    "url": "https://storage.dosm.gov.my/hies/hies_district.parquet",
+    "file": "data/raw/hies_district.parquet",
+    "sha256": "dc996ca2be80d3b856796d7684b60618178f1d7d2c7f9f49a99293574e87e227",
+    "bytes": 11554,
+    "retrieved": "2026-09-27T03:46:38+00:00"
+  },
+  {
+    "id": "hh_income_state",
+    "url": "https://storage.dosm.gov.my/hies/hh_income_state.parquet",
+    "file": "data/raw/hh_income_state.parquet",
+    "sha256": "606ad545aa8d0f4b4e590bffa28a84a9fc79091b1bbb0f66e1779ec9c1dc7e8f",
+    "bytes": 5274,
+    "retrieved": "2026-09-27T04:01:44+00:00"
+  },
+  {
+    "id": "hh_poverty_state",
+    "url": "https://storage.dosm.gov.my/hies/hh_poverty_state.parquet",
+    "file": "data/raw/hh_poverty_state.parquet",
+    "sha256": "af3fd822ba0fcecce1a74c990e061ffcff35555605125f3b1e33338fe4e2d9c7",
+    "bytes": 5666,
+    "retrieved": "2026-09-27T04:01:45+00:00"
+  },
+  {
+    "id": "hh_inequality_state",
+    "url": "https://storage.dosm.gov.my/hies/hh_inequality_state.parquet",
+    "file": "data/raw/hh_inequality_state.parquet",
+    "sha256": "87fcfeb461637140ad024f51014badbabc930c1e127c8d5f08119f437ceabfa8",
+    "bytes": 3498,
+    "retrieved": "2026-09-27T04:01:45+00:00"
+  },
+  {
+    "id": "hies_malaysia",
+    "url": "https://storage.dosm.gov.my/hies/hh_income.parquet",
+    "file": "data/raw/hies_malaysia.parquet",
+    "sha256": "242b10795ba4eeb77f0eb01db447662199886c97d078389cbfb8eae1d05d4c81",
+    "bytes": 2535,
+    "retrieved": "2026-09-27T03:48:48+00:00"
+  },
+  {
+    "id": "poverty_malaysia",
+    "url": "https://storage.dosm.gov.my/hies/hh_poverty.parquet",
+    "file": "data/raw/poverty_malaysia.parquet",
+    "sha256": "d18b1f9e739586b4863970e19d3112686fcccf2ee3e8797457109877036cfdf2",
+    "bytes": 3349,
+    "retrieved": "2026-09-27T03:48:48+00:00"
+  },
+  {
+    "id": "crops_district_area",
+    "url": "https://storage.data.gov.my/agriculture/crops_district_area.parquet",
+    "file": "data/raw/crops_district_area.parquet",
+    "sha256": "fd0d9e1a92c1a0bfea2b21622a6cf1680f42c900050687448fbe27792b5e5102",
+    "bytes": 27124,
+    "retrieved": "2026-09-27T03:46:38+00:00"
+  },
+  {
+    "id": "lfs_annual_2024",
+    "url": "https://storage.dosm.gov.my/labour/lfs_annual_2024.pdf",
+    "file": "data/raw/pdf/lfs_annual_2024.pdf",
+    "sha256": "b70a67900836689028a215f074d4dbaaaa7d44d350224ef59d3d122bcbb49b60",
+    "bytes": 4947034,
+    "retrieved": "2026-09-27T03:43:53+00:00"
+  },
+  {
+    "id": "lfs_annual_2023",
+    "url": "https://storage.dosm.gov.my/labour/lfs_annual_2023.pdf",
+    "file": "data/raw/pdf/lfs_annual_2023.pdf",
+    "sha256": "4b9c0d48b5d0471b848c19316fa27c6320930e2850ceb4d37436fd36d9a7af4d",
+    "bytes": 4419042,
+    "retrieved": "2026-09-27T03:43:53+00:00"
+  },
+  {
+    "id": "boundaries",
+    "url": "https://open.dosm.gov.my/dashboard/kawasanku/Kedah/district/{district}",
+    "file": "data/raw/kedah_districts.geojson",
+    "sha256": "f6a5d7d886b869e0d488c26cdc9d58891c75b103bd99f1957465e1c9b0f57c43",
+    "bytes": 65292,
+    "retrieved": "2026-09-27T03:48:57+00:00"
+  },
+  {
+    "id": "context_boundaries",
+    "url": "https://open.dosm.gov.my/dashboard/kawasanku/{state}/district/{district}",
+    "file": "data/raw/context_boundaries.geojson",
+    "sha256": "21d9989d81bf82234d544d48db51c3a1c6b6c658336974152f9222f5f8a44cf9",
+    "bytes": 15997,
+    "retrieved": "2026-09-27T12:05:09+00:00"
+  }
+]

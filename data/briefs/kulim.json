@@ -1,0 +1,34 @@
+{
+ "slug": "kulim",
+ "ms": {
+  "working": [
+   "Pembuatan menyumbang 68% daripada ekonomi daerah, 2.3 kali purata Kedah; KDNK per kapita RM31,600, kedudukan ke-37 daripada 159 daerah di Malaysia.",
+   "Menarik penduduk (migrasi bersih +4.0 bagi setiap 1,000 penduduk setahun), dan pengangguran hanya 1.9% (2024)."
+  ],
+  "holding": [
+   "Industri tempatan tumbuh sedikit lebih perlahan daripada industri yang sama di peringkat negeri (−1.2 mata peratusan, 2015–2019).",
+   "Kemiskinan mutlak 8.5% (2024), setara dengan Kedah (8.4%) walaupun KDNK per kapita tinggi: hasil kilang tidak semestinya sampai kepada semua isi rumah."
+  ],
+  "watch": [
+   "Unjuran KDNK 2030: RM15.9 bilion (julat RM14.0–18.1 bilion), iaitu 3.9% setahun.",
+   "Kesan sasaran pekerja KHTP kerajaan negeri — cuba dalam simulator senario."
+  ]
+ },
+ "en": {
+  "working": [
+   "Manufacturing is 68% of the district economy, 2.3 times the Kedah average; GDP per person is RM31,600, ranked 37th of 159 districts in Malaysia.",
+   "Draws people in (net migration +4.0 per 1,000 residents a year), and unemployment is only 1.9% (2024)."
+  ],
+  "holding": [
+   "Local industries grew slightly slower than the same industries statewide (−1.2 percentage points, 2015–2019).",
+   "Absolute poverty is 8.5% (2024), level with Kedah (8.4%) despite high GDP per person: factory output doesn't necessarily reach every household."
+  ],
+  "watch": [
+   "Projected GDP in 2030: RM15.9 billion (range RM14.0–18.1 billion), or 3.9% a year.",
+   "The effect of the state's KHTP workforce target — try it in the scenario simulator."
+  ]
+ },
+ "drafted_by": "claude-opus-5-5",
+ "drafted_on": "2026-09-27",
+ "reviewed": false
+}

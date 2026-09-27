@@ -1,0 +1,34 @@
+{
+ "slug": "kubang-pasu",
+ "ms": {
+  "working": [
+   "Pendapatan penengah isi rumah RM5,312 (2024), 9% lebih tinggi daripada Kedah, dan kemiskinan mutlak hanya 4.0%.",
+   "Penduduk bertambah melalui migrasi: bersih +8.3 bagi setiap 1,000 penduduk setahun."
+  ],
+  "holding": [
+   "KDNK per kapita RM14,900, jauh di bawah purata Kedah (RM21,600). Jurang antara pendapatan yang tinggi dan KDNK yang rendah belum dapat dijelaskan kerana data ulang-alik tidak diterbitkan.",
+   "KDNK tumbuh 3.6% setahun (2015–2019), lebih perlahan daripada Kedah (4.3%)."
+  ],
+  "watch": [
+   "Unjuran KDNK 2030: RM5.0 bilion (julat RM4.4–5.7 bilion), iaitu 3.4% setahun.",
+   "Data ulang-alik Banci 2020, yang sedang kami mohon daripada DOSM, akan menunjukkan di mana penduduknya bekerja."
+  ]
+ },
+ "en": {
+  "working": [
+   "Median household income is RM5,312 (2024), 9% above Kedah, and absolute poverty is only 4.0%.",
+   "The population is growing through migration: net +8.3 per 1,000 residents a year."
+  ],
+  "holding": [
+   "GDP per person is RM14,900, well below the Kedah average (RM21,600). The gap between high incomes and low GDP can't yet be explained, because commuting data isn't published.",
+   "GDP grew 3.6% a year (2015–2019), slower than Kedah (4.3%)."
+  ],
+  "watch": [
+   "Projected GDP in 2030: RM5.0 billion (range RM4.4–5.7 billion), or 3.4% a year.",
+   "Census 2020 commuting data, which we are requesting from DOSM, will show where residents work."
+  ]
+ },
+ "drafted_by": "claude-opus-5-5",
+ "drafted_on": "2026-09-27",
+ "reviewed": false
+}

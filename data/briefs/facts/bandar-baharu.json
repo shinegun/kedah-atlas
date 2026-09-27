@@ -1,0 +1,73 @@
+{
+ "district": "Bandar Baharu",
+ "type": "farm",
+ "gdp_year": 2020,
+ "gdp_rm_million": 626.0,
+ "share_of_kedah_gdp_pct": 1.4,
+ "gdp_per_capita_rm": 14100.0,
+ "gdp_per_capita_rank_in_malaysia": [
+  105,
+  159
+ ],
+ "kedah_gdp_per_capita_rm": 21600.0,
+ "sector_share_pct": {
+  "agriculture": 44.0,
+  "mining": 0.0,
+  "manufacturing": 5.0,
+  "construction": 1.0,
+  "services": 51.0
+ },
+ "gdp_growth_2015_2019_pct_a_year": 1.48,
+ "kedah_gdp_growth_2015_2019_pct_a_year": 4.32,
+ "shift_share_local_points": -8.09,
+ "income_median_rm": {
+  "2019": 4022.0,
+  "2022": 3922.0,
+  "2024": 4310.0
+ },
+ "kedah_income_median_rm": {
+  "2019": 4325,
+  "2022": 4402,
+  "2024": 4895
+ },
+ "income_vs_kedah_pct": -12.0,
+ "poverty_pct": {
+  "2019": 7.2,
+  "2022": 3.9,
+  "2024": 5.8
+ },
+ "kedah_poverty_pct": {
+  "2019": 8.8,
+  "2022": 9.0,
+  "2024": 8.4
+ },
+ "unemployment_pct": 2.5,
+ "unemployment_year": 2024,
+ "kedah_unemployment_pct": 2.5,
+ "population_thousand": 45.6,
+ "population_year": 2025,
+ "net_migration_per_1000_a_year": 0.6,
+ "farm_jobs_share_pct_estimate": 28.0,
+ "nightlights": 1.713,
+ "forecast_model": "shift_share",
+ "gdp_nowcast": {
+  "year": 2025,
+  "p50": 728.0,
+  "p10": 672.0,
+  "p90": 788.0
+ },
+ "gdp_projection": {
+  "year": 2030,
+  "p50": 833.0,
+  "p10": 732.0,
+  "p90": 948.0
+ },
+ "gdp_growth_projection_pct_a_year": 2.7,
+ "gdp_per_capita_projection_rm": 17800.0,
+ "highlights": [
+  "Agriculture makes up 44% of the district economy — 3.6× the Kedah average.",
+  "GDP grew 1.5% a year (2015–2019), slower than Kedah (4.3%). Local industries lagged the same industries statewide.",
+  "Absolute poverty is only 5.8% (2024), well below Kedah's 8.4%.",
+  "Median household income is RM4,310 a month — 12% below the Kedah median."
+ ]
+}

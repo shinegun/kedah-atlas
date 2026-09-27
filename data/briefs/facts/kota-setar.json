@@ -1,0 +1,72 @@
+{
+ "district": "Kota Setar",
+ "type": "services",
+ "gdp_year": 2020,
+ "gdp_rm_million": 11001.0,
+ "share_of_kedah_gdp_pct": 23.9,
+ "gdp_per_capita_rm": 29400.0,
+ "gdp_per_capita_rank_in_malaysia": [
+  41,
+  159
+ ],
+ "kedah_gdp_per_capita_rm": 21600.0,
+ "sector_share_pct": {
+  "agriculture": 8.0,
+  "mining": 0.0,
+  "manufacturing": 13.0,
+  "construction": 4.0,
+  "services": 75.0
+ },
+ "gdp_growth_2015_2019_pct_a_year": 5.63,
+ "kedah_gdp_growth_2015_2019_pct_a_year": 4.32,
+ "shift_share_local_points": 4.0,
+ "income_median_rm": {
+  "2019": 4532.0,
+  "2022": 4751.0,
+  "2024": 5208.0
+ },
+ "kedah_income_median_rm": {
+  "2019": 4325,
+  "2022": 4402,
+  "2024": 4895
+ },
+ "income_vs_kedah_pct": 6.0,
+ "poverty_pct": {
+  "2019": 6.4,
+  "2022": 5.1,
+  "2024": 5.5
+ },
+ "kedah_poverty_pct": {
+  "2019": 8.8,
+  "2022": 9.0,
+  "2024": 8.4
+ },
+ "unemployment_pct": 3.2,
+ "unemployment_year": 2024,
+ "kedah_unemployment_pct": 2.5,
+ "population_thousand": 383.4,
+ "population_year": 2025,
+ "net_migration_per_1000_a_year": -2.1,
+ "farm_jobs_share_pct_estimate": 4.0,
+ "nightlights": 6.997,
+ "forecast_model": "shift_share",
+ "gdp_nowcast": {
+  "year": 2025,
+  "p50": 13457.0,
+  "p10": 12422.0,
+  "p90": 14578.0
+ },
+ "gdp_projection": {
+  "year": 2030,
+  "p50": 16199.0,
+  "p10": 14241.0,
+  "p90": 18427.0
+ },
+ "gdp_growth_projection_pct_a_year": 3.8,
+ "gdp_per_capita_projection_rm": 41200.0,
+ "highlights": [
+  "Absolute poverty is only 5.5% (2024), well below Kedah's 8.4%.",
+  "Services make up 75% of the district economy — 1.4× the Kedah average.",
+  "GDP grew 5.6% a year (2015–2019), faster than Kedah (4.3%). Local industries outperformed the same industries statewide."
+ ]
+}

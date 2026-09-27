@@ -1,0 +1,71 @@
+{
+ "district": "Yan",
+ "type": "rural",
+ "gdp_year": 2020,
+ "gdp_rm_million": 731.0,
+ "share_of_kedah_gdp_pct": 1.6,
+ "gdp_per_capita_rm": 10000.0,
+ "gdp_per_capita_rank_in_malaysia": [
+  130,
+  159
+ ],
+ "kedah_gdp_per_capita_rm": 21600.0,
+ "sector_share_pct": {
+  "agriculture": 18.0,
+  "mining": 0.0,
+  "manufacturing": 5.0,
+  "construction": 1.0,
+  "services": 75.0
+ },
+ "gdp_growth_2015_2019_pct_a_year": 3.85,
+ "kedah_gdp_growth_2015_2019_pct_a_year": 4.32,
+ "shift_share_local_points": -1.86,
+ "income_median_rm": {
+  "2019": 3502.0,
+  "2022": 4080.0,
+  "2024": 4695.0
+ },
+ "kedah_income_median_rm": {
+  "2019": 4325,
+  "2022": 4402,
+  "2024": 4895
+ },
+ "income_vs_kedah_pct": -4.0,
+ "poverty_pct": {
+  "2019": 12.7,
+  "2022": 6.0,
+  "2024": 7.4
+ },
+ "kedah_poverty_pct": {
+  "2019": 8.8,
+  "2022": 9.0,
+  "2024": 8.4
+ },
+ "unemployment_pct": 1.9,
+ "unemployment_year": 2024,
+ "kedah_unemployment_pct": 2.5,
+ "population_thousand": 75.1,
+ "population_year": 2025,
+ "net_migration_per_1000_a_year": -1.6,
+ "farm_jobs_share_pct_estimate": 11.0,
+ "nightlights": 2.035,
+ "forecast_model": "shift_share",
+ "gdp_nowcast": {
+  "year": 2025,
+  "p50": 881.0,
+  "p10": 813.0,
+  "p90": 954.0
+ },
+ "gdp_projection": {
+  "year": 2030,
+  "p50": 1044.0,
+  "p10": 918.0,
+  "p90": 1188.0
+ },
+ "gdp_growth_projection_pct_a_year": 3.5,
+ "gdp_per_capita_projection_rm": 13600.0,
+ "highlights": [
+  "Agriculture makes up 18% of the district economy — 1.5× the Kedah average.",
+  "Services make up 75% of the district economy — 1.4× the Kedah average."
+ ]
+}

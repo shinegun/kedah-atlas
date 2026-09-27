@@ -1,0 +1,73 @@
+{
+ "district": "Langkawi",
+ "type": "services",
+ "gdp_year": 2020,
+ "gdp_rm_million": 2416.0,
+ "share_of_kedah_gdp_pct": 5.2,
+ "gdp_per_capita_rm": 25700.0,
+ "gdp_per_capita_rank_in_malaysia": [
+  50,
+  159
+ ],
+ "kedah_gdp_per_capita_rm": 21600.0,
+ "sector_share_pct": {
+  "agriculture": 6.0,
+  "mining": 0.0,
+  "manufacturing": 3.0,
+  "construction": 11.0,
+  "services": 80.0
+ },
+ "gdp_growth_2015_2019_pct_a_year": 5.62,
+ "kedah_gdp_growth_2015_2019_pct_a_year": 4.32,
+ "shift_share_local_points": 3.23,
+ "income_median_rm": {
+  "2019": 5905.0,
+  "2022": 5250.0,
+  "2024": 5083.0
+ },
+ "kedah_income_median_rm": {
+  "2019": 4325,
+  "2022": 4402,
+  "2024": 4895
+ },
+ "income_vs_kedah_pct": 4.0,
+ "poverty_pct": {
+  "2019": 0.9,
+  "2022": 5.7,
+  "2024": 6.0
+ },
+ "kedah_poverty_pct": {
+  "2019": 8.8,
+  "2022": 9.0,
+  "2024": 8.4
+ },
+ "unemployment_pct": 4.9,
+ "unemployment_year": 2024,
+ "kedah_unemployment_pct": 2.5,
+ "population_thousand": 100.5,
+ "population_year": 2025,
+ "net_migration_per_1000_a_year": 2.8,
+ "farm_jobs_share_pct_estimate": 3.0,
+ "nightlights": 2.051,
+ "forecast_model": "shift_share",
+ "gdp_nowcast": {
+  "year": 2025,
+  "p50": 2961.0,
+  "p10": 2733.0,
+  "p90": 3208.0
+ },
+ "gdp_projection": {
+  "year": 2030,
+  "p50": 3581.0,
+  "p10": 3148.0,
+  "p90": 4074.0
+ },
+ "gdp_growth_projection_pct_a_year": 3.9,
+ "gdp_per_capita_projection_rm": 33400.0,
+ "highlights": [
+  "Construction makes up 11% of the district economy — 4.4× the Kedah average.",
+  "Unemployment is 4.9% (2024) against 2.5% for Kedah.",
+  "Services make up 80% of the district economy — 1.4× the Kedah average.",
+  "GDP grew 5.6% a year (2015–2019), faster than Kedah (4.3%). Local industries outperformed the same industries statewide."
+ ]
+}

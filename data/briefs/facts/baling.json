@@ -1,0 +1,73 @@
+{
+ "district": "Baling",
+ "type": "rural",
+ "gdp_year": 2020,
+ "gdp_rm_million": 1526.0,
+ "share_of_kedah_gdp_pct": 3.3,
+ "gdp_per_capita_rm": 10700.0,
+ "gdp_per_capita_rank_in_malaysia": [
+  121,
+  159
+ ],
+ "kedah_gdp_per_capita_rm": 21600.0,
+ "sector_share_pct": {
+  "agriculture": 26.0,
+  "mining": 2.0,
+  "manufacturing": 15.0,
+  "construction": 1.0,
+  "services": 57.0
+ },
+ "gdp_growth_2015_2019_pct_a_year": 2.49,
+ "kedah_gdp_growth_2015_2019_pct_a_year": 4.32,
+ "shift_share_local_points": -5.39,
+ "income_median_rm": {
+  "2019": 3583.0,
+  "2022": 3400.0,
+  "2024": 3367.0
+ },
+ "kedah_income_median_rm": {
+  "2019": 4325,
+  "2022": 4402,
+  "2024": 4895
+ },
+ "income_vs_kedah_pct": -31.0,
+ "poverty_pct": {
+  "2019": 17.9,
+  "2022": 14.4,
+  "2024": 14.7
+ },
+ "kedah_poverty_pct": {
+  "2019": 8.8,
+  "2022": 9.0,
+  "2024": 8.4
+ },
+ "unemployment_pct": 1.8,
+ "unemployment_year": 2024,
+ "kedah_unemployment_pct": 2.5,
+ "population_thousand": 149.0,
+ "population_year": 2025,
+ "net_migration_per_1000_a_year": -0.1,
+ "farm_jobs_share_pct_estimate": 17.0,
+ "nightlights": 0.751,
+ "forecast_model": "shift_share",
+ "gdp_nowcast": {
+  "year": 2025,
+  "p50": 1803.0,
+  "p10": 1664.0,
+  "p90": 1953.0
+ },
+ "gdp_projection": {
+  "year": 2030,
+  "p50": 2115.0,
+  "p10": 1859.0,
+  "p90": 2406.0
+ },
+ "gdp_growth_projection_pct_a_year": 3.2,
+ "gdp_per_capita_projection_rm": 13600.0,
+ "highlights": [
+  "Median household income is RM3,367 a month — 31% below the Kedah median.",
+  "Agriculture makes up 26% of the district economy — 2.2× the Kedah average.",
+  "GDP grew 2.5% a year (2015–2019), slower than Kedah (4.3%). Local industries lagged the same industries statewide.",
+  "Absolute poverty is 14.7% (2024) — the highest in Kedah, against 8.4% statewide."
+ ]
+}

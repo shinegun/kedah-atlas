@@ -1,0 +1,1393 @@
+district,year,indicator,value,unit,kind,source
+Baling,2015,gdp_total,1395.3451,RM million (2015 prices),official,gdp_district
+Baling,2015,gdp_agriculture,434.7939,RM million (2015 prices),official,gdp_district
+Baling,2015,gdp_mining,18.727,RM million (2015 prices),official,gdp_district
+Baling,2015,gdp_manufacturing,194.1093,RM million (2015 prices),official,gdp_district
+Baling,2015,gdp_construction,22.0929,RM million (2015 prices),official,gdp_district
+Baling,2015,gdp_services,719.3754,RM million (2015 prices),official,gdp_district
+Baling,2016,gdp_total,1375.5588,RM million (2015 prices),official,gdp_district
+Baling,2016,gdp_agriculture,385.0622,RM million (2015 prices),official,gdp_district
+Baling,2016,gdp_mining,21.771,RM million (2015 prices),official,gdp_district
+Baling,2016,gdp_manufacturing,201.6382,RM million (2015 prices),official,gdp_district
+Baling,2016,gdp_construction,9.3312,RM million (2015 prices),official,gdp_district
+Baling,2016,gdp_services,750.811,RM million (2015 prices),official,gdp_district
+Baling,2017,gdp_total,1453.2951,RM million (2015 prices),official,gdp_district
+Baling,2017,gdp_agriculture,419.2667,RM million (2015 prices),official,gdp_district
+Baling,2017,gdp_mining,26.2598,RM million (2015 prices),official,gdp_district
+Baling,2017,gdp_manufacturing,202.2234,RM million (2015 prices),official,gdp_district
+Baling,2017,gdp_construction,9.3243,RM million (2015 prices),official,gdp_district
+Baling,2017,gdp_services,789.4481,RM million (2015 prices),official,gdp_district
+Baling,2018,gdp_total,1470.587,RM million (2015 prices),official,gdp_district
+Baling,2018,gdp_agriculture,401.5824,RM million (2015 prices),official,gdp_district
+Baling,2018,gdp_mining,27.0598,RM million (2015 prices),official,gdp_district
+Baling,2018,gdp_manufacturing,200.1007,RM million (2015 prices),official,gdp_district
+Baling,2018,gdp_construction,10.756,RM million (2015 prices),official,gdp_district
+Baling,2018,gdp_services,824.9554,RM million (2015 prices),official,gdp_district
+Baling,2019,gdp_total,1539.4039,RM million (2015 prices),official,gdp_district
+Baling,2019,gdp_agriculture,413.8132,RM million (2015 prices),official,gdp_district
+Baling,2019,gdp_mining,29.19,RM million (2015 prices),official,gdp_district
+Baling,2019,gdp_manufacturing,218.7585,RM million (2015 prices),official,gdp_district
+Baling,2019,gdp_construction,9.3558,RM million (2015 prices),official,gdp_district
+Baling,2019,gdp_services,863.2999,RM million (2015 prices),official,gdp_district
+Baling,2020,gdp_total,1525.7974,RM million (2015 prices),official,gdp_district
+Baling,2020,gdp_agriculture,396.3094,RM million (2015 prices),official,gdp_district
+Baling,2020,gdp_mining,23.8608,RM million (2015 prices),official,gdp_district
+Baling,2020,gdp_manufacturing,228.838,RM million (2015 prices),official,gdp_district
+Baling,2020,gdp_construction,8.6473,RM million (2015 prices),official,gdp_district
+Baling,2020,gdp_services,862.7873,RM million (2015 prices),official,gdp_district
+Baling,2020,population,142.6,thousand,official,population_district
+Baling,2021,population,144.2,thousand,official,population_district
+Baling,2022,population,144.9,thousand,official,population_district
+Baling,2023,population,146.7,thousand,official,population_district
+Baling,2024,population,148.1,thousand,official,population_district
+Baling,2025,population,149.0,thousand,official,population_district
+Baling,2018,lf,68.6,thousand,official,lfs_district
+Baling,2018,lf_employed,66.9,thousand,official,lfs_district
+Baling,2018,lf_unemployed,1.7,thousand,official,lfs_district
+Baling,2018,u_rate,2.4,%,official,lfs_district
+Baling,2018,p_rate,67.9,%,official,lfs_district
+Baling,2019,lf,70.5,thousand,official,lfs_district
+Baling,2019,lf_employed,68.9,thousand,official,lfs_district
+Baling,2019,lf_unemployed,1.6,thousand,official,lfs_district
+Baling,2019,u_rate,2.3,%,official,lfs_district
+Baling,2019,p_rate,67.9,%,official,lfs_district
+Baling,2020,lf,63.2,thousand,official,lfs_district
+Baling,2020,lf_employed,60.8,thousand,official,lfs_district
+Baling,2020,lf_unemployed,2.4,thousand,official,lfs_district
+Baling,2020,u_rate,3.8,%,official,lfs_district
+Baling,2020,p_rate,67.5,%,official,lfs_district
+Baling,2021,lf,63.9,thousand,official,lfs_district
+Baling,2021,lf_employed,61.9,thousand,official,lfs_district
+Baling,2021,lf_unemployed,2.0,thousand,official,lfs_district
+Baling,2021,u_rate,3.1,%,official,lfs_district
+Baling,2021,p_rate,67.8,%,official,lfs_district
+Baling,2022,lf,64.7,thousand,official,lfs_district
+Baling,2022,lf_employed,63.2,thousand,official,lfs_district
+Baling,2022,lf_unemployed,1.4,thousand,official,lfs_district
+Baling,2022,u_rate,2.2,%,official,lfs_district
+Baling,2022,p_rate,68.2,%,official,lfs_district
+Baling,2023,lf,66.4,thousand,official,lfs_district
+Baling,2023,lf_employed,64.9,thousand,official,lfs_district
+Baling,2023,lf_unemployed,1.4,thousand,official,lfs_district
+Baling,2023,u_rate,2.2,%,official,lfs_district
+Baling,2023,p_rate,69.4,%,official,lfs_district
+Baling,2024,lf,68.2,thousand,official,lfs_district
+Baling,2024,lf_employed,67.0,thousand,official,lfs_district
+Baling,2024,lf_unemployed,1.2,thousand,official,lfs_district
+Baling,2024,u_rate,1.8,%,official,lfs_district
+Baling,2024,p_rate,70.4,%,official,lfs_district
+Baling,2019,income_median,3583.0,RM/month,official,hh_income_district
+Baling,2019,income_mean,4313.0,RM/month,official,hh_income_district
+Baling,2019,poverty_absolute,17.9,%,official,hh_poverty_district
+Baling,2019,gini,0.339,index,official,hh_inequality_district
+Baling,2022,income_median,3400.0,RM/month,official,hh_income_district
+Baling,2022,income_mean,4263.0,RM/month,official,hh_income_district
+Baling,2022,poverty_absolute,14.4,%,official,hh_poverty_district
+Baling,2022,gini,0.347,index,official,hh_inequality_district
+Baling,2024,income_median,3367.0,RM/month,official,hh_income_district
+Baling,2024,income_mean,4345.0,RM/month,official,hh_income_district
+Baling,2024,poverty_absolute,14.7,%,official,hh_poverty_district
+Baling,2024,gini,0.324,index,official,hh_inequality_district
+Baling,2024,jobs_agriculture_central,11.14486316250258,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_agriculture_low,7.611252602063073,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_agriculture_high,14.849360885387766,thousand,estimate,atlas-kedah model
+Baling,2020,lq_kedah_agriculture,2.1675312678420724,ratio,derived,gdp_district
+Baling,2025,gdp_agriculture_projected,424.4095347984989,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_mining_central,0.18754637164378898,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_mining_low,0.12589184793349353,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_mining_high,0.2502007315610272,thousand,estimate,atlas-kedah model
+Baling,2020,lq_kedah_mining,3.543545942503927,ratio,derived,gdp_district
+Baling,2025,gdp_mining_projected,13.770527811619496,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_manufacturing_central,8.373244811941166,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_manufacturing_low,5.450521007705019,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_manufacturing_high,12.036721770627704,thousand,estimate,atlas-kedah model
+Baling,2020,lq_kedah_manufacturing,0.5070963432266344,ratio,derived,gdp_district
+Baling,2025,gdp_manufacturing_projected,284.7356503493919,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_construction_central,1.8846862055126998,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_construction_low,1.1891571655320479,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_construction_high,2.767394945740675,thousand,estimate,atlas-kedah model
+Baling,2020,lq_kedah_construction,0.23480829194572017,ratio,derived,gdp_district
+Baling,2025,gdp_construction_projected,10.930078239037789,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_services_central,45.395651516630295,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_services_low,39.24811526877496,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_services_high,51.449008451070696,thousand,estimate,atlas-kedah model
+Baling,2020,lq_kedah_services,1.0237495792405722,ratio,derived,gdp_district
+Baling,2025,gdp_services_projected,1068.8705351246406,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2025,gdp_total_projected,1816.1921200695601,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,net_migration_per_1000_yr,-0.1472650771388493,"per 1,000/yr",derived,population/births/deaths
+Bandar Baharu,2015,gdp_total,600.4789,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2015,gdp_agriculture,265.7816,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2015,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2015,gdp_manufacturing,35.6816,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2015,gdp_construction,10.372,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2015,gdp_services,286.8733,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2016,gdp_total,583.8934,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2016,gdp_agriculture,241.6487,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2016,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2016,gdp_manufacturing,30.9099,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2016,gdp_construction,10.9535,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2016,gdp_services,298.4718,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2017,gdp_total,622.5999,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2017,gdp_agriculture,269.5717,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2017,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2017,gdp_manufacturing,34.6245,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2017,gdp_construction,7.926,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2017,gdp_services,308.6165,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2018,gdp_total,628.5226,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2018,gdp_agriculture,269.2363,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2018,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2018,gdp_manufacturing,33.6059,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2018,gdp_construction,4.706005703293727,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2018,gdp_services,319.2695,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2019,gdp_total,636.8336,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2019,gdp_agriculture,271.2395,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2019,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2019,gdp_manufacturing,31.8817,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2019,gdp_construction,3.3169617621531415,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2019,gdp_services,328.668,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2020,gdp_total,625.6151,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2020,gdp_agriculture,271.9672,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2020,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2020,gdp_manufacturing,30.4871,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2020,gdp_construction,3.6206924207606335,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2020,gdp_services,317.8431,RM million (2015 prices),official,gdp_district
+Bandar Baharu,2020,population,44.4,thousand,official,population_district
+Bandar Baharu,2021,population,44.4,thousand,official,population_district
+Bandar Baharu,2022,population,44.7,thousand,official,population_district
+Bandar Baharu,2023,population,45.1,thousand,official,population_district
+Bandar Baharu,2024,population,45.6,thousand,official,population_district
+Bandar Baharu,2025,population,45.6,thousand,official,population_district
+Bandar Baharu,2018,lf,21.6,thousand,official,lfs_district
+Bandar Baharu,2018,lf_employed,21.0,thousand,official,lfs_district
+Bandar Baharu,2018,lf_unemployed,0.6,thousand,official,lfs_district
+Bandar Baharu,2018,u_rate,2.7,%,official,lfs_district
+Bandar Baharu,2018,p_rate,68.4,%,official,lfs_district
+Bandar Baharu,2019,lf,22.6,thousand,official,lfs_district
+Bandar Baharu,2019,lf_employed,22.0,thousand,official,lfs_district
+Bandar Baharu,2019,lf_unemployed,0.6,thousand,official,lfs_district
+Bandar Baharu,2019,u_rate,2.6,%,official,lfs_district
+Bandar Baharu,2019,p_rate,68.4,%,official,lfs_district
+Bandar Baharu,2020,lf,20.6,thousand,official,lfs_district
+Bandar Baharu,2020,lf_employed,19.7,thousand,official,lfs_district
+Bandar Baharu,2020,lf_unemployed,0.9,thousand,official,lfs_district
+Bandar Baharu,2020,u_rate,4.6,%,official,lfs_district
+Bandar Baharu,2020,p_rate,70.3,%,official,lfs_district
+Bandar Baharu,2021,lf,20.6,thousand,official,lfs_district
+Bandar Baharu,2021,lf_employed,19.7,thousand,official,lfs_district
+Bandar Baharu,2021,lf_unemployed,0.9,thousand,official,lfs_district
+Bandar Baharu,2021,u_rate,4.3,%,official,lfs_district
+Bandar Baharu,2021,p_rate,69.9,%,official,lfs_district
+Bandar Baharu,2022,lf,20.9,thousand,official,lfs_district
+Bandar Baharu,2022,lf_employed,20.3,thousand,official,lfs_district
+Bandar Baharu,2022,lf_unemployed,0.6,thousand,official,lfs_district
+Bandar Baharu,2022,u_rate,3.1,%,official,lfs_district
+Bandar Baharu,2022,p_rate,70.5,%,official,lfs_district
+Bandar Baharu,2023,lf,21.5,thousand,official,lfs_district
+Bandar Baharu,2023,lf_employed,20.9,thousand,official,lfs_district
+Bandar Baharu,2023,lf_unemployed,0.6,thousand,official,lfs_district
+Bandar Baharu,2023,u_rate,3.0,%,official,lfs_district
+Bandar Baharu,2023,p_rate,71.7,%,official,lfs_district
+Bandar Baharu,2024,lf,21.9,thousand,official,lfs_district
+Bandar Baharu,2024,lf_employed,21.4,thousand,official,lfs_district
+Bandar Baharu,2024,lf_unemployed,0.5,thousand,official,lfs_district
+Bandar Baharu,2024,u_rate,2.5,%,official,lfs_district
+Bandar Baharu,2024,p_rate,71.8,%,official,lfs_district
+Bandar Baharu,2019,income_median,4022.0,RM/month,official,hh_income_district
+Bandar Baharu,2019,income_mean,4959.0,RM/month,official,hh_income_district
+Bandar Baharu,2019,poverty_absolute,7.2,%,official,hh_poverty_district
+Bandar Baharu,2019,gini,0.324,index,official,hh_inequality_district
+Bandar Baharu,2022,income_median,3922.0,RM/month,official,hh_income_district
+Bandar Baharu,2022,income_mean,4565.0,RM/month,official,hh_income_district
+Bandar Baharu,2022,poverty_absolute,3.9,%,official,hh_poverty_district
+Bandar Baharu,2022,gini,0.291,index,official,hh_inequality_district
+Bandar Baharu,2024,income_median,4310.0,RM/month,official,hh_income_district
+Bandar Baharu,2024,income_mean,4835.0,RM/month,official,hh_income_district
+Bandar Baharu,2024,poverty_absolute,5.8,%,official,hh_poverty_district
+Bandar Baharu,2024,gini,0.339,index,official,hh_inequality_district
+Bandar Baharu,2024,jobs_agriculture_central,6.063431333465583,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_agriculture_low,4.258128610197605,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_agriculture_high,8.007529957939958,thousand,estimate,atlas-kedah model
+Bandar Baharu,2020,lq_kedah_agriculture,3.6248499574424664,ratio,derived,gdp_district
+Bandar Baharu,2025,gdp_agriculture_projected,291.25090858922425,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Bandar Baharu,2020,lq_kedah_mining,0.0,ratio,derived,gdp_district
+Bandar Baharu,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_manufacturing_central,0.9466814086113317,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_manufacturing_low,0.595802385900741,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_manufacturing_high,1.4289995797212376,thousand,estimate,atlas-kedah model
+Bandar Baharu,2020,lq_kedah_manufacturing,0.16463454109440576,ratio,derived,gdp_district
+Bandar Baharu,2025,gdp_manufacturing_projected,37.93410292769097,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_construction_central,0.5892963607626912,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_construction_low,0.36989706419062124,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_construction_high,0.871033570591722,thousand,estimate,atlas-kedah model
+Bandar Baharu,2020,lq_kedah_construction,0.2395890927284495,ratio,derived,gdp_district
+Bandar Baharu,2025,gdp_construction_projected,4.5765095970308485,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_services_central,13.796116726325108,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_services_low,11.589232440671042,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_services_high,16.020441196358274,thousand,estimate,atlas-kedah model
+Bandar Baharu,2020,lq_kedah_services,0.9190630100096506,ratio,derived,gdp_district
+Bandar Baharu,2025,gdp_services_projected,393.76231474741763,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2025,gdp_total_projected,732.9622739641754,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,net_migration_per_1000_yr,0.5912162162162324,"per 1,000/yr",derived,population/births/deaths
+Kota Setar,2015,gdp_total,8983.2773,RM million (2015 prices),official,gdp_district
+Kota Setar,2015,gdp_agriculture,764.5571,RM million (2015 prices),official,gdp_district
+Kota Setar,2015,gdp_mining,29.057278077158117,RM million (2015 prices),official,gdp_district
+Kota Setar,2015,gdp_manufacturing,1091.1471,RM million (2015 prices),official,gdp_district
+Kota Setar,2015,gdp_construction,330.9197,RM million (2015 prices),official,gdp_district
+Kota Setar,2015,gdp_services,6743.2286,RM million (2015 prices),official,gdp_district
+Kota Setar,2016,gdp_total,9609.326,RM million (2015 prices),official,gdp_district
+Kota Setar,2016,gdp_agriculture,814.2263,RM million (2015 prices),official,gdp_district
+Kota Setar,2016,gdp_mining,35.23299433946704,RM million (2015 prices),official,gdp_district
+Kota Setar,2016,gdp_manufacturing,1141.6884,RM million (2015 prices),official,gdp_district
+Kota Setar,2016,gdp_construction,429.5926,RM million (2015 prices),official,gdp_district
+Kota Setar,2016,gdp_services,7162.52,RM million (2015 prices),official,gdp_district
+Kota Setar,2017,gdp_total,10047.096,RM million (2015 prices),official,gdp_district
+Kota Setar,2017,gdp_agriculture,840.4592,RM million (2015 prices),official,gdp_district
+Kota Setar,2017,gdp_mining,32.71912458695988,RM million (2015 prices),official,gdp_district
+Kota Setar,2017,gdp_manufacturing,1252.008,RM million (2015 prices),official,gdp_district
+Kota Setar,2017,gdp_construction,331.437,RM million (2015 prices),official,gdp_district
+Kota Setar,2017,gdp_services,7563.2195,RM million (2015 prices),official,gdp_district
+Kota Setar,2018,gdp_total,10716.4553,RM million (2015 prices),official,gdp_district
+Kota Setar,2018,gdp_agriculture,825.1071,RM million (2015 prices),official,gdp_district
+Kota Setar,2018,gdp_mining,28.449559003864124,RM million (2015 prices),official,gdp_district
+Kota Setar,2018,gdp_manufacturing,1387.2371,RM million (2015 prices),official,gdp_district
+Kota Setar,2018,gdp_construction,415.8889,RM million (2015 prices),official,gdp_district
+Kota Setar,2018,gdp_services,8030.7038,RM million (2015 prices),official,gdp_district
+Kota Setar,2019,gdp_total,11182.6356,RM million (2015 prices),official,gdp_district
+Kota Setar,2019,gdp_agriculture,850.8703,RM million (2015 prices),official,gdp_district
+Kota Setar,2019,gdp_mining,15.147825103718787,RM million (2015 prices),official,gdp_district
+Kota Setar,2019,gdp_manufacturing,1390.5273,RM million (2015 prices),official,gdp_district
+Kota Setar,2019,gdp_construction,433.073,RM million (2015 prices),official,gdp_district
+Kota Setar,2019,gdp_services,8462.6838,RM million (2015 prices),official,gdp_district
+Kota Setar,2020,gdp_total,11000.6288,RM million (2015 prices),official,gdp_district
+Kota Setar,2020,gdp_agriculture,834.269,RM million (2015 prices),official,gdp_district
+Kota Setar,2020,gdp_mining,19.400326293274702,RM million (2015 prices),official,gdp_district
+Kota Setar,2020,gdp_manufacturing,1431.2894,RM million (2015 prices),official,gdp_district
+Kota Setar,2020,gdp_construction,425.5866,RM million (2015 prices),official,gdp_district
+Kota Setar,2020,gdp_services,8260.2438,RM million (2015 prices),official,gdp_district
+Kota Setar,2020,population,374.1,thousand,official,population_district
+Kota Setar,2021,population,376.3,thousand,official,population_district
+Kota Setar,2022,population,376.8,thousand,official,population_district
+Kota Setar,2023,population,379.3,thousand,official,population_district
+Kota Setar,2024,population,381.7,thousand,official,population_district
+Kota Setar,2025,population,383.4,thousand,official,population_district
+Kota Setar,2018,lf,169.6,thousand,official,lfs_district
+Kota Setar,2018,lf_employed,163.3,thousand,official,lfs_district
+Kota Setar,2018,lf_unemployed,6.4,thousand,official,lfs_district
+Kota Setar,2018,u_rate,3.8,%,official,lfs_district
+Kota Setar,2018,p_rate,61.7,%,official,lfs_district
+Kota Setar,2019,lf,171.4,thousand,official,lfs_district
+Kota Setar,2019,lf_employed,165.3,thousand,official,lfs_district
+Kota Setar,2019,lf_unemployed,6.1,thousand,official,lfs_district
+Kota Setar,2019,u_rate,3.5,%,official,lfs_district
+Kota Setar,2019,p_rate,61.6,%,official,lfs_district
+Kota Setar,2020,lf,154.2,thousand,official,lfs_district
+Kota Setar,2020,lf_employed,146.3,thousand,official,lfs_district
+Kota Setar,2020,lf_unemployed,7.9,thousand,official,lfs_district
+Kota Setar,2020,u_rate,5.1,%,official,lfs_district
+Kota Setar,2020,p_rate,62.2,%,official,lfs_district
+Kota Setar,2021,lf,154.0,thousand,official,lfs_district
+Kota Setar,2021,lf_employed,146.7,thousand,official,lfs_district
+Kota Setar,2021,lf_unemployed,7.3,thousand,official,lfs_district
+Kota Setar,2021,u_rate,4.7,%,official,lfs_district
+Kota Setar,2021,p_rate,61.7,%,official,lfs_district
+Kota Setar,2022,lf,155.5,thousand,official,lfs_district
+Kota Setar,2022,lf_employed,149.7,thousand,official,lfs_district
+Kota Setar,2022,lf_unemployed,5.8,thousand,official,lfs_district
+Kota Setar,2022,u_rate,3.7,%,official,lfs_district
+Kota Setar,2022,p_rate,62.1,%,official,lfs_district
+Kota Setar,2023,lf,159.3,thousand,official,lfs_district
+Kota Setar,2023,lf_employed,153.4,thousand,official,lfs_district
+Kota Setar,2023,lf_unemployed,5.8,thousand,official,lfs_district
+Kota Setar,2023,u_rate,3.7,%,official,lfs_district
+Kota Setar,2023,p_rate,63.2,%,official,lfs_district
+Kota Setar,2024,lf,162.6,thousand,official,lfs_district
+Kota Setar,2024,lf_employed,157.4,thousand,official,lfs_district
+Kota Setar,2024,lf_unemployed,5.3,thousand,official,lfs_district
+Kota Setar,2024,u_rate,3.2,%,official,lfs_district
+Kota Setar,2024,p_rate,63.8,%,official,lfs_district
+Kota Setar,2019,income_median,4532.0,RM/month,official,hh_income_district
+Kota Setar,2019,income_mean,5773.0,RM/month,official,hh_income_district
+Kota Setar,2019,poverty_absolute,6.4,%,official,hh_poverty_district
+Kota Setar,2019,gini,0.352,index,official,hh_inequality_district
+Kota Setar,2022,income_median,4751.0,RM/month,official,hh_income_district
+Kota Setar,2022,income_mean,5959.0,RM/month,official,hh_income_district
+Kota Setar,2022,poverty_absolute,5.1,%,official,hh_poverty_district
+Kota Setar,2022,gini,0.348,index,official,hh_inequality_district
+Kota Setar,2024,income_median,5208.0,RM/month,official,hh_income_district
+Kota Setar,2024,income_mean,6034.0,RM/month,official,hh_income_district
+Kota Setar,2024,poverty_absolute,5.5,%,official,hh_poverty_district
+Kota Setar,2024,gini,0.328,index,official,hh_inequality_district
+Kota Setar,2024,jobs_agriculture_central,6.022133777284429,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_agriculture_low,3.9022525703777675,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_agriculture_high,8.404556474979612,thousand,estimate,atlas-kedah model
+Kota Setar,2020,lq_kedah_agriculture,0.6323671815443067,ratio,derived,gdp_district
+Kota Setar,2025,gdp_agriculture_projected,893.422457773671,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_mining_central,0.03172722892512941,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_mining_low,0.019412116002391254,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_mining_high,0.046636603792123796,thousand,estimate,atlas-kedah model
+Kota Setar,2020,lq_kedah_mining,0.39929541251359313,ratio,derived,gdp_district
+Kota Setar,2025,gdp_mining_projected,11.196302419702283,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_manufacturing_central,13.712811481317482,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_manufacturing_low,9.136965653682456,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_manufacturing_high,19.899869657376197,thousand,estimate,atlas-kedah model
+Kota Setar,2020,lq_kedah_manufacturing,0.4395638911376435,ratio,derived,gdp_district
+Kota Setar,2025,gdp_manufacturing_projected,1780.9066595023157,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_construction_central,23.350887249252633,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_construction_low,16.763441313263225,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_construction_high,29.671696747347582,thousand,estimate,atlas-kedah model
+Kota Setar,2020,lq_kedah_construction,1.601596339327646,ratio,derived,gdp_district
+Kota Setar,2025,gdp_construction_projected,537.9360997636348,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_services_central,114.24953206689996,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_services_low,101.44948017264309,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_services_high,125.85450637091162,thousand,estimate,atlas-kedah model
+Kota Setar,2020,lq_kedah_services,1.358360603065083,ratio,derived,gdp_district
+Kota Setar,2025,gdp_services_projected,10233.265152101792,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2025,gdp_total_projected,13557.319355212632,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,net_migration_per_1000_yr,-2.0676289762095927,"per 1,000/yr",derived,population/births/deaths
+Kuala Muda,2015,gdp_total,9733.5641,RM million (2015 prices),official,gdp_district
+Kuala Muda,2015,gdp_agriculture,896.3287,RM million (2015 prices),official,gdp_district
+Kuala Muda,2015,gdp_mining,12.5054,RM million (2015 prices),official,gdp_district
+Kuala Muda,2015,gdp_manufacturing,3386.2915,RM million (2015 prices),official,gdp_district
+Kuala Muda,2015,gdp_construction,211.0815,RM million (2015 prices),official,gdp_district
+Kuala Muda,2015,gdp_services,5149.6952,RM million (2015 prices),official,gdp_district
+Kuala Muda,2016,gdp_total,10116.2307,RM million (2015 prices),official,gdp_district
+Kuala Muda,2016,gdp_agriculture,843.3166,RM million (2015 prices),official,gdp_district
+Kuala Muda,2016,gdp_mining,15.0026,RM million (2015 prices),official,gdp_district
+Kuala Muda,2016,gdp_manufacturing,3515.8,RM million (2015 prices),official,gdp_district
+Kuala Muda,2016,gdp_construction,185.5222,RM million (2015 prices),official,gdp_district
+Kuala Muda,2016,gdp_services,5471.4176,RM million (2015 prices),official,gdp_district
+Kuala Muda,2017,gdp_total,10555.9169,RM million (2015 prices),official,gdp_district
+Kuala Muda,2017,gdp_agriculture,904.6062,RM million (2015 prices),official,gdp_district
+Kuala Muda,2017,gdp_mining,17.2289,RM million (2015 prices),official,gdp_district
+Kuala Muda,2017,gdp_manufacturing,3622.3122,RM million (2015 prices),official,gdp_district
+Kuala Muda,2017,gdp_construction,127.8987,RM million (2015 prices),official,gdp_district
+Kuala Muda,2017,gdp_services,5802.7667,RM million (2015 prices),official,gdp_district
+Kuala Muda,2018,gdp_total,11076.1503,RM million (2015 prices),official,gdp_district
+Kuala Muda,2018,gdp_agriculture,869.5754,RM million (2015 prices),official,gdp_district
+Kuala Muda,2018,gdp_mining,18.0182,RM million (2015 prices),official,gdp_district
+Kuala Muda,2018,gdp_manufacturing,3769.528,RM million (2015 prices),official,gdp_district
+Kuala Muda,2018,gdp_construction,191.5427,RM million (2015 prices),official,gdp_district
+Kuala Muda,2018,gdp_services,6152.4369,RM million (2015 prices),official,gdp_district
+Kuala Muda,2019,gdp_total,11498.6446,RM million (2015 prices),official,gdp_district
+Kuala Muda,2019,gdp_agriculture,866.6562,RM million (2015 prices),official,gdp_district
+Kuala Muda,2019,gdp_mining,19.9059,RM million (2015 prices),official,gdp_district
+Kuala Muda,2019,gdp_manufacturing,3873.1845,RM million (2015 prices),official,gdp_district
+Kuala Muda,2019,gdp_construction,192.2301,RM million (2015 prices),official,gdp_district
+Kuala Muda,2019,gdp_services,6488.3949,RM million (2015 prices),official,gdp_district
+Kuala Muda,2020,gdp_total,11337.9669,RM million (2015 prices),official,gdp_district
+Kuala Muda,2020,gdp_agriculture,817.6781,RM million (2015 prices),official,gdp_district
+Kuala Muda,2020,gdp_mining,19.506,RM million (2015 prices),official,gdp_district
+Kuala Muda,2020,gdp_manufacturing,3852.609,RM million (2015 prices),official,gdp_district
+Kuala Muda,2020,gdp_construction,215.1189,RM million (2015 prices),official,gdp_district
+Kuala Muda,2020,gdp_services,6371.1606,RM million (2015 prices),official,gdp_district
+Kuala Muda,2020,population,545.0,thousand,official,population_district
+Kuala Muda,2021,population,546.3,thousand,official,population_district
+Kuala Muda,2022,population,550.5,thousand,official,population_district
+Kuala Muda,2023,population,560.3,thousand,official,population_district
+Kuala Muda,2024,population,571.3,thousand,official,population_district
+Kuala Muda,2025,population,574.7,thousand,official,population_district
+Kuala Muda,2018,lf,214.6,thousand,official,lfs_district
+Kuala Muda,2018,lf_employed,208.9,thousand,official,lfs_district
+Kuala Muda,2018,lf_unemployed,5.8,thousand,official,lfs_district
+Kuala Muda,2018,u_rate,2.7,%,official,lfs_district
+Kuala Muda,2018,p_rate,61.0,%,official,lfs_district
+Kuala Muda,2019,lf,214.7,thousand,official,lfs_district
+Kuala Muda,2019,lf_employed,209.1,thousand,official,lfs_district
+Kuala Muda,2019,lf_unemployed,5.6,thousand,official,lfs_district
+Kuala Muda,2019,u_rate,2.6,%,official,lfs_district
+Kuala Muda,2019,p_rate,60.4,%,official,lfs_district
+Kuala Muda,2020,lf,223.9,thousand,official,lfs_district
+Kuala Muda,2020,lf_employed,215.6,thousand,official,lfs_district
+Kuala Muda,2020,lf_unemployed,8.3,thousand,official,lfs_district
+Kuala Muda,2020,u_rate,3.7,%,official,lfs_district
+Kuala Muda,2020,p_rate,60.5,%,official,lfs_district
+Kuala Muda,2021,lf,226.3,thousand,official,lfs_district
+Kuala Muda,2021,lf_employed,218.6,thousand,official,lfs_district
+Kuala Muda,2021,lf_unemployed,7.8,thousand,official,lfs_district
+Kuala Muda,2021,u_rate,3.4,%,official,lfs_district
+Kuala Muda,2021,p_rate,61.1,%,official,lfs_district
+Kuala Muda,2022,lf,229.8,thousand,official,lfs_district
+Kuala Muda,2022,lf_employed,223.9,thousand,official,lfs_district
+Kuala Muda,2022,lf_unemployed,5.9,thousand,official,lfs_district
+Kuala Muda,2022,u_rate,2.6,%,official,lfs_district
+Kuala Muda,2022,p_rate,61.5,%,official,lfs_district
+Kuala Muda,2023,lf,238.0,thousand,official,lfs_district
+Kuala Muda,2023,lf_employed,232.1,thousand,official,lfs_district
+Kuala Muda,2023,lf_unemployed,6.0,thousand,official,lfs_district
+Kuala Muda,2023,u_rate,2.5,%,official,lfs_district
+Kuala Muda,2023,p_rate,62.5,%,official,lfs_district
+Kuala Muda,2024,lf,244.5,thousand,official,lfs_district
+Kuala Muda,2024,lf_employed,239.1,thousand,official,lfs_district
+Kuala Muda,2024,lf_unemployed,5.5,thousand,official,lfs_district
+Kuala Muda,2024,u_rate,2.2,%,official,lfs_district
+Kuala Muda,2024,p_rate,62.8,%,official,lfs_district
+Kuala Muda,2019,income_median,4247.0,RM/month,official,hh_income_district
+Kuala Muda,2019,income_mean,5656.0,RM/month,official,hh_income_district
+Kuala Muda,2019,poverty_absolute,10.9,%,official,hh_poverty_district
+Kuala Muda,2019,gini,0.384,index,official,hh_inequality_district
+Kuala Muda,2022,income_median,4200.0,RM/month,official,hh_income_district
+Kuala Muda,2022,income_mean,5624.0,RM/month,official,hh_income_district
+Kuala Muda,2022,poverty_absolute,13.8,%,official,hh_poverty_district
+Kuala Muda,2022,gini,0.404,index,official,hh_inequality_district
+Kuala Muda,2024,income_median,4953.0,RM/month,official,hh_income_district
+Kuala Muda,2024,income_mean,5729.0,RM/month,official,hh_income_district
+Kuala Muda,2024,poverty_absolute,11.8,%,official,hh_poverty_district
+Kuala Muda,2024,gini,0.333,index,official,hh_inequality_district
+Kuala Muda,2024,jobs_agriculture_central,10.095266935632594,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_agriculture_low,6.974502850476266,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_agriculture_high,13.99405472043329,thousand,estimate,atlas-kedah model
+Kuala Muda,2020,lq_kedah_agriculture,0.6030114891751388,ratio,derived,gdp_district
+Kuala Muda,2025,gdp_agriculture_projected,875.6551876789207,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_mining_central,0.06070292562468322,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_mining_low,0.039743482105087574,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_mining_high,0.08740887201927722,thousand,estimate,atlas-kedah model
+Kuala Muda,2020,lq_kedah_mining,0.39060114331746204,ratio,derived,gdp_district
+Kuala Muda,2025,gdp_mining_projected,11.257288753665001,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_manufacturing_central,62.96739468294006,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_manufacturing_low,48.660358953036244,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_manufacturing_high,78.09249009463117,thousand,estimate,atlas-kedah model
+Kuala Muda,2020,lq_kedah_manufacturing,1.1511435730943798,ratio,derived,gdp_district
+Kuala Muda,2025,gdp_manufacturing_projected,4793.675565932757,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_construction_central,18.57906841552941,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_construction_low,12.968949651489481,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_construction_high,24.358536978116188,thousand,estimate,atlas-kedah model
+Kuala Muda,2020,lq_kedah_construction,0.7876326207578697,ratio,derived,gdp_district
+Kuala Muda,2025,gdp_construction_projected,271.9075789779175,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_services_central,147.34757746677613,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_services_low,128.36246509349613,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_services_high,166.00902852200954,thousand,estimate,atlas-kedah model
+Kuala Muda,2020,lq_kedah_services,1.0193439933432604,ratio,derived,gdp_district
+Kuala Muda,2025,gdp_services_projected,7892.960223089777,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2025,gdp_total_projected,13948.954384142065,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,net_migration_per_1000_yr,5.475229357798145,"per 1,000/yr",derived,population/births/deaths
+Kubang Pasu,2015,gdp_total,3122.5346,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2015,gdp_agriculture,703.1715,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2015,gdp_mining,5.4155,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2015,gdp_manufacturing,459.7586,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2015,gdp_construction,51.9122,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2015,gdp_services,1887.3409,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2016,gdp_total,3208.2677,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2016,gdp_agriculture,716.0501,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2016,gdp_mining,5.4707,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2016,gdp_manufacturing,451.1046,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2016,gdp_construction,54.0169,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2016,gdp_services,1965.4873,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2017,gdp_total,3319.2798,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2017,gdp_agriculture,704.6213,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2017,gdp_mining,6.5284,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2017,gdp_manufacturing,455.3286,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2017,gdp_construction,73.0519,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2017,gdp_services,2064.3207,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2018,gdp_total,3500.6806,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2018,gdp_agriculture,735.79,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2018,gdp_mining,7.0947,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2018,gdp_manufacturing,509.9614,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2018,gdp_construction,56.0221,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2018,gdp_services,2176.9525,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2019,gdp_total,3599.1853,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2019,gdp_agriculture,765.6799,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2019,gdp_mining,7.5202,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2019,gdp_manufacturing,500.6649,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2019,gdp_construction,43.5847,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2019,gdp_services,2270.3243,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2020,gdp_total,3553.6538,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2020,gdp_agriculture,757.9821,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2020,gdp_mining,7.2521,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2020,gdp_manufacturing,527.5649,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2020,gdp_construction,39.9057,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2020,gdp_services,2208.8044,RM million (2015 prices),official,gdp_district
+Kubang Pasu,2020,population,237.8,thousand,official,population_district
+Kubang Pasu,2021,population,248.7,thousand,official,population_district
+Kubang Pasu,2022,population,249.7,thousand,official,population_district
+Kubang Pasu,2023,population,251.5,thousand,official,population_district
+Kubang Pasu,2024,population,253.3,thousand,official,population_district
+Kubang Pasu,2025,population,254.2,thousand,official,population_district
+Kubang Pasu,2018,lf,100.2,thousand,official,lfs_district
+Kubang Pasu,2018,lf_employed,97.6,thousand,official,lfs_district
+Kubang Pasu,2018,lf_unemployed,2.6,thousand,official,lfs_district
+Kubang Pasu,2018,u_rate,2.6,%,official,lfs_district
+Kubang Pasu,2018,p_rate,60.8,%,official,lfs_district
+Kubang Pasu,2019,lf,102.3,thousand,official,lfs_district
+Kubang Pasu,2019,lf_employed,99.9,thousand,official,lfs_district
+Kubang Pasu,2019,lf_unemployed,2.4,thousand,official,lfs_district
+Kubang Pasu,2019,u_rate,2.3,%,official,lfs_district
+Kubang Pasu,2019,p_rate,60.8,%,official,lfs_district
+Kubang Pasu,2020,lf,97.6,thousand,official,lfs_district
+Kubang Pasu,2020,lf_employed,93.8,thousand,official,lfs_district
+Kubang Pasu,2020,lf_unemployed,3.8,thousand,official,lfs_district
+Kubang Pasu,2020,u_rate,3.9,%,official,lfs_district
+Kubang Pasu,2020,p_rate,62.3,%,official,lfs_district
+Kubang Pasu,2021,lf,101.7,thousand,official,lfs_district
+Kubang Pasu,2021,lf_employed,98.0,thousand,official,lfs_district
+Kubang Pasu,2021,lf_unemployed,3.7,thousand,official,lfs_district
+Kubang Pasu,2021,u_rate,3.7,%,official,lfs_district
+Kubang Pasu,2021,p_rate,62.2,%,official,lfs_district
+Kubang Pasu,2022,lf,103.5,thousand,official,lfs_district
+Kubang Pasu,2022,lf_employed,100.6,thousand,official,lfs_district
+Kubang Pasu,2022,lf_unemployed,2.9,thousand,official,lfs_district
+Kubang Pasu,2022,u_rate,2.8,%,official,lfs_district
+Kubang Pasu,2022,p_rate,63.0,%,official,lfs_district
+Kubang Pasu,2023,lf,106.1,thousand,official,lfs_district
+Kubang Pasu,2023,lf_employed,103.2,thousand,official,lfs_district
+Kubang Pasu,2023,lf_unemployed,2.9,thousand,official,lfs_district
+Kubang Pasu,2023,u_rate,2.7,%,official,lfs_district
+Kubang Pasu,2023,p_rate,64.1,%,official,lfs_district
+Kubang Pasu,2024,lf,109.4,thousand,official,lfs_district
+Kubang Pasu,2024,lf_employed,106.8,thousand,official,lfs_district
+Kubang Pasu,2024,lf_unemployed,2.6,thousand,official,lfs_district
+Kubang Pasu,2024,u_rate,2.4,%,official,lfs_district
+Kubang Pasu,2024,p_rate,65.3,%,official,lfs_district
+Kubang Pasu,2019,income_median,4814.0,RM/month,official,hh_income_district
+Kubang Pasu,2019,income_mean,6291.0,RM/month,official,hh_income_district
+Kubang Pasu,2019,poverty_absolute,4.8,%,official,hh_poverty_district
+Kubang Pasu,2019,gini,0.361,index,official,hh_inequality_district
+Kubang Pasu,2022,income_median,5201.0,RM/month,official,hh_income_district
+Kubang Pasu,2022,income_mean,6221.0,RM/month,official,hh_income_district
+Kubang Pasu,2022,poverty_absolute,3.3,%,official,hh_poverty_district
+Kubang Pasu,2022,gini,0.325,index,official,hh_inequality_district
+Kubang Pasu,2024,income_median,5312.0,RM/month,official,hh_income_district
+Kubang Pasu,2024,income_mean,6313.0,RM/month,official,hh_income_district
+Kubang Pasu,2024,poverty_absolute,4.0,%,official,hh_poverty_district
+Kubang Pasu,2024,gini,0.317,index,official,hh_inequality_district
+Kubang Pasu,2024,jobs_agriculture_central,13.419189915577457,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_agriculture_low,9.195904779111485,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_agriculture_high,17.955251000079944,thousand,estimate,atlas-kedah model
+Kubang Pasu,2020,lq_kedah_agriculture,1.7798018730722103,ratio,derived,gdp_district
+Kubang Pasu,2025,gdp_agriculture_projected,811.726470395578,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_mining_central,0.03343324402197998,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_mining_low,0.020648566737156576,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_mining_high,0.049045550504454874,thousand,estimate,atlas-kedah model
+Kubang Pasu,2020,lq_kedah_mining,0.462379491819215,ratio,derived,gdp_district
+Kubang Pasu,2025,gdp_mining_projected,4.185326759481901,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_manufacturing_central,12.314334992333684,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_manufacturing_low,8.25583797538708,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_manufacturing_high,17.669781721073132,thousand,estimate,atlas-kedah model
+Kubang Pasu,2020,lq_kedah_manufacturing,0.5019031722880164,ratio,derived,gdp_district
+Kubang Pasu,2025,gdp_manufacturing_projected,656.4317766411693,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_construction_central,5.595539553197005,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_construction_low,3.648046877403447,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_construction_high,7.916468091807899,thousand,estimate,atlas-kedah model
+Kubang Pasu,2020,lq_kedah_construction,0.4652105430438555,ratio,derived,gdp_district
+Kubang Pasu,2025,gdp_construction_projected,50.44030196518801,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_services_central,75.4151732312257,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_services_low,66.01898065817396,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_services_high,84.08404428466172,thousand,estimate,atlas-kedah model
+Kubang Pasu,2020,lq_kedah_services,1.1251980304024352,ratio,derived,gdp_district
+Kubang Pasu,2025,gdp_services_projected,2736.393942068527,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2025,gdp_total_projected,4291.016327840701,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,net_migration_per_1000_yr,8.257989907485282,"per 1,000/yr",derived,population/births/deaths
+Kulim,2015,gdp_total,8999.9274,RM million (2015 prices),official,gdp_district
+Kulim,2015,gdp_agriculture,309.3907,RM million (2015 prices),official,gdp_district
+Kulim,2015,gdp_mining,92.82481397243282,RM million (2015 prices),official,gdp_district
+Kulim,2015,gdp_manufacturing,5977.318,RM million (2015 prices),official,gdp_district
+Kulim,2015,gdp_construction,122.56,RM million (2015 prices),official,gdp_district
+Kulim,2015,gdp_services,2473.4212,RM million (2015 prices),official,gdp_district
+Kulim,2016,gdp_total,9453.1989,RM million (2015 prices),official,gdp_district
+Kulim,2016,gdp_agriculture,258.3143,RM million (2015 prices),official,gdp_district
+Kulim,2016,gdp_mining,105.67529574156833,RM million (2015 prices),official,gdp_district
+Kulim,2016,gdp_manufacturing,6299.4079,RM million (2015 prices),official,gdp_district
+Kulim,2016,gdp_construction,162.6606,RM million (2015 prices),official,gdp_district
+Kulim,2016,gdp_services,2601.4986,RM million (2015 prices),official,gdp_district
+Kulim,2017,gdp_total,9965.7518,RM million (2015 prices),official,gdp_district
+Kulim,2017,gdp_agriculture,313.1846,RM million (2015 prices),official,gdp_district
+Kulim,2017,gdp_mining,95.934474190728,RM million (2015 prices),official,gdp_district
+Kulim,2017,gdp_manufacturing,6568.0177,RM million (2015 prices),official,gdp_district
+Kulim,2017,gdp_construction,236.2137,RM million (2015 prices),official,gdp_district
+Kulim,2017,gdp_services,2725.3688,RM million (2015 prices),official,gdp_district
+Kulim,2018,gdp_total,9947.9862,RM million (2015 prices),official,gdp_district
+Kulim,2018,gdp_agriculture,290.9944,RM million (2015 prices),official,gdp_district
+Kulim,2018,gdp_mining,82.29136413667038,RM million (2015 prices),official,gdp_district
+Kulim,2018,gdp_manufacturing,6597.4732,RM million (2015 prices),official,gdp_district
+Kulim,2018,gdp_construction,111.7748,RM million (2015 prices),official,gdp_district
+Kulim,2018,gdp_services,2838.4681,RM million (2015 prices),official,gdp_district
+Kulim,2019,gdp_total,10544.3471,RM million (2015 prices),official,gdp_district
+Kulim,2019,gdp_agriculture,279.7754,RM million (2015 prices),official,gdp_district
+Kulim,2019,gdp_mining,61.83710981972581,RM million (2015 prices),official,gdp_district
+Kulim,2019,gdp_manufacturing,7090.7192,RM million (2015 prices),official,gdp_district
+Kulim,2019,gdp_construction,135.9417,RM million (2015 prices),official,gdp_district
+Kulim,2019,gdp_services,2947.4717,RM million (2015 prices),official,gdp_district
+Kulim,2020,gdp_total,10659.2995,RM million (2015 prices),official,gdp_district
+Kulim,2020,gdp_agriculture,266.0548,RM million (2015 prices),official,gdp_district
+Kulim,2020,gdp_mining,75.9690965433947,RM million (2015 prices),official,gdp_district
+Kulim,2020,gdp_manufacturing,7226.2967,RM million (2015 prices),official,gdp_district
+Kulim,2020,gdp_construction,134.5544,RM million (2015 prices),official,gdp_district
+Kulim,2020,gdp_services,2927.5107,RM million (2015 prices),official,gdp_district
+Kulim,2020,population,337.7,thousand,official,population_district
+Kulim,2021,population,339.0,thousand,official,population_district
+Kulim,2022,population,341.3,thousand,official,population_district
+Kulim,2023,population,346.4,thousand,official,population_district
+Kulim,2024,population,352.2,thousand,official,population_district
+Kulim,2025,population,354.0,thousand,official,population_district
+Kulim,2018,lf,151.0,thousand,official,lfs_district
+Kulim,2018,lf_employed,147.6,thousand,official,lfs_district
+Kulim,2018,lf_unemployed,3.4,thousand,official,lfs_district
+Kulim,2018,u_rate,2.2,%,official,lfs_district
+Kulim,2018,p_rate,67.5,%,official,lfs_district
+Kulim,2019,lf,153.9,thousand,official,lfs_district
+Kulim,2019,lf_employed,150.8,thousand,official,lfs_district
+Kulim,2019,lf_unemployed,3.1,thousand,official,lfs_district
+Kulim,2019,u_rate,2.0,%,official,lfs_district
+Kulim,2019,p_rate,67.7,%,official,lfs_district
+Kulim,2020,lf,152.2,thousand,official,lfs_district
+Kulim,2020,lf_employed,146.9,thousand,official,lfs_district
+Kulim,2020,lf_unemployed,5.4,thousand,official,lfs_district
+Kulim,2020,u_rate,3.5,%,official,lfs_district
+Kulim,2020,p_rate,65.9,%,official,lfs_district
+Kulim,2021,lf,155.0,thousand,official,lfs_district
+Kulim,2021,lf_employed,150.1,thousand,official,lfs_district
+Kulim,2021,lf_unemployed,4.9,thousand,official,lfs_district
+Kulim,2021,u_rate,3.1,%,official,lfs_district
+Kulim,2021,p_rate,66.8,%,official,lfs_district
+Kulim,2022,lf,156.9,thousand,official,lfs_district
+Kulim,2022,lf_employed,153.5,thousand,official,lfs_district
+Kulim,2022,lf_unemployed,3.5,thousand,official,lfs_district
+Kulim,2022,u_rate,2.2,%,official,lfs_district
+Kulim,2022,p_rate,67.2,%,official,lfs_district
+Kulim,2023,lf,162.0,thousand,official,lfs_district
+Kulim,2023,lf_employed,158.4,thousand,official,lfs_district
+Kulim,2023,lf_unemployed,3.5,thousand,official,lfs_district
+Kulim,2023,u_rate,2.2,%,official,lfs_district
+Kulim,2023,p_rate,68.4,%,official,lfs_district
+Kulim,2024,lf,166.4,thousand,official,lfs_district
+Kulim,2024,lf_employed,163.2,thousand,official,lfs_district
+Kulim,2024,lf_unemployed,3.2,thousand,official,lfs_district
+Kulim,2024,u_rate,1.9,%,official,lfs_district
+Kulim,2024,p_rate,69.0,%,official,lfs_district
+Kulim,2019,income_median,4489.0,RM/month,official,hh_income_district
+Kulim,2019,income_mean,5476.0,RM/month,official,hh_income_district
+Kulim,2019,poverty_absolute,9.9,%,official,hh_poverty_district
+Kulim,2019,gini,0.331,index,official,hh_inequality_district
+Kulim,2022,income_median,4498.0,RM/month,official,hh_income_district
+Kulim,2022,income_mean,5636.0,RM/month,official,hh_income_district
+Kulim,2022,poverty_absolute,11.4,%,official,hh_poverty_district
+Kulim,2022,gini,0.358,index,official,hh_inequality_district
+Kulim,2024,income_median,5236.0,RM/month,official,hh_income_district
+Kulim,2024,income_mean,6395.0,RM/month,official,hh_income_district
+Kulim,2024,poverty_absolute,8.5,%,official,hh_poverty_district
+Kulim,2024,gini,0.349,index,official,hh_inequality_district
+Kulim,2024,jobs_agriculture_central,2.671316995812684,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_agriculture_low,1.7206990547754915,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_agriculture_high,3.8948649818051098,thousand,estimate,atlas-kedah model
+Kulim,2020,lq_kedah_agriculture,0.20812447752620214,ratio,derived,gdp_district
+Kulim,2025,gdp_agriculture_projected,284.9192926004472,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_mining_central,0.1733122977463946,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_mining_low,0.11697769332544514,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_mining_high,0.242944391598855,thousand,estimate,atlas-kedah model
+Kulim,2020,lq_kedah_mining,1.61365650555674,ratio,derived,gdp_district
+Kulim,2025,gdp_mining_projected,43.84323060309894,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_manufacturing_central,95.28038166423164,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_manufacturing_low,79.96565916769495,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_manufacturing_high,107.47090145418788,thousand,estimate,atlas-kedah model
+Kulim,2020,lq_kedah_manufacturing,2.290335942732682,ratio,derived,gdp_district
+Kulim,2025,gdp_manufacturing_projected,8991.4449981741,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_construction_central,10.073876899876952,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_construction_low,6.767551145587911,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_construction_high,14.074213203529988,thousand,estimate,atlas-kedah model
+Kulim,2020,lq_kedah_construction,0.5225789013247361,ratio,derived,gdp_district
+Kulim,2025,gdp_construction_projected,170.07506613703538,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_services_central,54.96699119878522,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_services_low,42.757650074452584,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_services_high,69.78666933590111,thousand,estimate,atlas-kedah model
+Kulim,2020,lq_kedah_services,0.4968319859442628,ratio,derived,gdp_district
+Kulim,2025,gdp_services_projected,3626.768646794072,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2025,gdp_total_projected,13215.104751888335,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,net_migration_per_1000_yr,3.9702398578620075,"per 1,000/yr",derived,population/births/deaths
+Langkawi,2015,gdp_total,2311.6443,RM million (2015 prices),official,gdp_district
+Langkawi,2015,gdp_agriculture,145.9731,RM million (2015 prices),official,gdp_district
+Langkawi,2015,gdp_mining,7.8848,RM million (2015 prices),official,gdp_district
+Langkawi,2015,gdp_manufacturing,69.4827,RM million (2015 prices),official,gdp_district
+Langkawi,2015,gdp_construction,68.7495,RM million (2015 prices),official,gdp_district
+Langkawi,2015,gdp_services,2012.8464,RM million (2015 prices),official,gdp_district
+Langkawi,2016,gdp_total,2432.3438,RM million (2015 prices),official,gdp_district
+Langkawi,2016,gdp_agriculture,151.4006,RM million (2015 prices),official,gdp_district
+Langkawi,2016,gdp_mining,8.0076,RM million (2015 prices),official,gdp_district
+Langkawi,2016,gdp_manufacturing,69.7671,RM million (2015 prices),official,gdp_district
+Langkawi,2016,gdp_construction,105.0606,RM million (2015 prices),official,gdp_district
+Langkawi,2016,gdp_services,2090.7941,RM million (2015 prices),official,gdp_district
+Langkawi,2017,gdp_total,2532.3236,RM million (2015 prices),official,gdp_district
+Langkawi,2017,gdp_agriculture,151.9886,RM million (2015 prices),official,gdp_district
+Langkawi,2017,gdp_mining,8.8498,RM million (2015 prices),official,gdp_district
+Langkawi,2017,gdp_manufacturing,69.3133,RM million (2015 prices),official,gdp_district
+Langkawi,2017,gdp_construction,109.4631,RM million (2015 prices),official,gdp_district
+Langkawi,2017,gdp_services,2185.6342,RM million (2015 prices),official,gdp_district
+Langkawi,2018,gdp_total,2701.3686,RM million (2015 prices),official,gdp_district
+Langkawi,2018,gdp_agriculture,153.2376,RM million (2015 prices),official,gdp_district
+Langkawi,2018,gdp_mining,9.3062,RM million (2015 prices),official,gdp_district
+Langkawi,2018,gdp_manufacturing,72.6219,RM million (2015 prices),official,gdp_district
+Langkawi,2018,gdp_construction,183.8158,RM million (2015 prices),official,gdp_district
+Langkawi,2018,gdp_services,2275.8577,RM million (2015 prices),official,gdp_district
+Langkawi,2019,gdp_total,2876.4105,RM million (2015 prices),official,gdp_district
+Langkawi,2019,gdp_agriculture,160.6425,RM million (2015 prices),official,gdp_district
+Langkawi,2019,gdp_mining,10.0743,RM million (2015 prices),official,gdp_district
+Langkawi,2019,gdp_manufacturing,71.4788,RM million (2015 prices),official,gdp_district
+Langkawi,2019,gdp_construction,242.4141,RM million (2015 prices),official,gdp_district
+Langkawi,2019,gdp_services,2386.591,RM million (2015 prices),official,gdp_district
+Langkawi,2020,gdp_total,2415.9042,RM million (2015 prices),official,gdp_district
+Langkawi,2020,gdp_agriculture,153.6691,RM million (2015 prices),official,gdp_district
+Langkawi,2020,gdp_mining,9.3553,RM million (2015 prices),official,gdp_district
+Langkawi,2020,gdp_manufacturing,67.7226,RM million (2015 prices),official,gdp_district
+Langkawi,2020,gdp_construction,254.543,RM million (2015 prices),official,gdp_district
+Langkawi,2020,gdp_services,1925.2244,RM million (2015 prices),official,gdp_district
+Langkawi,2020,population,94.1,thousand,official,population_district
+Langkawi,2021,population,95.1,thousand,official,population_district
+Langkawi,2022,population,96.4,thousand,official,population_district
+Langkawi,2023,population,98.0,thousand,official,population_district
+Langkawi,2024,population,99.8,thousand,official,population_district
+Langkawi,2025,population,100.5,thousand,official,population_district
+Langkawi,2018,lf,50.6,thousand,official,lfs_district
+Langkawi,2018,lf_employed,48.7,thousand,official,lfs_district
+Langkawi,2018,lf_unemployed,1.9,thousand,official,lfs_district
+Langkawi,2018,u_rate,3.8,%,official,lfs_district
+Langkawi,2018,p_rate,68.3,%,official,lfs_district
+Langkawi,2019,lf,51.3,thousand,official,lfs_district
+Langkawi,2019,lf_employed,49.4,thousand,official,lfs_district
+Langkawi,2019,lf_unemployed,1.9,thousand,official,lfs_district
+Langkawi,2019,u_rate,3.7,%,official,lfs_district
+Langkawi,2019,p_rate,68.1,%,official,lfs_district
+Langkawi,2020,lf,43.8,thousand,official,lfs_district
+Langkawi,2020,lf_employed,40.8,thousand,official,lfs_district
+Langkawi,2020,lf_unemployed,3.0,thousand,official,lfs_district
+Langkawi,2020,u_rate,6.9,%,official,lfs_district
+Langkawi,2020,p_rate,68.9,%,official,lfs_district
+Langkawi,2021,lf,44.4,thousand,official,lfs_district
+Langkawi,2021,lf_employed,41.1,thousand,official,lfs_district
+Langkawi,2021,lf_unemployed,3.3,thousand,official,lfs_district
+Langkawi,2021,u_rate,7.3,%,official,lfs_district
+Langkawi,2021,p_rate,69.5,%,official,lfs_district
+Langkawi,2022,lf,45.0,thousand,official,lfs_district
+Langkawi,2022,lf_employed,42.4,thousand,official,lfs_district
+Langkawi,2022,lf_unemployed,2.6,thousand,official,lfs_district
+Langkawi,2022,u_rate,5.8,%,official,lfs_district
+Langkawi,2022,p_rate,70.0,%,official,lfs_district
+Langkawi,2023,lf,46.3,thousand,official,lfs_district
+Langkawi,2023,lf_employed,43.7,thousand,official,lfs_district
+Langkawi,2023,lf_unemployed,2.6,thousand,official,lfs_district
+Langkawi,2023,u_rate,5.7,%,official,lfs_district
+Langkawi,2023,p_rate,71.2,%,official,lfs_district
+Langkawi,2024,lf,48.1,thousand,official,lfs_district
+Langkawi,2024,lf_employed,45.7,thousand,official,lfs_district
+Langkawi,2024,lf_unemployed,2.4,thousand,official,lfs_district
+Langkawi,2024,u_rate,4.9,%,official,lfs_district
+Langkawi,2024,p_rate,72.6,%,official,lfs_district
+Langkawi,2019,income_median,5905.0,RM/month,official,hh_income_district
+Langkawi,2019,income_mean,6737.0,RM/month,official,hh_income_district
+Langkawi,2019,poverty_absolute,0.9,%,official,hh_poverty_district
+Langkawi,2019,gini,0.276,index,official,hh_inequality_district
+Langkawi,2022,income_median,5250.0,RM/month,official,hh_income_district
+Langkawi,2022,income_mean,6087.0,RM/month,official,hh_income_district
+Langkawi,2022,poverty_absolute,5.7,%,official,hh_poverty_district
+Langkawi,2022,gini,0.302,index,official,hh_inequality_district
+Langkawi,2024,income_median,5083.0,RM/month,official,hh_income_district
+Langkawi,2024,income_mean,6278.0,RM/month,official,hh_income_district
+Langkawi,2024,poverty_absolute,6.0,%,official,hh_poverty_district
+Langkawi,2024,gini,0.335,index,official,hh_inequality_district
+Langkawi,2024,jobs_agriculture_central,1.1458271838830376,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_agriculture_low,0.7308141283774975,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_agriculture_high,1.6787377983462153,thousand,estimate,atlas-kedah model
+Langkawi,2020,lq_kedah_agriculture,0.5301245314000524,ratio,derived,gdp_district
+Langkawi,2025,gdp_agriculture_projected,164.5649364963435,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_mining_central,0.018201840658417786,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_mining_low,0.011169347733166544,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_mining_high,0.02692708043538855,thousand,estimate,atlas-kedah model
+Langkawi,2020,lq_kedah_mining,0.8763369872177558,ratio,derived,gdp_district
+Langkawi,2025,gdp_mining_projected,5.399124037586496,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_manufacturing_central,0.6900577369398968,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_manufacturing_low,0.4377106846776583,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_manufacturing_high,1.0868851057587083,thousand,estimate,atlas-kedah model
+Langkawi,2020,lq_kedah_manufacturing,0.09465777995965713,ratio,derived,gdp_district
+Langkawi,2025,gdp_manufacturing_projected,84.26501959618476,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_construction_central,13.786225470666816,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_construction_low,9.861127349728145,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_construction_high,17.74839919680777,thousand,estimate,atlas-kedah model
+Langkawi,2020,lq_kedah_construction,4.359678036363775,ratio,derived,gdp_district
+Langkawi,2025,gdp_construction_projected,321.739144611543,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_services_central,30.05013310371043,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_services_low,25.370284100940808,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_services_high,34.61077207644946,thousand,estimate,atlas-kedah model
+Langkawi,2020,lq_kedah_services,1.4408929148400993,ratio,derived,gdp_district
+Langkawi,2025,gdp_services_projected,2385.078726428884,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2025,gdp_total_projected,2983.1815806763834,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,net_migration_per_1000_yr,2.8134962805526116,"per 1,000/yr",derived,population/births/deaths
+Padang Terap,2015,gdp_total,836.1563,RM million (2015 prices),official,gdp_district
+Padang Terap,2015,gdp_agriculture,377.1071,RM million (2015 prices),official,gdp_district
+Padang Terap,2015,gdp_mining,4.929890457041665,RM million (2015 prices),official,gdp_district
+Padang Terap,2015,gdp_manufacturing,40.1116,RM million (2015 prices),official,gdp_district
+Padang Terap,2015,gdp_construction,5.7714,RM million (2015 prices),official,gdp_district
+Padang Terap,2015,gdp_services,405.9682,RM million (2015 prices),official,gdp_district
+Padang Terap,2016,gdp_total,793.3537,RM million (2015 prices),official,gdp_district
+Padang Terap,2016,gdp_agriculture,318.8338,RM million (2015 prices),official,gdp_district
+Padang Terap,2016,gdp_mining,5.231,RM million (2015 prices),official,gdp_district
+Padang Terap,2016,gdp_manufacturing,44.3575,RM million (2015 prices),official,gdp_district
+Padang Terap,2016,gdp_construction,4.6879943308310885,RM million (2015 prices),official,gdp_district
+Padang Terap,2016,gdp_services,418.0914,RM million (2015 prices),official,gdp_district
+Padang Terap,2017,gdp_total,859.7515,RM million (2015 prices),official,gdp_district
+Padang Terap,2017,gdp_agriculture,353.9308,RM million (2015 prices),official,gdp_district
+Padang Terap,2017,gdp_mining,5.76,RM million (2015 prices),official,gdp_district
+Padang Terap,2017,gdp_manufacturing,53.2231,RM million (2015 prices),official,gdp_district
+Padang Terap,2017,gdp_construction,5.7545,RM million (2015 prices),official,gdp_district
+Padang Terap,2017,gdp_services,438.1752,RM million (2015 prices),official,gdp_district
+Padang Terap,2018,gdp_total,869.8202,RM million (2015 prices),official,gdp_district
+Padang Terap,2018,gdp_agriculture,339.1272,RM million (2015 prices),official,gdp_district
+Padang Terap,2018,gdp_mining,6.3257,RM million (2015 prices),official,gdp_district
+Padang Terap,2018,gdp_manufacturing,58.0616,RM million (2015 prices),official,gdp_district
+Padang Terap,2018,gdp_construction,4.1620756958622,RM million (2015 prices),official,gdp_district
+Padang Terap,2018,gdp_services,459.7842,RM million (2015 prices),official,gdp_district
+Padang Terap,2019,gdp_total,902.1568,RM million (2015 prices),official,gdp_district
+Padang Terap,2019,gdp_agriculture,358.5488,RM million (2015 prices),official,gdp_district
+Padang Terap,2019,gdp_mining,6.4289,RM million (2015 prices),official,gdp_district
+Padang Terap,2019,gdp_manufacturing,56.3932,RM million (2015 prices),official,gdp_district
+Padang Terap,2019,gdp_construction,2.5329612924106186,RM million (2015 prices),official,gdp_district
+Padang Terap,2019,gdp_services,475.8058,RM million (2015 prices),official,gdp_district
+Padang Terap,2020,gdp_total,868.0232,RM million (2015 prices),official,gdp_district
+Padang Terap,2020,gdp_agriculture,327.3821,RM million (2015 prices),official,gdp_district
+Padang Terap,2020,gdp_mining,6.3875,RM million (2015 prices),official,gdp_district
+Padang Terap,2020,gdp_manufacturing,59.7273,RM million (2015 prices),official,gdp_district
+Padang Terap,2020,gdp_construction,3.089250134826216,RM million (2015 prices),official,gdp_district
+Padang Terap,2020,gdp_services,469.0825,RM million (2015 prices),official,gdp_district
+Padang Terap,2020,population,65.7,thousand,official,population_district
+Padang Terap,2021,population,66.4,thousand,official,population_district
+Padang Terap,2022,population,66.5,thousand,official,population_district
+Padang Terap,2023,population,67.1,thousand,official,population_district
+Padang Terap,2024,population,67.7,thousand,official,population_district
+Padang Terap,2025,population,67.9,thousand,official,population_district
+Padang Terap,2018,lf,30.5,thousand,official,lfs_district
+Padang Terap,2018,lf_employed,29.6,thousand,official,lfs_district
+Padang Terap,2018,lf_unemployed,1.0,thousand,official,lfs_district
+Padang Terap,2018,u_rate,3.2,%,official,lfs_district
+Padang Terap,2018,p_rate,66.2,%,official,lfs_district
+Padang Terap,2019,lf,31.7,thousand,official,lfs_district
+Padang Terap,2019,lf_employed,30.7,thousand,official,lfs_district
+Padang Terap,2019,lf_unemployed,1.0,thousand,official,lfs_district
+Padang Terap,2019,u_rate,3.0,%,official,lfs_district
+Padang Terap,2019,p_rate,65.3,%,official,lfs_district
+Padang Terap,2020,lf,28.5,thousand,official,lfs_district
+Padang Terap,2020,lf_employed,27.4,thousand,official,lfs_district
+Padang Terap,2020,lf_unemployed,1.2,thousand,official,lfs_district
+Padang Terap,2020,u_rate,4.0,%,official,lfs_district
+Padang Terap,2020,p_rate,66.3,%,official,lfs_district
+Padang Terap,2021,lf,29.3,thousand,official,lfs_district
+Padang Terap,2021,lf_employed,28.2,thousand,official,lfs_district
+Padang Terap,2021,lf_unemployed,1.1,thousand,official,lfs_district
+Padang Terap,2021,u_rate,3.6,%,official,lfs_district
+Padang Terap,2021,p_rate,67.2,%,official,lfs_district
+Padang Terap,2022,lf,29.5,thousand,official,lfs_district
+Padang Terap,2022,lf_employed,28.6,thousand,official,lfs_district
+Padang Terap,2022,lf_unemployed,0.9,thousand,official,lfs_district
+Padang Terap,2022,u_rate,3.0,%,official,lfs_district
+Padang Terap,2022,p_rate,67.7,%,official,lfs_district
+Padang Terap,2023,lf,30.2,thousand,official,lfs_district
+Padang Terap,2023,lf_employed,29.3,thousand,official,lfs_district
+Padang Terap,2023,lf_unemployed,0.9,thousand,official,lfs_district
+Padang Terap,2023,u_rate,3.0,%,official,lfs_district
+Padang Terap,2023,p_rate,68.9,%,official,lfs_district
+Padang Terap,2024,lf,31.3,thousand,official,lfs_district
+Padang Terap,2024,lf_employed,30.5,thousand,official,lfs_district
+Padang Terap,2024,lf_unemployed,0.8,thousand,official,lfs_district
+Padang Terap,2024,u_rate,2.5,%,official,lfs_district
+Padang Terap,2024,p_rate,70.3,%,official,lfs_district
+Padang Terap,2019,income_median,3722.0,RM/month,official,hh_income_district
+Padang Terap,2019,income_mean,4781.0,RM/month,official,hh_income_district
+Padang Terap,2019,poverty_absolute,9.1,%,official,hh_poverty_district
+Padang Terap,2019,gini,0.307,index,official,hh_inequality_district
+Padang Terap,2022,income_median,3902.0,RM/month,official,hh_income_district
+Padang Terap,2022,income_mean,4858.0,RM/month,official,hh_income_district
+Padang Terap,2022,poverty_absolute,8.9,%,official,hh_poverty_district
+Padang Terap,2022,gini,0.323,index,official,hh_inequality_district
+Padang Terap,2024,income_median,3954.0,RM/month,official,hh_income_district
+Padang Terap,2024,income_mean,5062.0,RM/month,official,hh_income_district
+Padang Terap,2024,poverty_absolute,8.0,%,official,hh_poverty_district
+Padang Terap,2024,gini,0.292,index,official,hh_inequality_district
+Padang Terap,2024,jobs_agriculture_central,7.757527512687581,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_agriculture_low,5.352570394742147,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_agriculture_high,10.253501324568722,thousand,estimate,atlas-kedah model
+Padang Terap,2020,lq_kedah_agriculture,3.1448817787545393,ratio,derived,gdp_district
+Padang Terap,2025,gdp_agriculture_projected,350.5949764561619,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_mining_central,0.03724789605820381,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_mining_low,0.023284436678419847,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_mining_high,0.05477573252174427,thousand,estimate,atlas-kedah model
+Padang Terap,2020,lq_kedah_mining,1.6661050349235744,ratio,derived,gdp_district
+Padang Terap,2025,gdp_mining_projected,3.68634942653723,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_manufacturing_central,1.7858088408102564,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_manufacturing_low,1.1302793837793814,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_manufacturing_high,2.688674560601974,thousand,estimate,atlas-kedah model
+Padang Terap,2020,lq_kedah_manufacturing,0.23246288020642839,ratio,derived,gdp_district
+Padang Terap,2025,gdp_manufacturing_projected,74.3167289047852,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_construction_central,0.48385796647267576,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_construction_low,0.29389447193114504,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_construction_high,0.7168350294948667,thousand,estimate,atlas-kedah model
+Padang Terap,2020,lq_kedah_construction,0.14733447295517638,ratio,derived,gdp_district
+Padang Terap,2025,gdp_construction_projected,3.9047732440887417,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_services_central,20.429181043961883,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_services_low,17.32910102650556,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_services_high,23.47701953652622,thousand,estimate,atlas-kedah model
+Padang Terap,2020,lq_kedah_services,0.9775919572939332,ratio,derived,gdp_district
+Padang Terap,2025,gdp_services_projected,581.1263828206606,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2025,gdp_total_projected,1021.2063642741488,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,net_migration_per_1000_yr,-2.218417047184171,"per 1,000/yr",derived,population/births/deaths
+Pendang,2015,gdp_total,1152.2399,RM million (2015 prices),official,gdp_district
+Pendang,2015,gdp_agriculture,482.6314,RM million (2015 prices),official,gdp_district
+Pendang,2015,gdp_mining,30.5692,RM million (2015 prices),official,gdp_district
+Pendang,2015,gdp_manufacturing,17.0401,RM million (2015 prices),official,gdp_district
+Pendang,2015,gdp_construction,13.2068,RM million (2015 prices),official,gdp_district
+Pendang,2015,gdp_services,605.8727,RM million (2015 prices),official,gdp_district
+Pendang,2016,gdp_total,1143.7794,RM million (2015 prices),official,gdp_district
+Pendang,2016,gdp_agriculture,457.1529,RM million (2015 prices),official,gdp_district
+Pendang,2016,gdp_mining,36.7441,RM million (2015 prices),official,gdp_district
+Pendang,2016,gdp_manufacturing,17.1035,RM million (2015 prices),official,gdp_district
+Pendang,2016,gdp_construction,2.6009497086499778,RM million (2015 prices),official,gdp_district
+Pendang,2016,gdp_services,627.0754,RM million (2015 prices),official,gdp_district
+Pendang,2017,gdp_total,1173.9948,RM million (2015 prices),official,gdp_district
+Pendang,2017,gdp_agriculture,451.8074,RM million (2015 prices),official,gdp_district
+Pendang,2017,gdp_mining,41.2953,RM million (2015 prices),official,gdp_district
+Pendang,2017,gdp_manufacturing,16.7686,RM million (2015 prices),official,gdp_district
+Pendang,2017,gdp_construction,3.08208915045725,RM million (2015 prices),official,gdp_district
+Pendang,2017,gdp_services,657.8569,RM million (2015 prices),official,gdp_district
+Pendang,2018,gdp_total,1237.9973,RM million (2015 prices),official,gdp_district
+Pendang,2018,gdp_agriculture,476.5002,RM million (2015 prices),official,gdp_district
+Pendang,2018,gdp_mining,43.1772,RM million (2015 prices),official,gdp_district
+Pendang,2018,gdp_manufacturing,17.4003,RM million (2015 prices),official,gdp_district
+Pendang,2018,gdp_construction,3.5987796458427965,RM million (2015 prices),official,gdp_district
+Pendang,2018,gdp_services,693.9627,RM million (2015 prices),official,gdp_district
+Pendang,2019,gdp_total,1284.3586,RM million (2015 prices),official,gdp_district
+Pendang,2019,gdp_agriculture,491.893,RM million (2015 prices),official,gdp_district
+Pendang,2019,gdp_mining,47.9386,RM million (2015 prices),official,gdp_district
+Pendang,2019,gdp_manufacturing,18.0513,RM million (2015 prices),official,gdp_district
+Pendang,2019,gdp_construction,2.9902226468775552,RM million (2015 prices),official,gdp_district
+Pendang,2019,gdp_services,720.0016,RM million (2015 prices),official,gdp_district
+Pendang,2020,gdp_total,1260.1074,RM million (2015 prices),official,gdp_district
+Pendang,2020,gdp_agriculture,480.7497,RM million (2015 prices),official,gdp_district
+Pendang,2020,gdp_mining,41.4799,RM million (2015 prices),official,gdp_district
+Pendang,2020,gdp_manufacturing,17.548,RM million (2015 prices),official,gdp_district
+Pendang,2020,gdp_construction,3.1074050587881175,RM million (2015 prices),official,gdp_district
+Pendang,2020,gdp_services,713.8043,RM million (2015 prices),official,gdp_district
+Pendang,2020,population,98.9,thousand,official,population_district
+Pendang,2021,population,99.3,thousand,official,population_district
+Pendang,2022,population,99.8,thousand,official,population_district
+Pendang,2023,population,100.7,thousand,official,population_district
+Pendang,2024,population,101.5,thousand,official,population_district
+Pendang,2025,population,102.0,thousand,official,population_district
+Pendang,2018,lf,44.3,thousand,official,lfs_district
+Pendang,2018,lf_employed,43.0,thousand,official,lfs_district
+Pendang,2018,lf_unemployed,1.3,thousand,official,lfs_district
+Pendang,2018,u_rate,2.9,%,official,lfs_district
+Pendang,2018,p_rate,63.6,%,official,lfs_district
+Pendang,2019,lf,45.6,thousand,official,lfs_district
+Pendang,2019,lf_employed,44.3,thousand,official,lfs_district
+Pendang,2019,lf_unemployed,1.3,thousand,official,lfs_district
+Pendang,2019,u_rate,4.2,%,official,lfs_district
+Pendang,2019,p_rate,63.6,%,official,lfs_district
+Pendang,2020,lf,41.9,thousand,official,lfs_district
+Pendang,2020,lf_employed,39.9,thousand,official,lfs_district
+Pendang,2020,lf_unemployed,2.0,thousand,official,lfs_district
+Pendang,2020,u_rate,4.7,%,official,lfs_district
+Pendang,2020,p_rate,64.9,%,official,lfs_district
+Pendang,2021,lf,41.8,thousand,official,lfs_district
+Pendang,2021,lf_employed,39.5,thousand,official,lfs_district
+Pendang,2021,lf_unemployed,2.3,thousand,official,lfs_district
+Pendang,2021,u_rate,5.5,%,official,lfs_district
+Pendang,2021,p_rate,64.4,%,official,lfs_district
+Pendang,2022,lf,42.3,thousand,official,lfs_district
+Pendang,2022,lf_employed,40.5,thousand,official,lfs_district
+Pendang,2022,lf_unemployed,1.8,thousand,official,lfs_district
+Pendang,2022,u_rate,4.3,%,official,lfs_district
+Pendang,2022,p_rate,64.8,%,official,lfs_district
+Pendang,2023,lf,43.4,thousand,official,lfs_district
+Pendang,2023,lf_employed,41.5,thousand,official,lfs_district
+Pendang,2023,lf_unemployed,1.8,thousand,official,lfs_district
+Pendang,2023,u_rate,4.2,%,official,lfs_district
+Pendang,2023,p_rate,65.9,%,official,lfs_district
+Pendang,2024,lf,44.6,thousand,official,lfs_district
+Pendang,2024,lf_employed,43.0,thousand,official,lfs_district
+Pendang,2024,lf_unemployed,1.6,thousand,official,lfs_district
+Pendang,2024,u_rate,3.5,%,official,lfs_district
+Pendang,2024,p_rate,66.9,%,official,lfs_district
+Pendang,2019,income_median,3765.0,RM/month,official,hh_income_district
+Pendang,2019,income_mean,4680.0,RM/month,official,hh_income_district
+Pendang,2019,poverty_absolute,8.1,%,official,hh_poverty_district
+Pendang,2019,gini,0.312,index,official,hh_inequality_district
+Pendang,2022,income_median,3801.0,RM/month,official,hh_income_district
+Pendang,2022,income_mean,4986.0,RM/month,official,hh_income_district
+Pendang,2022,poverty_absolute,7.3,%,official,hh_poverty_district
+Pendang,2022,gini,0.349,index,official,hh_inequality_district
+Pendang,2024,income_median,4592.0,RM/month,official,hh_income_district
+Pendang,2024,income_mean,5464.0,RM/month,official,hh_income_district
+Pendang,2024,poverty_absolute,7.3,%,official,hh_poverty_district
+Pendang,2024,gini,0.347,index,official,hh_inequality_district
+Pendang,2024,jobs_agriculture_central,10.91348921685615,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_agriculture_low,7.582525837405512,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_agriculture_high,14.396799566260498,thousand,estimate,atlas-kedah model
+Pendang,2020,lq_kedah_agriculture,3.181208886101124,ratio,derived,gdp_district
+Pendang,2025,gdp_agriculture_projected,514.8370352343849,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_mining_central,0.2578281953214023,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_mining_low,0.1810614814275157,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_mining_high,0.3319582635222701,thousand,estimate,atlas-kedah model
+Pendang,2020,lq_kedah_mining,7.453031131724139,ratio,derived,gdp_district
+Pendang,2025,gdp_mining_projected,23.93885018830867,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_manufacturing_central,0.5431688614125522,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_manufacturing_low,0.3323288876421555,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_manufacturing_high,0.8392656446452493,thousand,estimate,atlas-kedah model
+Pendang,2020,lq_kedah_manufacturing,0.04704702089895571,ratio,derived,gdp_district
+Pendang,2025,gdp_manufacturing_projected,21.834403343549273,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_construction_central,0.5206417153575327,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_construction_low,0.3139340554302188,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_construction_high,0.7879857117132789,thousand,estimate,atlas-kedah model
+Pendang,2020,lq_kedah_construction,0.10208758705008028,ratio,derived,gdp_district
+Pendang,2025,gdp_construction_projected,3.9277208392140834,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_services_central,30.755881855984676,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_services_low,26.563038337493538,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_services_high,34.58962385820173,thousand,estimate,atlas-kedah model
+Pendang,2020,lq_kedah_services,1.02473440956008,ratio,derived,gdp_district
+Pendang,2025,gdp_services_projected,884.3018251604648,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2025,gdp_total_projected,1459.6703057056586,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,net_migration_per_1000_yr,-2.178968655207295,"per 1,000/yr",derived,population/births/deaths
+Pokok Sena,2015,gdp_total,1226.127,RM million (2015 prices),official,gdp_district
+Pokok Sena,2015,gdp_agriculture,741.7686,RM million (2015 prices),official,gdp_district
+Pokok Sena,2015,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Pokok Sena,2015,gdp_manufacturing,73.9242,RM million (2015 prices),official,gdp_district
+Pokok Sena,2015,gdp_construction,15.149,RM million (2015 prices),official,gdp_district
+Pokok Sena,2015,gdp_services,392.2676,RM million (2015 prices),official,gdp_district
+Pokok Sena,2016,gdp_total,1238.26,RM million (2015 prices),official,gdp_district
+Pokok Sena,2016,gdp_agriculture,731.1728,RM million (2015 prices),official,gdp_district
+Pokok Sena,2016,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Pokok Sena,2016,gdp_manufacturing,79.0363,RM million (2015 prices),official,gdp_district
+Pokok Sena,2016,gdp_construction,24.0725,RM million (2015 prices),official,gdp_district
+Pokok Sena,2016,gdp_services,400.5902,RM million (2015 prices),official,gdp_district
+Pokok Sena,2017,gdp_total,1285.7794,RM million (2015 prices),official,gdp_district
+Pokok Sena,2017,gdp_agriculture,758.7575,RM million (2015 prices),official,gdp_district
+Pokok Sena,2017,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Pokok Sena,2017,gdp_manufacturing,90.3052,RM million (2015 prices),official,gdp_district
+Pokok Sena,2017,gdp_construction,17.6889,RM million (2015 prices),official,gdp_district
+Pokok Sena,2017,gdp_services,415.6329,RM million (2015 prices),official,gdp_district
+Pokok Sena,2018,gdp_total,1367.8719,RM million (2015 prices),official,gdp_district
+Pokok Sena,2018,gdp_agriculture,815.3701,RM million (2015 prices),official,gdp_district
+Pokok Sena,2018,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Pokok Sena,2018,gdp_manufacturing,95.9313,RM million (2015 prices),official,gdp_district
+Pokok Sena,2018,gdp_construction,20.5147,RM million (2015 prices),official,gdp_district
+Pokok Sena,2018,gdp_services,432.9066,RM million (2015 prices),official,gdp_district
+Pokok Sena,2019,gdp_total,1439.8892,RM million (2015 prices),official,gdp_district
+Pokok Sena,2019,gdp_agriculture,882.194,RM million (2015 prices),official,gdp_district
+Pokok Sena,2019,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Pokok Sena,2019,gdp_manufacturing,92.2911,RM million (2015 prices),official,gdp_district
+Pokok Sena,2019,gdp_construction,15.3282,RM million (2015 prices),official,gdp_district
+Pokok Sena,2019,gdp_services,447.5927,RM million (2015 prices),official,gdp_district
+Pokok Sena,2020,gdp_total,1503.4751,RM million (2015 prices),official,gdp_district
+Pokok Sena,2020,gdp_agriculture,952.0404,RM million (2015 prices),official,gdp_district
+Pokok Sena,2020,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Pokok Sena,2020,gdp_manufacturing,91.0773,RM million (2015 prices),official,gdp_district
+Pokok Sena,2020,gdp_construction,14.6556,RM million (2015 prices),official,gdp_district
+Pokok Sena,2020,gdp_services,443.1238,RM million (2015 prices),official,gdp_district
+Pokok Sena,2020,population,49.8,thousand,official,population_district
+Pokok Sena,2021,population,50.0,thousand,official,population_district
+Pokok Sena,2022,population,50.0,thousand,official,population_district
+Pokok Sena,2023,population,50.5,thousand,official,population_district
+Pokok Sena,2024,population,51.0,thousand,official,population_district
+Pokok Sena,2025,population,51.2,thousand,official,population_district
+Pokok Sena,2018,lf,23.6,thousand,official,lfs_district
+Pokok Sena,2018,lf_employed,22.9,thousand,official,lfs_district
+Pokok Sena,2018,lf_unemployed,0.7,thousand,official,lfs_district
+Pokok Sena,2018,u_rate,3.1,%,official,lfs_district
+Pokok Sena,2018,p_rate,63.2,%,official,lfs_district
+Pokok Sena,2019,lf,24.0,thousand,official,lfs_district
+Pokok Sena,2019,lf_employed,23.3,thousand,official,lfs_district
+Pokok Sena,2019,lf_unemployed,0.7,thousand,official,lfs_district
+Pokok Sena,2019,u_rate,3.1,%,official,lfs_district
+Pokok Sena,2019,p_rate,63.8,%,official,lfs_district
+Pokok Sena,2020,lf,22.0,thousand,official,lfs_district
+Pokok Sena,2020,lf_employed,20.9,thousand,official,lfs_district
+Pokok Sena,2020,lf_unemployed,1.0,thousand,official,lfs_district
+Pokok Sena,2020,u_rate,4.7,%,official,lfs_district
+Pokok Sena,2020,p_rate,66.9,%,official,lfs_district
+Pokok Sena,2021,lf,22.1,thousand,official,lfs_district
+Pokok Sena,2021,lf_employed,21.2,thousand,official,lfs_district
+Pokok Sena,2021,lf_unemployed,0.9,thousand,official,lfs_district
+Pokok Sena,2021,u_rate,4.1,%,official,lfs_district
+Pokok Sena,2021,p_rate,66.7,%,official,lfs_district
+Pokok Sena,2022,lf,22.3,thousand,official,lfs_district
+Pokok Sena,2022,lf_employed,21.6,thousand,official,lfs_district
+Pokok Sena,2022,lf_unemployed,0.7,thousand,official,lfs_district
+Pokok Sena,2022,u_rate,3.1,%,official,lfs_district
+Pokok Sena,2022,p_rate,67.2,%,official,lfs_district
+Pokok Sena,2023,lf,22.8,thousand,official,lfs_district
+Pokok Sena,2023,lf_employed,22.1,thousand,official,lfs_district
+Pokok Sena,2023,lf_unemployed,0.7,thousand,official,lfs_district
+Pokok Sena,2023,u_rate,3.0,%,official,lfs_district
+Pokok Sena,2023,p_rate,68.3,%,official,lfs_district
+Pokok Sena,2024,lf,23.5,thousand,official,lfs_district
+Pokok Sena,2024,lf_employed,22.9,thousand,official,lfs_district
+Pokok Sena,2024,lf_unemployed,0.6,thousand,official,lfs_district
+Pokok Sena,2024,u_rate,2.5,%,official,lfs_district
+Pokok Sena,2024,p_rate,69.4,%,official,lfs_district
+Pokok Sena,2019,income_median,4246.0,RM/month,official,hh_income_district
+Pokok Sena,2019,income_mean,5046.0,RM/month,official,hh_income_district
+Pokok Sena,2019,poverty_absolute,7.3,%,official,hh_poverty_district
+Pokok Sena,2019,gini,0.303,index,official,hh_inequality_district
+Pokok Sena,2022,income_median,4668.0,RM/month,official,hh_income_district
+Pokok Sena,2022,income_mean,5494.0,RM/month,official,hh_income_district
+Pokok Sena,2022,poverty_absolute,7.2,%,official,hh_poverty_district
+Pokok Sena,2022,gini,0.31,index,official,hh_inequality_district
+Pokok Sena,2024,income_median,5163.0,RM/month,official,hh_income_district
+Pokok Sena,2024,income_mean,5736.0,RM/month,official,hh_income_district
+Pokok Sena,2024,poverty_absolute,7.2,%,official,hh_poverty_district
+Pokok Sena,2024,gini,0.27,index,official,hh_inequality_district
+Pokok Sena,2024,jobs_agriculture_central,10.460707712143858,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_agriculture_low,7.948296764943804,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_agriculture_high,12.473508355330333,thousand,estimate,atlas-kedah model
+Pokok Sena,2020,lq_kedah_agriculture,5.2747944886060845,ratio,derived,gdp_district
+Pokok Sena,2025,gdp_agriculture_projected,1019.544384446538,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Pokok Sena,2020,lq_kedah_mining,0.0,ratio,derived,gdp_district
+Pokok Sena,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_manufacturing_central,1.4220466490175263,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_manufacturing_low,0.9045030097193244,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_manufacturing_high,2.0901229082944557,thousand,estimate,atlas-kedah model
+Pokok Sena,2020,lq_kedah_manufacturing,0.20445213526469758,ratio,derived,gdp_district
+Pokok Sena,2025,gdp_manufacturing_projected,113.32451012317303,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_construction_central,1.3012497857190664,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_construction_low,0.845467180252873,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_construction_high,1.866555642808386,thousand,estimate,atlas-kedah model
+Pokok Sena,2020,lq_kedah_construction,0.4031397983546738,ratio,derived,gdp_district
+Pokok Sena,2025,gdp_construction_projected,18.52449373099606,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_services_central,9.711208074284913,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_services_low,7.478837558779808,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_services_high,12.32068750402197,thousand,estimate,atlas-kedah model
+Pokok Sena,2020,lq_kedah_services,0.5326405629559772,ratio,derived,gdp_district
+Pokok Sena,2025,gdp_services_projected,548.9672521054312,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2025,gdp_total_projected,1713.0712976237917,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,net_migration_per_1000_yr,-1.621485943775086,"per 1,000/yr",derived,population/births/deaths
+Sik,2015,gdp_total,541.3361,RM million (2015 prices),official,gdp_district
+Sik,2015,gdp_agriculture,162.4104,RM million (2015 prices),official,gdp_district
+Sik,2015,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Sik,2015,gdp_manufacturing,42.706,RM million (2015 prices),official,gdp_district
+Sik,2015,gdp_construction,3.702702794408424,RM million (2015 prices),official,gdp_district
+Sik,2015,gdp_services,331.0486,RM million (2015 prices),official,gdp_district
+Sik,2016,gdp_total,526.2976,RM million (2015 prices),official,gdp_district
+Sik,2016,gdp_agriculture,138.3489,RM million (2015 prices),official,gdp_district
+Sik,2016,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Sik,2016,gdp_manufacturing,42.013,RM million (2015 prices),official,gdp_district
+Sik,2016,gdp_construction,1.9538953655602427,RM million (2015 prices),official,gdp_district
+Sik,2016,gdp_services,342.5542,RM million (2015 prices),official,gdp_district
+Sik,2017,gdp_total,555.7032,RM million (2015 prices),official,gdp_district
+Sik,2017,gdp_agriculture,148.8098,RM million (2015 prices),official,gdp_district
+Sik,2017,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Sik,2017,gdp_manufacturing,44.8125,RM million (2015 prices),official,gdp_district
+Sik,2017,gdp_construction,1.8456314243253473,RM million (2015 prices),official,gdp_district
+Sik,2017,gdp_services,358.7279,RM million (2015 prices),official,gdp_district
+Sik,2018,gdp_total,564.0498,RM million (2015 prices),official,gdp_district
+Sik,2018,gdp_agriculture,143.6665,RM million (2015 prices),official,gdp_district
+Sik,2018,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Sik,2018,gdp_manufacturing,42.407,RM million (2015 prices),official,gdp_district
+Sik,2018,gdp_construction,1.3058909166699095,RM million (2015 prices),official,gdp_district
+Sik,2018,gdp_services,375.1404,RM million (2015 prices),official,gdp_district
+Sik,2019,gdp_total,584.7479,RM million (2015 prices),official,gdp_district
+Sik,2019,gdp_agriculture,151.0142,RM million (2015 prices),official,gdp_district
+Sik,2019,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Sik,2019,gdp_manufacturing,43.3255,RM million (2015 prices),official,gdp_district
+Sik,2019,gdp_construction,1.1925464396969119,RM million (2015 prices),official,gdp_district
+Sik,2019,gdp_services,387.6295,RM million (2015 prices),official,gdp_district
+Sik,2020,gdp_total,560.6324,RM million (2015 prices),official,gdp_district
+Sik,2020,gdp_agriculture,125.7669,RM million (2015 prices),official,gdp_district
+Sik,2020,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Sik,2020,gdp_manufacturing,45.9837,RM million (2015 prices),official,gdp_district
+Sik,2020,gdp_construction,1.5508607595833155,RM million (2015 prices),official,gdp_district
+Sik,2020,gdp_services,385.8102,RM million (2015 prices),official,gdp_district
+Sik,2020,population,67.9,thousand,official,population_district
+Sik,2021,population,68.3,thousand,official,population_district
+Sik,2022,population,68.6,thousand,official,population_district
+Sik,2023,population,69.3,thousand,official,population_district
+Sik,2024,population,70.1,thousand,official,population_district
+Sik,2025,population,70.5,thousand,official,population_district
+Sik,2018,lf,32.1,thousand,official,lfs_district
+Sik,2018,lf_employed,31.1,thousand,official,lfs_district
+Sik,2018,lf_unemployed,1.1,thousand,official,lfs_district
+Sik,2018,u_rate,3.3,%,official,lfs_district
+Sik,2018,p_rate,62.8,%,official,lfs_district
+Sik,2019,lf,31.8,thousand,official,lfs_district
+Sik,2019,lf_employed,30.8,thousand,official,lfs_district
+Sik,2019,lf_unemployed,1.0,thousand,official,lfs_district
+Sik,2019,u_rate,3.2,%,official,lfs_district
+Sik,2019,p_rate,61.1,%,official,lfs_district
+Sik,2020,lf,27.3,thousand,official,lfs_district
+Sik,2020,lf_employed,26.5,thousand,official,lfs_district
+Sik,2020,lf_unemployed,0.9,thousand,official,lfs_district
+Sik,2020,u_rate,3.1,%,official,lfs_district
+Sik,2020,p_rate,61.5,%,official,lfs_district
+Sik,2021,lf,27.5,thousand,official,lfs_district
+Sik,2021,lf_employed,26.6,thousand,official,lfs_district
+Sik,2021,lf_unemployed,0.9,thousand,official,lfs_district
+Sik,2021,u_rate,3.3,%,official,lfs_district
+Sik,2021,p_rate,61.4,%,official,lfs_district
+Sik,2022,lf,27.8,thousand,official,lfs_district
+Sik,2022,lf_employed,27.1,thousand,official,lfs_district
+Sik,2022,lf_unemployed,0.7,thousand,official,lfs_district
+Sik,2022,u_rate,2.4,%,official,lfs_district
+Sik,2022,p_rate,61.8,%,official,lfs_district
+Sik,2023,lf,28.5,thousand,official,lfs_district
+Sik,2023,lf_employed,27.9,thousand,official,lfs_district
+Sik,2023,lf_unemployed,0.7,thousand,official,lfs_district
+Sik,2023,u_rate,2.3,%,official,lfs_district
+Sik,2023,p_rate,62.9,%,official,lfs_district
+Sik,2024,lf,29.4,thousand,official,lfs_district
+Sik,2024,lf_employed,28.8,thousand,official,lfs_district
+Sik,2024,lf_unemployed,0.6,thousand,official,lfs_district
+Sik,2024,u_rate,2.0,%,official,lfs_district
+Sik,2024,p_rate,64.0,%,official,lfs_district
+Sik,2019,income_median,4094.0,RM/month,official,hh_income_district
+Sik,2019,income_mean,4960.0,RM/month,official,hh_income_district
+Sik,2019,poverty_absolute,7.6,%,official,hh_poverty_district
+Sik,2019,gini,0.32,index,official,hh_inequality_district
+Sik,2022,income_median,3703.0,RM/month,official,hh_income_district
+Sik,2022,income_mean,5053.0,RM/month,official,hh_income_district
+Sik,2022,poverty_absolute,4.0,%,official,hh_poverty_district
+Sik,2022,gini,0.333,index,official,hh_inequality_district
+Sik,2024,income_median,4438.0,RM/month,official,hh_income_district
+Sik,2024,income_mean,5107.0,RM/month,official,hh_income_district
+Sik,2024,poverty_absolute,8.7,%,official,hh_poverty_district
+Sik,2024,gini,0.325,index,official,hh_inequality_district
+Sik,2024,jobs_agriculture_central,4.1995950286832775,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_agriculture_low,2.7779043272032307,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_agriculture_high,5.888947056046834,thousand,estimate,atlas-kedah model
+Sik,2020,lq_kedah_agriculture,1.870548143325352,ratio,derived,gdp_district
+Sik,2025,gdp_agriculture_projected,134.684343904155,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Sik,2020,lq_kedah_mining,0.0,ratio,derived,gdp_district
+Sik,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_manufacturing_central,1.8426815843266964,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_manufacturing_low,1.179815758430453,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_manufacturing_high,2.9241582531770547,thousand,estimate,atlas-kedah model
+Sik,2020,lq_kedah_manufacturing,0.2771008033361572,ratio,derived,gdp_district
+Sik,2025,gdp_manufacturing_projected,57.216016242806404,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_construction_central,0.316759042334808,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_construction_low,0.1973608456630895,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_construction_high,0.48189591407423255,thousand,estimate,atlas-kedah model
+Sik,2020,lq_kedah_construction,0.11451892090421656,ratio,derived,gdp_district
+Sik,2025,gdp_construction_projected,1.9602684583741992,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_services_central,22.434943027032922,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_services_low,19.703204068137055,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_services_high,24.666714341502388,thousand,estimate,atlas-kedah model
+Sik,2020,lq_kedah_services,1.244902199329684,ratio,derived,gdp_district
+Sik,2025,gdp_services_projected,477.9638677233017,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2025,gdp_total_projected,676.8465667531892,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,net_migration_per_1000_yr,-1.2555228276878176,"per 1,000/yr",derived,population/births/deaths
+Yan,2015,gdp_total,646.9496,RM million (2015 prices),official,gdp_district
+Yan,2015,gdp_agriculture,139.4535,RM million (2015 prices),official,gdp_district
+Yan,2015,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Yan,2015,gdp_manufacturing,39.48,RM million (2015 prices),official,gdp_district
+Yan,2015,gdp_construction,7.9004,RM million (2015 prices),official,gdp_district
+Yan,2015,gdp_services,457.1707,RM million (2015 prices),official,gdp_district
+Yan,2016,gdp_total,675.2054,RM million (2015 prices),official,gdp_district
+Yan,2016,gdp_agriculture,146.9547,RM million (2015 prices),official,gdp_district
+Yan,2016,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Yan,2016,gdp_manufacturing,41.1038,RM million (2015 prices),official,gdp_district
+Yan,2016,gdp_construction,9.2973,RM million (2015 prices),official,gdp_district
+Yan,2016,gdp_services,474.6045,RM million (2015 prices),official,gdp_district
+Yan,2017,gdp_total,695.0906,RM million (2015 prices),official,gdp_district
+Yan,2017,gdp_agriculture,147.9993,RM million (2015 prices),official,gdp_district
+Yan,2017,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Yan,2017,gdp_manufacturing,40.4558,RM million (2015 prices),official,gdp_district
+Yan,2017,gdp_construction,5.1172,RM million (2015 prices),official,gdp_district
+Yan,2017,gdp_services,498.4208,RM million (2015 prices),official,gdp_district
+Yan,2018,gdp_total,722.3407,RM million (2015 prices),official,gdp_district
+Yan,2018,gdp_agriculture,147.7729,RM million (2015 prices),official,gdp_district
+Yan,2018,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Yan,2018,gdp_manufacturing,42.887,RM million (2015 prices),official,gdp_district
+Yan,2018,gdp_construction,5.0748,RM million (2015 prices),official,gdp_district
+Yan,2018,gdp_services,523.7216,RM million (2015 prices),official,gdp_district
+Yan,2019,gdp_total,752.5857,RM million (2015 prices),official,gdp_district
+Yan,2019,gdp_agriculture,153.3966,RM million (2015 prices),official,gdp_district
+Yan,2019,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Yan,2019,gdp_manufacturing,42.3419,RM million (2015 prices),official,gdp_district
+Yan,2019,gdp_construction,6.4882,RM million (2015 prices),official,gdp_district
+Yan,2019,gdp_services,548.056,RM million (2015 prices),official,gdp_district
+Yan,2020,gdp_total,731.354,RM million (2015 prices),official,gdp_district
+Yan,2020,gdp_agriculture,133.9741,RM million (2015 prices),official,gdp_district
+Yan,2020,gdp_mining,0.0,RM million (2015 prices),official,gdp_district
+Yan,2020,gdp_manufacturing,39.6294,RM million (2015 prices),official,gdp_district
+Yan,2020,gdp_construction,7.0127,RM million (2015 prices),official,gdp_district
+Yan,2020,gdp_services,548.3513,RM million (2015 prices),official,gdp_district
+Yan,2020,population,73.4,thousand,official,population_district
+Yan,2021,population,73.6,thousand,official,population_district
+Yan,2022,population,73.8,thousand,official,population_district
+Yan,2023,population,74.3,thousand,official,population_district
+Yan,2024,population,74.7,thousand,official,population_district
+Yan,2025,population,75.1,thousand,official,population_district
+Yan,2018,lf,29.9,thousand,official,lfs_district
+Yan,2018,lf_employed,28.8,thousand,official,lfs_district
+Yan,2018,lf_unemployed,1.2,thousand,official,lfs_district
+Yan,2018,u_rate,4.0,%,official,lfs_district
+Yan,2018,p_rate,60.4,%,official,lfs_district
+Yan,2019,lf,30.3,thousand,official,lfs_district
+Yan,2019,lf_employed,29.2,thousand,official,lfs_district
+Yan,2019,lf_unemployed,1.1,thousand,official,lfs_district
+Yan,2019,u_rate,3.8,%,official,lfs_district
+Yan,2019,p_rate,60.0,%,official,lfs_district
+Yan,2020,lf,29.2,thousand,official,lfs_district
+Yan,2020,lf_employed,28.4,thousand,official,lfs_district
+Yan,2020,lf_unemployed,0.8,thousand,official,lfs_district
+Yan,2020,u_rate,2.7,%,official,lfs_district
+Yan,2020,p_rate,60.9,%,official,lfs_district
+Yan,2021,lf,29.3,thousand,official,lfs_district
+Yan,2021,lf_employed,28.4,thousand,official,lfs_district
+Yan,2021,lf_unemployed,0.9,thousand,official,lfs_district
+Yan,2021,u_rate,3.1,%,official,lfs_district
+Yan,2021,p_rate,60.7,%,official,lfs_district
+Yan,2022,lf,29.8,thousand,official,lfs_district
+Yan,2022,lf_employed,29.1,thousand,official,lfs_district
+Yan,2022,lf_unemployed,0.7,thousand,official,lfs_district
+Yan,2022,u_rate,2.3,%,official,lfs_district
+Yan,2022,p_rate,61.1,%,official,lfs_district
+Yan,2023,lf,30.6,thousand,official,lfs_district
+Yan,2023,lf_employed,29.9,thousand,official,lfs_district
+Yan,2023,lf_unemployed,0.7,thousand,official,lfs_district
+Yan,2023,u_rate,2.2,%,official,lfs_district
+Yan,2023,p_rate,62.2,%,official,lfs_district
+Yan,2024,lf,31.4,thousand,official,lfs_district
+Yan,2024,lf_employed,30.8,thousand,official,lfs_district
+Yan,2024,lf_unemployed,0.6,thousand,official,lfs_district
+Yan,2024,u_rate,1.9,%,official,lfs_district
+Yan,2024,p_rate,63.0,%,official,lfs_district
+Yan,2019,income_median,3502.0,RM/month,official,hh_income_district
+Yan,2019,income_mean,4397.0,RM/month,official,hh_income_district
+Yan,2019,poverty_absolute,12.7,%,official,hh_poverty_district
+Yan,2019,gini,0.369,index,official,hh_inequality_district
+Yan,2022,income_median,4080.0,RM/month,official,hh_income_district
+Yan,2022,income_mean,4637.0,RM/month,official,hh_income_district
+Yan,2022,poverty_absolute,6.0,%,official,hh_poverty_district
+Yan,2022,gini,0.291,index,official,hh_inequality_district
+Yan,2024,income_median,4695.0,RM/month,official,hh_income_district
+Yan,2024,income_mean,5272.0,RM/month,official,hh_income_district
+Yan,2024,poverty_absolute,7.4,%,official,hh_poverty_district
+Yan,2024,gini,0.293,index,official,hh_inequality_district
+Yan,2024,jobs_agriculture_central,3.406651225470766,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_agriculture_low,2.1811594307073965,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_agriculture_high,4.82821946801877,thousand,estimate,atlas-kedah model
+Yan,2020,lq_kedah_agriculture,1.5283181333215898,ratio,derived,gdp_district
+Yan,2025,gdp_agriculture_projected,143.47347162607693,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Yan,2020,lq_kedah_mining,0.0,ratio,derived,gdp_district
+Yan,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_manufacturing_central,1.3213872861176783,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_manufacturing_low,0.8236551690166474,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_manufacturing_high,2.101317744561341,thousand,estimate,atlas-kedah model
+Yan,2020,lq_kedah_manufacturing,0.18316468878348163,ratio,derived,gdp_district
+Yan,2025,gdp_manufacturing_projected,49.309568262072695,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_construction_central,1.2179113353176974,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_construction_low,0.764300662295085,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_construction_high,1.8497683021443372,thousand,estimate,atlas-kedah model
+Yan,2020,lq_kedah_construction,0.39717333501234026,ratio,derived,gdp_district
+Yan,2025,gdp_construction_projected,8.863964435939577,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_services_central,24.847610688382968,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_services_low,22.213209664598036,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_services_high,27.166131636422687,thousand,estimate,atlas-kedah model
+Yan,2020,lq_kedah_services,1.3570966859037255,ratio,derived,gdp_district
+Yan,2025,gdp_services_projected,679.3291318350332,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2025,gdp_total_projected,887.5616718493491,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,net_migration_per_1000_yr,-1.617847411444151,"per 1,000/yr",derived,population/births/deaths

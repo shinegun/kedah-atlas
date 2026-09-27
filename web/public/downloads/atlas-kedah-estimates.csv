@@ -1,0 +1,253 @@
+district,year,indicator,value,unit,kind,source
+Baling,2024,jobs_agriculture_central,11.14486316250258,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_agriculture_low,7.611252602063073,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_agriculture_high,14.849360885387766,thousand,estimate,atlas-kedah model
+Baling,2025,gdp_agriculture_projected,424.4095347984989,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_mining_central,0.18754637164378898,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_mining_low,0.12589184793349353,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_mining_high,0.2502007315610272,thousand,estimate,atlas-kedah model
+Baling,2025,gdp_mining_projected,13.770527811619496,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_manufacturing_central,8.373244811941166,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_manufacturing_low,5.450521007705019,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_manufacturing_high,12.036721770627704,thousand,estimate,atlas-kedah model
+Baling,2025,gdp_manufacturing_projected,284.7356503493919,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_construction_central,1.8846862055126998,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_construction_low,1.1891571655320479,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_construction_high,2.767394945740675,thousand,estimate,atlas-kedah model
+Baling,2025,gdp_construction_projected,10.930078239037789,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2024,jobs_services_central,45.395651516630295,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_services_low,39.24811526877496,thousand,estimate,atlas-kedah model
+Baling,2024,jobs_services_high,51.449008451070696,thousand,estimate,atlas-kedah model
+Baling,2025,gdp_services_projected,1068.8705351246406,RM million (2015 prices),estimate,atlas-kedah model
+Baling,2025,gdp_total_projected,1816.1921200695601,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_agriculture_central,6.063431333465583,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_agriculture_low,4.258128610197605,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_agriculture_high,8.007529957939958,thousand,estimate,atlas-kedah model
+Bandar Baharu,2025,gdp_agriculture_projected,291.25090858922425,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Bandar Baharu,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_manufacturing_central,0.9466814086113317,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_manufacturing_low,0.595802385900741,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_manufacturing_high,1.4289995797212376,thousand,estimate,atlas-kedah model
+Bandar Baharu,2025,gdp_manufacturing_projected,37.93410292769097,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_construction_central,0.5892963607626912,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_construction_low,0.36989706419062124,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_construction_high,0.871033570591722,thousand,estimate,atlas-kedah model
+Bandar Baharu,2025,gdp_construction_projected,4.5765095970308485,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_services_central,13.796116726325108,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_services_low,11.589232440671042,thousand,estimate,atlas-kedah model
+Bandar Baharu,2024,jobs_services_high,16.020441196358274,thousand,estimate,atlas-kedah model
+Bandar Baharu,2025,gdp_services_projected,393.76231474741763,RM million (2015 prices),estimate,atlas-kedah model
+Bandar Baharu,2025,gdp_total_projected,732.9622739641754,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_agriculture_central,6.022133777284429,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_agriculture_low,3.9022525703777675,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_agriculture_high,8.404556474979612,thousand,estimate,atlas-kedah model
+Kota Setar,2025,gdp_agriculture_projected,893.422457773671,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_mining_central,0.03172722892512941,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_mining_low,0.019412116002391254,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_mining_high,0.046636603792123796,thousand,estimate,atlas-kedah model
+Kota Setar,2025,gdp_mining_projected,11.196302419702283,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_manufacturing_central,13.712811481317482,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_manufacturing_low,9.136965653682456,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_manufacturing_high,19.899869657376197,thousand,estimate,atlas-kedah model
+Kota Setar,2025,gdp_manufacturing_projected,1780.9066595023157,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_construction_central,23.350887249252633,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_construction_low,16.763441313263225,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_construction_high,29.671696747347582,thousand,estimate,atlas-kedah model
+Kota Setar,2025,gdp_construction_projected,537.9360997636348,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2024,jobs_services_central,114.24953206689996,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_services_low,101.44948017264309,thousand,estimate,atlas-kedah model
+Kota Setar,2024,jobs_services_high,125.85450637091162,thousand,estimate,atlas-kedah model
+Kota Setar,2025,gdp_services_projected,10233.265152101792,RM million (2015 prices),estimate,atlas-kedah model
+Kota Setar,2025,gdp_total_projected,13557.319355212632,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_agriculture_central,10.095266935632594,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_agriculture_low,6.974502850476266,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_agriculture_high,13.99405472043329,thousand,estimate,atlas-kedah model
+Kuala Muda,2025,gdp_agriculture_projected,875.6551876789207,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_mining_central,0.06070292562468322,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_mining_low,0.039743482105087574,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_mining_high,0.08740887201927722,thousand,estimate,atlas-kedah model
+Kuala Muda,2025,gdp_mining_projected,11.257288753665001,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_manufacturing_central,62.96739468294006,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_manufacturing_low,48.660358953036244,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_manufacturing_high,78.09249009463117,thousand,estimate,atlas-kedah model
+Kuala Muda,2025,gdp_manufacturing_projected,4793.675565932757,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_construction_central,18.57906841552941,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_construction_low,12.968949651489481,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_construction_high,24.358536978116188,thousand,estimate,atlas-kedah model
+Kuala Muda,2025,gdp_construction_projected,271.9075789779175,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2024,jobs_services_central,147.34757746677613,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_services_low,128.36246509349613,thousand,estimate,atlas-kedah model
+Kuala Muda,2024,jobs_services_high,166.00902852200954,thousand,estimate,atlas-kedah model
+Kuala Muda,2025,gdp_services_projected,7892.960223089777,RM million (2015 prices),estimate,atlas-kedah model
+Kuala Muda,2025,gdp_total_projected,13948.954384142065,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_agriculture_central,13.419189915577457,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_agriculture_low,9.195904779111485,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_agriculture_high,17.955251000079944,thousand,estimate,atlas-kedah model
+Kubang Pasu,2025,gdp_agriculture_projected,811.726470395578,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_mining_central,0.03343324402197998,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_mining_low,0.020648566737156576,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_mining_high,0.049045550504454874,thousand,estimate,atlas-kedah model
+Kubang Pasu,2025,gdp_mining_projected,4.185326759481901,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_manufacturing_central,12.314334992333684,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_manufacturing_low,8.25583797538708,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_manufacturing_high,17.669781721073132,thousand,estimate,atlas-kedah model
+Kubang Pasu,2025,gdp_manufacturing_projected,656.4317766411693,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_construction_central,5.595539553197005,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_construction_low,3.648046877403447,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_construction_high,7.916468091807899,thousand,estimate,atlas-kedah model
+Kubang Pasu,2025,gdp_construction_projected,50.44030196518801,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_services_central,75.4151732312257,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_services_low,66.01898065817396,thousand,estimate,atlas-kedah model
+Kubang Pasu,2024,jobs_services_high,84.08404428466172,thousand,estimate,atlas-kedah model
+Kubang Pasu,2025,gdp_services_projected,2736.393942068527,RM million (2015 prices),estimate,atlas-kedah model
+Kubang Pasu,2025,gdp_total_projected,4291.016327840701,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_agriculture_central,2.671316995812684,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_agriculture_low,1.7206990547754915,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_agriculture_high,3.8948649818051098,thousand,estimate,atlas-kedah model
+Kulim,2025,gdp_agriculture_projected,284.9192926004472,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_mining_central,0.1733122977463946,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_mining_low,0.11697769332544514,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_mining_high,0.242944391598855,thousand,estimate,atlas-kedah model
+Kulim,2025,gdp_mining_projected,43.84323060309894,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_manufacturing_central,95.28038166423164,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_manufacturing_low,79.96565916769495,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_manufacturing_high,107.47090145418788,thousand,estimate,atlas-kedah model
+Kulim,2025,gdp_manufacturing_projected,8991.4449981741,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_construction_central,10.073876899876952,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_construction_low,6.767551145587911,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_construction_high,14.074213203529988,thousand,estimate,atlas-kedah model
+Kulim,2025,gdp_construction_projected,170.07506613703538,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2024,jobs_services_central,54.96699119878522,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_services_low,42.757650074452584,thousand,estimate,atlas-kedah model
+Kulim,2024,jobs_services_high,69.78666933590111,thousand,estimate,atlas-kedah model
+Kulim,2025,gdp_services_projected,3626.768646794072,RM million (2015 prices),estimate,atlas-kedah model
+Kulim,2025,gdp_total_projected,13215.104751888335,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_agriculture_central,1.1458271838830376,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_agriculture_low,0.7308141283774975,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_agriculture_high,1.6787377983462153,thousand,estimate,atlas-kedah model
+Langkawi,2025,gdp_agriculture_projected,164.5649364963435,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_mining_central,0.018201840658417786,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_mining_low,0.011169347733166544,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_mining_high,0.02692708043538855,thousand,estimate,atlas-kedah model
+Langkawi,2025,gdp_mining_projected,5.399124037586496,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_manufacturing_central,0.6900577369398968,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_manufacturing_low,0.4377106846776583,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_manufacturing_high,1.0868851057587083,thousand,estimate,atlas-kedah model
+Langkawi,2025,gdp_manufacturing_projected,84.26501959618476,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_construction_central,13.786225470666816,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_construction_low,9.861127349728145,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_construction_high,17.74839919680777,thousand,estimate,atlas-kedah model
+Langkawi,2025,gdp_construction_projected,321.739144611543,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2024,jobs_services_central,30.05013310371043,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_services_low,25.370284100940808,thousand,estimate,atlas-kedah model
+Langkawi,2024,jobs_services_high,34.61077207644946,thousand,estimate,atlas-kedah model
+Langkawi,2025,gdp_services_projected,2385.078726428884,RM million (2015 prices),estimate,atlas-kedah model
+Langkawi,2025,gdp_total_projected,2983.1815806763834,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_agriculture_central,7.757527512687581,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_agriculture_low,5.352570394742147,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_agriculture_high,10.253501324568722,thousand,estimate,atlas-kedah model
+Padang Terap,2025,gdp_agriculture_projected,350.5949764561619,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_mining_central,0.03724789605820381,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_mining_low,0.023284436678419847,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_mining_high,0.05477573252174427,thousand,estimate,atlas-kedah model
+Padang Terap,2025,gdp_mining_projected,3.68634942653723,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_manufacturing_central,1.7858088408102564,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_manufacturing_low,1.1302793837793814,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_manufacturing_high,2.688674560601974,thousand,estimate,atlas-kedah model
+Padang Terap,2025,gdp_manufacturing_projected,74.3167289047852,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_construction_central,0.48385796647267576,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_construction_low,0.29389447193114504,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_construction_high,0.7168350294948667,thousand,estimate,atlas-kedah model
+Padang Terap,2025,gdp_construction_projected,3.9047732440887417,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2024,jobs_services_central,20.429181043961883,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_services_low,17.32910102650556,thousand,estimate,atlas-kedah model
+Padang Terap,2024,jobs_services_high,23.47701953652622,thousand,estimate,atlas-kedah model
+Padang Terap,2025,gdp_services_projected,581.1263828206606,RM million (2015 prices),estimate,atlas-kedah model
+Padang Terap,2025,gdp_total_projected,1021.2063642741488,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_agriculture_central,10.91348921685615,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_agriculture_low,7.582525837405512,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_agriculture_high,14.396799566260498,thousand,estimate,atlas-kedah model
+Pendang,2025,gdp_agriculture_projected,514.8370352343849,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_mining_central,0.2578281953214023,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_mining_low,0.1810614814275157,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_mining_high,0.3319582635222701,thousand,estimate,atlas-kedah model
+Pendang,2025,gdp_mining_projected,23.93885018830867,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_manufacturing_central,0.5431688614125522,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_manufacturing_low,0.3323288876421555,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_manufacturing_high,0.8392656446452493,thousand,estimate,atlas-kedah model
+Pendang,2025,gdp_manufacturing_projected,21.834403343549273,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_construction_central,0.5206417153575327,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_construction_low,0.3139340554302188,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_construction_high,0.7879857117132789,thousand,estimate,atlas-kedah model
+Pendang,2025,gdp_construction_projected,3.9277208392140834,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2024,jobs_services_central,30.755881855984676,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_services_low,26.563038337493538,thousand,estimate,atlas-kedah model
+Pendang,2024,jobs_services_high,34.58962385820173,thousand,estimate,atlas-kedah model
+Pendang,2025,gdp_services_projected,884.3018251604648,RM million (2015 prices),estimate,atlas-kedah model
+Pendang,2025,gdp_total_projected,1459.6703057056586,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_agriculture_central,10.460707712143858,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_agriculture_low,7.948296764943804,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_agriculture_high,12.473508355330333,thousand,estimate,atlas-kedah model
+Pokok Sena,2025,gdp_agriculture_projected,1019.544384446538,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Pokok Sena,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_manufacturing_central,1.4220466490175263,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_manufacturing_low,0.9045030097193244,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_manufacturing_high,2.0901229082944557,thousand,estimate,atlas-kedah model
+Pokok Sena,2025,gdp_manufacturing_projected,113.32451012317303,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_construction_central,1.3012497857190664,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_construction_low,0.845467180252873,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_construction_high,1.866555642808386,thousand,estimate,atlas-kedah model
+Pokok Sena,2025,gdp_construction_projected,18.52449373099606,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2024,jobs_services_central,9.711208074284913,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_services_low,7.478837558779808,thousand,estimate,atlas-kedah model
+Pokok Sena,2024,jobs_services_high,12.32068750402197,thousand,estimate,atlas-kedah model
+Pokok Sena,2025,gdp_services_projected,548.9672521054312,RM million (2015 prices),estimate,atlas-kedah model
+Pokok Sena,2025,gdp_total_projected,1713.0712976237917,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_agriculture_central,4.1995950286832775,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_agriculture_low,2.7779043272032307,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_agriculture_high,5.888947056046834,thousand,estimate,atlas-kedah model
+Sik,2025,gdp_agriculture_projected,134.684343904155,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Sik,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_manufacturing_central,1.8426815843266964,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_manufacturing_low,1.179815758430453,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_manufacturing_high,2.9241582531770547,thousand,estimate,atlas-kedah model
+Sik,2025,gdp_manufacturing_projected,57.216016242806404,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_construction_central,0.316759042334808,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_construction_low,0.1973608456630895,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_construction_high,0.48189591407423255,thousand,estimate,atlas-kedah model
+Sik,2025,gdp_construction_projected,1.9602684583741992,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2024,jobs_services_central,22.434943027032922,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_services_low,19.703204068137055,thousand,estimate,atlas-kedah model
+Sik,2024,jobs_services_high,24.666714341502388,thousand,estimate,atlas-kedah model
+Sik,2025,gdp_services_projected,477.9638677233017,RM million (2015 prices),estimate,atlas-kedah model
+Sik,2025,gdp_total_projected,676.8465667531892,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_agriculture_central,3.406651225470766,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_agriculture_low,2.1811594307073965,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_agriculture_high,4.82821946801877,thousand,estimate,atlas-kedah model
+Yan,2025,gdp_agriculture_projected,143.47347162607693,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_mining_central,0.0,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_mining_low,0.0,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_mining_high,0.0,thousand,estimate,atlas-kedah model
+Yan,2025,gdp_mining_projected,0.0,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_manufacturing_central,1.3213872861176783,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_manufacturing_low,0.8236551690166474,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_manufacturing_high,2.101317744561341,thousand,estimate,atlas-kedah model
+Yan,2025,gdp_manufacturing_projected,49.309568262072695,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_construction_central,1.2179113353176974,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_construction_low,0.764300662295085,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_construction_high,1.8497683021443372,thousand,estimate,atlas-kedah model
+Yan,2025,gdp_construction_projected,8.863964435939577,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2024,jobs_services_central,24.847610688382968,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_services_low,22.213209664598036,thousand,estimate,atlas-kedah model
+Yan,2024,jobs_services_high,27.166131636422687,thousand,estimate,atlas-kedah model
+Yan,2025,gdp_services_projected,679.3291318350332,RM million (2015 prices),estimate,atlas-kedah model
+Yan,2025,gdp_total_projected,887.5616718493491,RM million (2015 prices),estimate,atlas-kedah model

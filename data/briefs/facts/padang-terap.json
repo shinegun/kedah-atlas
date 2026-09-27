@@ -1,0 +1,72 @@
+{
+ "district": "Padang Terap",
+ "type": "farm",
+ "gdp_year": 2020,
+ "gdp_rm_million": 868.0,
+ "share_of_kedah_gdp_pct": 1.9,
+ "gdp_per_capita_rm": 13200.0,
+ "gdp_per_capita_rank_in_malaysia": [
+  112,
+  159
+ ],
+ "kedah_gdp_per_capita_rm": 21600.0,
+ "sector_share_pct": {
+  "agriculture": 38.0,
+  "mining": 1.0,
+  "manufacturing": 7.0,
+  "construction": 0.0,
+  "services": 54.0
+ },
+ "gdp_growth_2015_2019_pct_a_year": 1.92,
+ "kedah_gdp_growth_2015_2019_pct_a_year": 4.32,
+ "shift_share_local_points": -6.0,
+ "income_median_rm": {
+  "2019": 3722.0,
+  "2022": 3902.0,
+  "2024": 3954.0
+ },
+ "kedah_income_median_rm": {
+  "2019": 4325,
+  "2022": 4402,
+  "2024": 4895
+ },
+ "income_vs_kedah_pct": -19.0,
+ "poverty_pct": {
+  "2019": 9.1,
+  "2022": 8.9,
+  "2024": 8.0
+ },
+ "kedah_poverty_pct": {
+  "2019": 8.8,
+  "2022": 9.0,
+  "2024": 8.4
+ },
+ "unemployment_pct": 2.5,
+ "unemployment_year": 2024,
+ "kedah_unemployment_pct": 2.5,
+ "population_thousand": 67.9,
+ "population_year": 2025,
+ "net_migration_per_1000_a_year": -2.2,
+ "farm_jobs_share_pct_estimate": 25.0,
+ "nightlights": 0.423,
+ "forecast_model": "shift_share",
+ "gdp_nowcast": {
+  "year": 2025,
+  "p50": 1014.0,
+  "p10": 936.0,
+  "p90": 1098.0
+ },
+ "gdp_projection": {
+  "year": 2030,
+  "p50": 1170.0,
+  "p10": 1028.0,
+  "p90": 1331.0
+ },
+ "gdp_growth_projection_pct_a_year": 2.9,
+ "gdp_per_capita_projection_rm": 16700.0,
+ "highlights": [
+  "Agriculture makes up 38% of the district economy — 3.1× the Kedah average.",
+  "GDP grew 1.9% a year (2015–2019), slower than Kedah (4.3%). Local industries lagged the same industries statewide.",
+  "Median household income is RM3,954 a month — 19% below the Kedah median."
+ ]
+}

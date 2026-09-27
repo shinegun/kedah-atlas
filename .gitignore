@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+# Raw downloads are reproducible with pipeline/fetch.py; keep the manifest
+data/raw/*
+!data/raw/manifest.json
+# Web
+web/node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+.DS_Store
+
+# Original photo downloads (web versions live in web/public/photos)
+data/photos/*.orig.jpg
