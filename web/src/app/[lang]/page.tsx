@@ -120,6 +120,10 @@ export default async function Home({ params }: PageProps<"/[lang]">) {
           <Link href={`/${lang}/data/`}>{d.nav.data}</Link>
           {" · "}
           <Link href={`/${lang}/kaedah/`}>{d.nav.method}</Link>
+          {" · "}
+          <Link href={`/${lang}/pelabur/`}>{tx(lang, "Untuk pelabur", "For investors")}</Link>
+          {" · "}
+          <Link href={`/${lang}/tentang/`}>{tx(lang, "Tentang", "About")}</Link>
         </p>
       </div>
     </>

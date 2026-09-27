@@ -192,6 +192,7 @@ export interface StackSpreadProps {
   /** CSS length the sticky stage sits below (e.g. a sticky header's height) */
   stickyTop?: string;
   className?: string;
+  id?: string;
 }
 
 export default function StackSpread({
@@ -208,6 +209,7 @@ export default function StackSpread({
   textFadeStart = 0.3,
   stickyTop = "0px",
   className,
+  id,
   headingAs: Heading = "h1",
 }: StackSpreadProps) {
   const wrapRef = useRef<HTMLElement>(null);
@@ -233,6 +235,7 @@ export default function StackSpread({
   return (
     <section
       ref={wrapRef}
+      id={id}
       className={`relative w-full ${className ?? ""}`}
       // positions and sizes are relative to this section's width (cqw), so the
       // spread fits beside a sidebar as well as full-width

@@ -73,7 +73,9 @@ export default function KedahSpread({ lang }: { lang: Locale }) {
     <StackSpread
       cards={cards}
       stickyTop="var(--header-h)"
-      className="-mt-6"
+      // Full screen on desktop: bleed under the sidebar, which fades in once the spread scrolls away.
+      id="intro"
+      className="-mt-6 intro-bleed"
       bgColor="var(--surface)"
       cardRadius={18}
       headline={
