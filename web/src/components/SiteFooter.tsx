@@ -7,7 +7,7 @@ import { atlas, districts } from "@/lib/atlas";
 import { t, tx, type Locale } from "@/lib/i18n";
 import { STORIES, storyHref } from "@/lib/stories";
 
-const REPO = "https://github.com/shinegun/kedah-atlas";
+import { REPO } from "@/lib/site";
 
 export default function SiteFooter({ lang }: { lang: Locale }) {
   const d = t(lang);

@@ -192,6 +192,9 @@ export default async function Story({ params }: PageProps<"/[lang]/cerita/[story
               "kami tidak menemui data pelawat bagi Baling. Kesan pilihan ini lebih kecil dan mengambil masa lebih lama berbanding A dan B.",
               "we found no visitor data for Baling. This option is smaller and longer-term than A and B.")}
           </p>
+          <p>
+            <Link href={`/${lang}/jalan/baling/`}>{tx(lang, "Rintis kami: jalan-jalan di Baling, ikut cadangan orang tempatan →", "Our pilot: exploring Baling with tips from locals →")}</Link>
+          </p>
         </div>
 
         <h2>{tx(lang, "3. Berapa besar jurangnya?", "3. How big is the gap?")}</h2>

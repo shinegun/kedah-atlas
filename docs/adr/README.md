@@ -7,6 +7,7 @@ Short records of decisions that shape the site, why we made them, and what they 
 | [0001](0001-readers-and-entry-points.md) | Who the site is for, and a page for each reader | Accepted (2026-09-28) |
 | [0002](0002-collapsible-sidebar-and-home-intro.md) | Collapsible sidebar and full-screen home intro | Accepted (2026-09-28) |
 | [0003](0003-kedahku-name-and-mark.md) | Rename to KedahKu, with a Gunung Jerai mark | Accepted (2026-09-28) |
+| [0004](0004-jalan-jalan-local-guides.md) | Jalan-jalan: local guides, piloted in Baling | Accepted (2026-09-28) |
 
 ## Template
 

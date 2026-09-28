@@ -1,0 +1,74 @@
+name: Cadang tempat (Jalan-jalan)
+description: Kongsi tempat atau pengalaman di Kedah yang anda kenali. / Suggest a place or experience in Kedah that you know.
+title: "[Jalan-jalan] "
+labels: ["jalan-jalan"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih! Kami akan menghubungi anda di sini sebelum menyiarkan apa-apa.
+        **Isu ini boleh dilihat oleh semua orang. Jangan tulis nombor telefon atau alamat rumah di sini.**
+
+        Thank you! We'll reply here before we publish anything. **This issue is public: don't post phone numbers or home addresses.**
+  - type: input
+    id: place
+    attributes:
+      label: Nama tempat / Place name
+      placeholder: cth. Gunung Baling
+    validations:
+      required: true
+  - type: input
+    id: district
+    attributes:
+      label: Daerah / District
+      placeholder: cth. Baling
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Apa yang boleh dibuat di sana? / What do you do there?
+    validations:
+      required: true
+  - type: textarea
+    id: getting-there
+    attributes:
+      label: Cara ke sana / How to get there
+      description: Jalan masuk, tempat letak kereta, sesuai untuk kereta biasa atau tidak. / The last stretch, parking, fine for an ordinary car or not.
+  - type: input
+    id: best-time
+    attributes:
+      label: Waktu terbaik / Best time to go
+      placeholder: cth. pagi, selepas hujan, musim buah Jun–Ogos
+  - type: input
+    id: cost
+    attributes:
+      label: Kos / Cost
+      placeholder: cth. percuma, RM5 seorang, pemandu RM50 sekumpulan
+  - type: dropdown
+    id: guide
+    attributes:
+      label: Perlukah pemandu tempatan? / Do you need a local guide?
+      options:
+        - Ya / Yes
+        - Tidak / No
+        - Tidak pasti / Not sure
+  - type: input
+    id: contact
+    attributes:
+      label: Pemandu, homestay atau pengusaha yang boleh dihubungi (nama sahaja) / A guide, homestay or operator we could contact (name only)
+  - type: input
+    id: about-you
+    attributes:
+      label: Siapa anda? / Who are you?
+      description: Nama yang boleh kami paparkan, dan kaitan anda dengan tempat ini. / The name we can show, and how you know this place.
+      placeholder: cth. Siti, anak Kupang, Baling
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Izin / Permission
+      options:
+        - label: Saya bersetuju nama saya dipaparkan sebagai penyumbang. / I agree to be named as the contributor.
+          required: true

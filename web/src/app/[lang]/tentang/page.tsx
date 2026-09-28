@@ -3,7 +3,7 @@ import Link from "next/link";
 import { atlas, districts } from "@/lib/atlas";
 import { LOCALES, t, tx, type Locale } from "@/lib/i18n";
 
-const REPO = "https://github.com/shinegun/kedah-atlas";
+import { REPO } from "@/lib/site";
 
 export async function generateMetadata({ params }: PageProps<"/[lang]/tentang">): Promise<Metadata> {
   const lang = (await params).lang as Locale;

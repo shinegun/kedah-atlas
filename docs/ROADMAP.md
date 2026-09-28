@@ -22,6 +22,12 @@
 - [ ] Parliament / DUN level views (OpenDOSM has income, poverty, labour by constituency)
 - [ ] More stories: Kulim (manufacturing boom), Langkawi (tourism & unemployment), Pokok Sena (farm productivity)
 
+## Jalan-jalan pilot (started 2026-09-28, ADR 0004)
+- [x] Baling guide page, suggestion form, rules and checker
+- [ ] Collect the first 8–10 places from Baling locals (`docs/jalan.md`)
+- [ ] Add a page counter so the pilot can be measured
+- [ ] Decide whether to extend to more districts
+
 ## Full vision (≈+6 months)
 - [ ] **What-if simulator** using DOSM input–output tables
 - [ ] **Time machine**: district series back to Census 1980/1991/2000/2010 (needs digitising)

@@ -7,6 +7,7 @@ import StoryDeck, { type Slide } from "@/components/StoryDeck";
 import geo from "@/data/kedah.geo.json";
 import { atlas, districts, getDistrict, last, SECTORS } from "@/lib/atlas";
 import { TAGLINE } from "@/lib/districtCopy";
+import { guideSlugs } from "@/lib/jalan";
 import { PHOTOS, photoSrc } from "@/lib/photos";
 import { fmt, LOCALES, rm, rmBillion, sectorLabel, tx, typeInfo, type Locale } from "@/lib/i18n";
 
@@ -205,6 +206,7 @@ export default async function DistrictSlides({ params }: PageProps<"/[lang]/daer
           <h2 className="sl-q">{tx(lang, "Perkara untuk dipantau", "What to watch")}</h2>
           {brief && <p className="sl-lede-dark">{brief.watch[1] ?? brief.watch[0]}</p>}
           <div className="sl-actions">
+            {guideSlugs.includes(d.slug) && <Link className="sl-btn primary" href={`/${lang}/jalan/${d.slug}/`}>{tx(lang, `Jalan-jalan di ${d.name}`, `Explore ${d.name} like a local`)} →</Link>}
             {d.slug === "baling" && <Link className="sl-btn primary" href={`/${lang}/cerita/baling/`}>{tx(lang, "Baca cerita Baling", "Read the Baling story")} →</Link>}
             <Link className="sl-btn" href={`/${lang}/banding/#a=${d.slug}`}>{tx(lang, "Bandingkan dengan daerah lain", "Compare with another district")}</Link>
             <Link className="sl-btn" href={`/${lang}/unjuran/`}>{tx(lang, "Cuba simulator masa depan", "Try the future simulator")}</Link>

@@ -60,6 +60,11 @@ def malay_strings():
         brief = json.loads(path.read_text())
         for i, text in enumerate(t for items in brief.get("ms", {}).values() for t in items):
             yield path, i + 1, text
+    # local guides (Malay side of every bilingual field)
+    for path in sorted((ROOT / "web/src/data/jalan").glob("*.json")):
+        text = path.read_text()
+        for m in re.finditer(r'"ms":\s*"((?:[^"\\]|\\.)*)"', text):
+            yield path, text[: m.start()].count("\n") + 1, m.group(1)
 
 
 def main() -> int:

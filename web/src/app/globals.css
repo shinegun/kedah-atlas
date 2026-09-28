@@ -893,3 +893,33 @@ details summary { cursor: pointer; color: var(--ink-2); font-size: 0.88rem; }
   }
   @media (prefers-reduced-motion: reduce) { .share-prompt { animation: none; } }
 }
+
+/* ---------- jalan-jalan: local guide pages (/[lang]/jalan/[slug]) ---------- */
+@layer base {
+  .jl-hero { position: relative; overflow: hidden; margin: 8px 0 28px; padding: 40px 36px 44px; border-radius: 28px; background: var(--band); color: var(--band-ink); }
+  .jl-photo { position: absolute; inset: 0; background-size: cover; background-position: center; }
+  .jl-photo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(10, 8, 6, 0.88) 0%, rgba(10, 8, 6, 0.65) 55%, rgba(10, 8, 6, 0.3) 100%); }
+  .jl-hero-text { position: relative; max-width: 40rem; }
+  .jl-hero h1 { color: #fff; }
+  .jl-pilot { display: inline-block; margin: 0 0 12px; padding: 3px 10px; border-radius: 999px; background: var(--band-gold); color: #16130f; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+  .jl-lede { margin: 0; color: #e9e3d8; font-size: 1.1rem; line-height: 1.5; }
+  .jl-why { max-width: 720px; margin-bottom: 28px; }
+  .jl-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 14px; margin: 14px 0 20px; }
+  .jl-card { display: flex; flex-direction: column; gap: 6px; padding: 20px 22px; border-radius: 22px; border: 1px solid var(--border); background: var(--surface); }
+  .jl-card h3 { margin: 0; font-family: var(--serif); font-weight: 400; font-size: 1.6rem; line-height: 1.1; }
+  .jl-card p { margin: 0; }
+  .jl-kind { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); }
+  .jl-wish { border-style: dashed; }
+  .jl-wish .sl-btn { align-self: flex-start; margin-top: auto; min-height: 40px; font-size: 0.92rem; }
+  .jl-wish .secondary { flex: 0 0 auto; }
+  .jl-data { color: var(--muted); }
+  .jl-facts { margin: 6px 0; display: grid; gap: 8px; }
+  .jl-facts dt { font-size: 0.78rem; font-weight: 700; color: var(--muted); }
+  .jl-facts dd { margin: 0; }
+  .jl-contact { padding-top: 8px; border-top: 1px solid var(--border); }
+  .jl-by { margin-top: auto !important; font-size: 0.8rem; color: var(--muted); }
+  @media (max-width: 700px) {
+    .jl-hero { padding: 28px 20px 40px; border-radius: 22px; }
+    .jl-photo::after { background: linear-gradient(180deg, rgba(10, 8, 6, 0.55) 0%, rgba(10, 8, 6, 0.9) 100%); }
+  }
+}

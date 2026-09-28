@@ -13,6 +13,10 @@ Bilingual (Bahasa Melayu default, English) atlas of Kedah's 12 districts. See RE
 
 - District briefs live in `data/briefs/<slug>.json` (drafted from `data/briefs/facts/`, see `pipeline/briefs.py`). They may state only numbers in the fact sheet; `pipeline/check_briefs.py` must pass. They show an "AI draft" label until a person sets `"reviewed": true`.
 
+## Jalan-jalan (local guides)
+
+- Places in `web/src/data/jalan/<slug>.json` come only from named locals; never write or research entries yourself. Rules in `docs/jalan.md`; `pipeline/check_jalan.py` must pass.
+
 ## Data honesty
 
 - Every number shows source + year. Modelled numbers carry the Anggaran/Estimate badge and are explained on /kaedah.
@@ -21,6 +25,6 @@ Bilingual (Bahasa Melayu default, English) atlas of Kedah's 12 districts. See RE
 ## Checks before finishing
 
 ```bash
-uv run python pipeline/build.py && uv run python pipeline/check_bm.py && uv run python pipeline/check_briefs.py
+uv run python pipeline/build.py && uv run python pipeline/check_bm.py && uv run python pipeline/check_briefs.py && uv run python pipeline/check_jalan.py
 pnpm --dir web exec tsc --noEmit && pnpm --dir web lint && pnpm --dir web build
 ```

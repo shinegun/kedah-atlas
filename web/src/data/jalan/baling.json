@@ -1,0 +1,52 @@
+{
+  "district": "baling",
+  "wishlist": [
+    {
+      "id": "gunung-baling",
+      "kind": "nature",
+      "title": { "ms": "Mendaki Gunung Baling", "en": "Climbing Gunung Baling" },
+      "ask": {
+        "ms": "Dari mana laluan bermula, berapa lama pendakiannya, dan perlukah pemandu?",
+        "en": "Where does the trail start, how long is the climb, and do you need a guide?"
+      }
+    },
+    {
+      "id": "gua-gunung-pulai",
+      "kind": "nature",
+      "title": { "ms": "Gua-gua Gunung Pulai", "en": "The Gunung Pulai caves" },
+      "ask": {
+        "ms": "Gua mana yang selamat dimasuki, dan siapa yang boleh membawa pelawat?",
+        "en": "Which caves are safe to enter, and who can take visitors in?"
+      }
+    },
+    {
+      "id": "rundingan-baling",
+      "kind": "history",
+      "title": { "ms": "Jejak Rundingan Baling 1955", "en": "Where the 1955 Baling Talks happened" },
+      "ask": {
+        "ms": "Apa yang masih boleh dilihat hari ini, dan siapa yang boleh menceritakan sejarahnya?",
+        "en": "What can you still see today, and who can tell the story?"
+      }
+    },
+    {
+      "id": "dusun-kelulut",
+      "kind": "farm",
+      "title": { "ms": "Dusun buah dan madu kelulut", "en": "Fruit orchards and kelulut honey" },
+      "ask": {
+        "ms": "Dusun atau penternak kelulut mana yang menerima pelawat, dan bila musimnya?",
+        "en": "Which orchards or kelulut farms welcome visitors, and when is the season?"
+      },
+      "crops": ["rambutan", "kelulut_bee"]
+    },
+    {
+      "id": "makan",
+      "kind": "food",
+      "title": { "ms": "Tempat makan kegemaran orang Baling", "en": "Where Baling people actually eat" },
+      "ask": {
+        "ms": "Kedai mana yang anda bawa kawan dari luar, dan apa yang patut mereka pesan?",
+        "en": "Where do you take friends from out of town, and what should they order?"
+      }
+    }
+  ],
+  "experiences": []
+}
