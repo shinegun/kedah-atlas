@@ -5,6 +5,7 @@ import "../globals.css";
 import { districts } from "@/lib/atlas";
 import SiteFooter from "@/components/SiteFooter";
 import SiteHeader from "@/components/SiteHeader";
+import SharePrompt from "@/components/SharePrompt";
 import { hasLocale, LOCALES, t } from "@/lib/i18n";
 import { RAIL_SCRIPT } from "@/lib/sidebar";
 
@@ -48,6 +49,7 @@ export default async function LangLayout({ children, params }: LayoutProps<"/[la
         <main>{children}</main>
         <SiteFooter lang={lang} />
         </div>
+        <SharePrompt lang={lang} districtNames={Object.fromEntries(districts.map((d) => [d.slug, d.name]))} />
       </body>
     </html>
   );

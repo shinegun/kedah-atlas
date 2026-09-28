@@ -8,6 +8,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState, type ReactNode } from "react";
 import { tx, type Locale } from "@/lib/i18n";
+import { DECK_END_EVENT } from "@/components/SharePrompt";
 
 export type Slide = { key: string; theme?: "dark" | "light" | "accent" | "gold"; label: string; content: ReactNode };
 
@@ -29,6 +30,7 @@ export default function StoryDeck({ lang, title, slides, exit, next, syncHash = 
   const go = useCallback((to: number) => {
     const k = Math.max(0, Math.min(n - 1, to));
     setI(k);
+    if (k === n - 1) window.dispatchEvent(new Event(DECK_END_EVENT));
     if (syncHash) history.replaceState(null, "", k ? `#${k + 1}` : window.location.pathname);
   }, [n, syncHash]);
 
