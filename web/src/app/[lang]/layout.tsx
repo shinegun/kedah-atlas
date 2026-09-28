@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Instrument_Serif } from "next/font/google";
 import { notFound } from "next/navigation";
+import { Analytics } from "@vercel/analytics/next";
 import "../globals.css";
 import { districts } from "@/lib/atlas";
 import SiteFooter from "@/components/SiteFooter";
@@ -50,6 +51,8 @@ export default async function LangLayout({ children, params }: LayoutProps<"/[la
         <SiteFooter lang={lang} />
         </div>
         <SharePrompt lang={lang} districtNames={Object.fromEntries(districts.map((d) => [d.slug, d.name]))} />
+        {/* Cookieless page counts (Vercel Web Analytics); disclosed on /tentang. */}
+        <Analytics />
       </body>
     </html>
   );

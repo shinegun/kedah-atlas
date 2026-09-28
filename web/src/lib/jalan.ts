@@ -5,7 +5,7 @@
 
 import baling from "@/data/jalan/baling.json";
 import type { Locale } from "@/lib/i18n";
-import { REPO } from "@/lib/site";
+import { REPO, SUGGEST } from "@/lib/site";
 
 type Text = Record<Locale, string>;
 
@@ -57,8 +57,13 @@ export const isLive = (e: Experience) =>
 export const guideSlugs = GUIDES.map((g) => g.district);
 export const getGuide = (slug: string) => GUIDES.find((g) => g.district === slug);
 
-/** GitHub issue form for suggesting a place, prefilled with the district and (optionally) the place. */
+/** Where "suggest a place" links go (configured in lib/site.ts), prefilled with the district and place. */
 export function suggestUrl(district: string, place?: string) {
+  if (SUGGEST.whatsapp) {
+    const text = `Salam KedahKu! Saya nak cadangkan tempat di ${district}${place ? `: ${place}` : "."}`;
+    return `https://wa.me/${SUGGEST.whatsapp}?text=${encodeURIComponent(text)}`;
+  }
+  if (SUGGEST.form) return SUGGEST.form;
   const title = `[Jalan-jalan] ${district}${place ? `: ${place}` : ""}`;
   return `${REPO}/issues/new?template=cadang-tempat.yml&title=${encodeURIComponent(title)}`;
 }

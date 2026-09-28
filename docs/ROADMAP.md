@@ -25,7 +25,7 @@
 ## Jalan-jalan pilot (started 2026-09-28, ADR 0004)
 - [x] Baling guide page, suggestion form, rules and checker
 - [ ] Collect the first 8–10 places from Baling locals (`docs/jalan.md`)
-- [ ] Add a page counter so the pilot can be measured
+- [x] Add a page counter so the pilot can be measured (Vercel Web Analytics)
 - [ ] Decide whether to extend to more districts
 
 ## Full vision (≈+6 months)

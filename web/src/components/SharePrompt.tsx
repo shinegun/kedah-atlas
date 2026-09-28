@@ -5,6 +5,7 @@
 // long page read after some time on it), shows at most once per visit, and backs
 // off for weeks after "Not now" or a share. Never on arrival, never a full-screen overlay.
 
+import { track } from "@vercel/analytics";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { tx, type Locale } from "@/lib/i18n";
@@ -109,18 +110,22 @@ export default function SharePrompt({ lang, districtNames }: Props) {
     snooze(SNOOZE_DISMISS);
     setOpen(false);
   }
-  const shared = () => snooze(SNOOZE_SHARED);
+  // Counted (without personal data) so we can tell which channels people actually use.
+  const shared = (channel: string) => {
+    snooze(SNOOZE_SHARED);
+    track("share", { channel });
+  };
   const copy = async () => {
     try {
       await navigator.clipboard.writeText(url);
       setCopied(true);
-      shared();
+      shared("copy");
     } catch {}
   };
   const native = async () => {
     try {
       await navigator.share({ title: pageTitle, text: message, url });
-      shared();
+      shared("native");
       setOpen(false);
     } catch {} // cancelled: leave the card open
   };
@@ -142,7 +147,7 @@ export default function SharePrompt({ lang, districtNames }: Props) {
       <div className="share-actions">
         {targets.map((x) => (
           <a key={x.name} href={x.href} target="_blank" rel="noopener noreferrer"
-            className={x.primary ? "share-btn primary" : "share-btn"} onClick={shared}>
+            className={x.primary ? "share-btn primary" : "share-btn"} onClick={() => shared(x.name)}>
             {x.name}
           </a>
         ))}

@@ -16,7 +16,7 @@ We first considered making the guides exclusive ("only on KedahKu"). That would 
 - **A guide page per district** at `/[lang]/jalan/<slug>/`, generated only for districts with a file in `web/src/data/jalan/`. Pilot: Baling only. It is linked from the last slide of that district's deck and from the Baling story. It is not in the main navigation until the pilot proves itself.
 - **Places come from named locals, never from us.** The pilot launches with no places. It shows a "we're collecting" list of places we want locals to tell us about (the wishlist), each with a prefilled suggestion link. The one number on the wishlist (orchard and kelulut area) comes from `atlas.json` with its source and year.
 - **Rules of their own** (`docs/jalan.md`): named contributor, date last checked with a one-year expiry, cost stated plainly, no sponsorships, a guide rather than a map pin for risky places, contact details only with consent. `pipeline/check_jalan.py` enforces them. `check_bm.py` scans the Malay.
-- **Suggestions go through a GitHub issue form** (`.github/ISSUE_TEMPLATE/cadang-tempat.yml`), bilingual, warning that issues are public so no phone numbers. The link is built in one place (`suggestUrl` in `web/src/lib/jalan.ts`) so it can be switched to another channel.
+- **Suggestions go through a GitHub issue form** for now (`.github/ISSUE_TEMPLATE/cadang-tempat.yml`), bilingual, warning that issues are public so no phone numbers. The link is built in one place (`suggestUrl` in `web/src/lib/jalan.ts`) so it can be switched to another channel.
 
 ## Alternatives considered
 

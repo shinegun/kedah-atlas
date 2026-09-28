@@ -98,6 +98,9 @@ export default async function About({ params }: PageProps<"/[lang]/tentang">) {
           <li>{tx(lang,
             "Bukan masa nyata. Laman ini dikemas kini apabila DOSM menerbitkan data baharu.",
             "Not real time. The site is updated when DOSM publishes new data.")}</li>
+          <li>{tx(lang,
+            "Tidak menjejaki anda. Kami hanya mengira bilangan pelawat bagi setiap halaman, tanpa kuki dan tanpa mengenal pasti sesiapa (Vercel Web Analytics).",
+            "Not tracking you. We only count visits to each page, without cookies and without identifying anyone (Vercel Web Analytics).")}</li>
         </ul>
 
         <h2>{tx(lang, "Cara angka dihasilkan", "How the numbers are made")}</h2>

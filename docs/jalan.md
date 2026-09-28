@@ -16,7 +16,7 @@ These are not statistics, so the site's data rules don't cover them. They follow
 
 ## Adding a place
 
-1. A suggestion arrives as a GitHub issue (form: `.github/ISSUE_TEMPLATE/cadang-tempat.yml`), or you collect it in person.
+1. A suggestion arrives through the channel set in `SUGGEST` (`web/src/lib/site.ts`): WhatsApp, a form, or by default a GitHub issue (`.github/ISSUE_TEMPLATE/cadang-tempat.yml`). Or you collect it in person.
 2. Talk to the contributor (and the guide or operator, if there is one) using the questions below.
 3. Add an entry to `experiences` in `web/src/data/jalan/<slug>.json` with `"status": "draft"`. Remove the matching `wishlist` item if there is one.
 4. When the details are confirmed, set `"status": "published"` and `checked` to today, then run `uv run python pipeline/check_jalan.py`.
@@ -52,4 +52,4 @@ These are not statistics, so the site's data rules don't cover them. They follow
 
 ## Measuring the pilot
 
-The pilot works if locals send places in and people share the guide page. There is no analytics on the site yet. Before judging the pilot, add a privacy-friendly page counter (for example Vercel Web Analytics) and compare shares and visits for `/jalan/baling/` against the district deck.
+The pilot works if locals send places in and people share the guide page. Vercel Web Analytics counts page views (cookieless; disclosed on /tentang). Compare visits to `/jalan/baling/` with the Baling deck, and watch the `share` events from the share prompt (custom events need a Vercel Pro plan).
